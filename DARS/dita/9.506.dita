@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="DARS_DARS_topic_121">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">9.506</ph> Procedures.</title>
+   <conbody>
+      <p id="BonrFj" outputclass="Text Body">(b)(1) A sample OCCI Memorandum for Record template is located at <xref format="html" href="https://disa.deps.mil/org/PL2/Pages/DITCORefs.aspx" scope="external">DARS PGI</xref> 9.506(b)(1)</p>
+   </conbody>
+</concept>

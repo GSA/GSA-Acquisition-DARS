@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="DARS_DARS_topic_307">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">45.101</ph> Definitions.</title>
+   <conbody>
+      <p id="MziPpb" outputclass="Normal">
+         <i>Transferred property</i>
+         <i>.</i> Tangible items shipped from one contractor’s location to a different contractor’s location for a follow-on contract without inspection.</p>
+      <p id="yctNnh" outputclass="Normal">
+         <i>Transitioned property</i>
+         <i>.</i> Direct-issued items such as laptops, cell phones, tablets which are not transferred. These items are transitioned by being turned over toa COR or property custodian on the last day of the contact for inspection, and any necessary provisioning/equipment refresh prior to being provided to a subsequent contractor.</p>
+   </conbody>
+</concept>

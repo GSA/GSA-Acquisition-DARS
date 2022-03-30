@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="DARS_DARS_topic_161">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">215.406-3</ph> Documenting the negotiation.</title>
+   <conbody>
+      <p id="POiiTG" outputclass="Text Body">The Contract Business Analysis Repository (CBAR) User's Manual and the CBAR PCO list (includes specific contacts for each section/org) are located in <xref format="html" href="https://disa.deps.mil/org/PL2/Pages/DITCORefs.aspx" scope="external">DARS PGI</xref>
+         <u></u> 215.406-3.</p>
+   </conbody>
+</concept>

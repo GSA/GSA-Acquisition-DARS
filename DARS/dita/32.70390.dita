@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="DARS_DARS_topic_258">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">32.703-90</ph> Solicitations issued without funding.</title>
+   <conbody>
+      <p id="egYoGw" outputclass="List1">(a) A Request for Proposal (RFP) or Request for Quotation (RFQ) may be released, for DISA internal mission partners only, conditioned on the availability of funds, only when paragraphs (1) or (2) below apply.</p>
+      <p id="rrTqqy" outputclass="List1">(1) When the resulting contract is to be funded by Procurement or Research, Development, Test, and Evaluation Appropriations, and the program/requirement has been included in the President’s budget as submitted to Congress. In these instances, the program manager shall provide the contracting officer a written statement (coordinated with OCFO) that these funds will be used for the proposed acquisition and although not presently available, a reasonable expectation exists that funding will be authorized and available upon enactment of the Authorization and/or Appropriations Acts.</p>
+      <p id="FLWals" outputclass="List1">(2) DISA Directorates shall submit a commitment letter within the requirements package in order to in order release a solicitation prior to the funds being available. The commitment letter shall state the following and be signed by the Program Management Representative and the Financial Account Managers (FAM) at the Branch Chief level:</p>
+      <p id="OVxaSG" outputclass="List1">The goods and/or services are legitimate and represent a bona fide need for FY <i>(insert fiscal year and color of money(appropriated type of funds or DWCF</i>)<i>)</i>. Funds have been programmed or committed but are not yet currently available for $<i>(insert amount)</i> of the commitment amount.</p>
+      <p id="RbQmfx" outputclass="Normal">The funds are expected to be released on or about <i>(insert availability date)</i>.</p>
+      <p id="lkk5wbmb" outputclass="List9">_________________________</p>
+      <p id="iJRMlp" outputclass="Normal">
+         <i>**(Program Management Representative name and signature block)</i>
+      </p>
+      <p id="lnh34es" outputclass="List9">_________________________</p>
+      <p id="URkfdJ" outputclass="Normal">
+         <i>(</i>
+         <i>Financial Account Manager’s</i>
+         <i>name and signature block)</i>
+      </p>
+      <p id="cEOlIL" outputclass="Text Body">**NOTE: If there are issues with the Program Management Representative signing, notify the Program Management Representative’s chain of command.</p>
+      <p id="skuvRI" outputclass="List1">(b) Solicitations for such contracts may be issued so long as potential offerors are apprised that although no funds are currently available to award the contract, the PMO and FAM have provided written assertion that the requirement is legitimate and funds have been programmed or committed it will be funded.</p>
+      <p id="FmmXRR" outputclass="List1">(c) The Contracting Officer shall include FAR 52.232-18, Availability of Funds, in all solicitations issued without funding under the authority of DARS 32.703-90.</p>
+   </conbody>
+</concept>

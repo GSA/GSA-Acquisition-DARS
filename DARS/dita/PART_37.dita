@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DARS_DARS_topic_275">
+      <title outputclass="1 heading Ctr" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PART 37</ph> –– SERVICE CONTRACTING</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_37.1.dita#DARS_DARS_topic_276">SUBPART 37.1 –– SERVICE CONTRACTS––GENERAL</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="237.104.dita#DARS_DARS_topic_277">237.104 Personal services contracts.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="237.170.dita#DARS_DARS_topic_278">237.170 Approval of contracts and task orders for services.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="237.1702.dita#DARS_DARS_topic_279">237.170-2 Approval requirements</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="DARS_DARS_topic_167">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">15.606-2</ph> Evaluation.</title>
+   <conbody>
+      <p id="RBCDRW" outputclass="Normal">(a) PL22 will coordinate comprehensive evaluations and will attach or imprint on each unsolicited proposal circulated for evaluation, if not already present, the legend required by FAR 15.609(d) within 15 business days after receipt of the unsolicited proposal.</p>
+      <p id="aeKPiN" outputclass="Normal">(b) If the unsolicited proposal meets the criteria in FAR 15.605 and 15.606-1, PL22 will forward the unsolicited proposal to the appropriate technical representative, as designated by the appropriate CoCO, for a comprehensive technical review. The technical review shall include a recommendation for acceptance or rejection of the proposal after considering the factors outlined in FAR 15.603. The technical evaluation recommendation to accept or reject the unsolicited proposal shall be documented with supporting rationale.</p>
+      <p id="IgfkMo" outputclass="Text Body">(S-90) PL22 will review the entire package including the unsolicited proposals and the technical evaluation and forward the package to legal for review. Legal will provide comments concurring or nonconcurring with the evaluation decision.</p>
+   </conbody>
+</concept>

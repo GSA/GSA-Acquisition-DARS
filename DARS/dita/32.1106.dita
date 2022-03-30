@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="DARS_DARS_topic_262">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">32.1106</ph> EFT mechanisms.</title>
+   <conbody>
+      <p id="rwQBns" outputclass="Text Body">(S-90) <i>Delivery Ticket Invoicing (DTI).</i> The DTI contract payment method may be applied against firm fixed price contracts or Communication Service Authorization (CSA) orders for telecommunications services in which the receiving document, when combined with the contract/order, contains sufficient information to determine a contractor's payment entitlement, without requiring the contractor to submit an invoice. A Contracting Officer who determines to implement the DTI contract payment method in a contract or order shall follow the DTI Standard Operating Procedures located in the <xref format="aspx" href="https://disa.deps.mil/org/PL2/Pages/DITCORefs.aspx" scope="external">
+            <u>Corporate Library</u>
+         </xref>.</p>
+   </conbody>
+</concept>

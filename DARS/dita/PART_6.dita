@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DARS_DARS_topic_80">
+      <title outputclass="1 heading Ctr" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PART 6</ph> –– COMPETITION REQUIREMENTS</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_6.2.dita#DARS_DARS_topic_81">SUBPART 6.2 — FULL AND OPEN COMPETITION AFTER EXCLUSION OF SOURCES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="6.202.dita#DARS_DARS_topic_82">6.202 Establishing or maintaining alternative sources.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_6.3.dita#DARS_DARS_topic_83">SUBPART 6.3 — OTHER THAN FULL AND OPEN COMPETITION</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="206.3021.dita#DARS_DARS_topic_84">206.302-1 Only one responsible source and no other supplies or services will satisfy agency requirements.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="206.3024.dita#DARS_DARS_topic_85">206.302-4 International agreement.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="206.3027.dita#DARS_DARS_topic_86">206.302-7 Public interest.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="6.3031.dita#DARS_DARS_topic_87">6.303-1 Requirements.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="6.30390.dita#DARS_DARS_topic_88">6.303-90 Amendment/Modification Justification format.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

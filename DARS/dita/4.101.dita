@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="DARS_DARS_topic_55">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">4.101</ph> Contracting officer's signature.</title>
+   <conbody>
+      <p id="noIdYb" outputclass="Text Body">(S-90) Original signatures or electronic signatures which utilize PKI certificates are considered binding and legal.</p>
+      <p id="FSymRN" outputclass="Text Body">(S-91) Automatic telecommunications contract/order modifications that account for usage charges marked with IDEAS Generated Auto-Modification signature blocks are considered binding and legal.</p>
+   </conbody>
+</concept>

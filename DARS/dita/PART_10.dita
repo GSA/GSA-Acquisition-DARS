@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DARS_DARS_topic_123">
+      <title outputclass="1 heading Ctr" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PART 10</ph> – MARKET RESEARCH</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="10.001.dita#DARS_DARS_topic_124">10.001 Policy.</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="210.001.dita#DARS_DARS_topic_125">210.001 Policy.</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="10.002.dita#DARS_DARS_topic_126">10.002 Procedures.</xref>
+               </p>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

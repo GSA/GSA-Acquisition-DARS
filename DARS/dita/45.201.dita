@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="DARS_DARS_topic_312">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">45.201</ph> Solicitation.</title>
+   <conbody>
+      <p id="XnQQas" outputclass="Normal">(S-90) When GFP is anticipated, include enclosure 18b, GFP Attachment (<xref format="asp" href="https://www.ditco.disa.mil/contracts/SampleDocTemplates.asp" scope="external">
+            <u>https://www.ditco.disa.mil/contracts/SampleDocTemplates.asp</u>
+         </xref>) or the downloaded GFP attachment from the GFP module (<xref format="html" href="https://piee.eb.mil/" scope="external">
+            <u>https://piee.eb.mil</u>
+         </xref>/), in all solicitations.</p>
+      <p id="jcKxsq" outputclass="Normal">For letter solicitations, or any solicitation not using a standard 13 digit solicitation number, the GFP Attachment Excel document at 18b is the preferred format.</p>
+      <p id="dnEVCu" outputclass="Normal">When the amount of GFP could vary in performance based acquisitions or other similar acquisition types, the GFP Attachment Excel document may list a reasonable range for the quantity of GFP to be provided in the solicitation. This will allow the offeror to propose the exact number of GFP items within the listed range.</p>
+   </conbody>
+</concept>

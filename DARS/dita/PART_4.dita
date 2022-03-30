@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DARS_DARS_topic_53">
+      <title outputclass="1 heading Ctr" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PART 4</ph> –– ADMINISTRATIVE MATTERS</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_4.1.dita#DARS_DARS_topic_54">SUBPART 4.1 –– CONTRACT EXECUTION</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="4.101.dita#DARS_DARS_topic_55">4.101 Contracting officer's signature.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="4.102.dita#DARS_DARS_topic_56">4.102 Contractor’s signature.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_4.4.dita#DARS_DARS_topic_57">SUBPART 4.4 — SAFEGUARDING CLASSIFIED INFORMATION WITHIN INDUSTRY</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="4.403.dita#DARS_DARS_topic_58">4.403 Responsibilities of contracting officers.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_4.5.dita#DARS_DARS_topic_59">SUBPART 4.5 — ELECTRONIC COMMERCE IN CONTRACTING</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="4.502.dita#DARS_DARS_topic_60">4.502 Policy.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_4.6.dita#DARS_DARS_topic_61">SUBPART 4.6 – CONTRACT REPORTING</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="204.604.dita#DARS_DARS_topic_62">204.604 Responsibilities.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_4.8.dita#DARS_DARS_topic_63">SUBPART 4.8 –CONTRACT FILES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="204.802.dita#DARS_DARS_topic_64">204.802 Contract files.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="204.804.dita#DARS_DARS_topic_65">204.804 Closeout of contract files.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_4.10.dita#DARS_DARS_topic_66">SUBPART 4.10 — UNIFORM USE OF LINE ITEMS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="4.1005.dita#DARS_DARS_topic_67">4.1005 Data elements for line items and subline items.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="4.10051.dita#DARS_DARS_topic_68">4.1005-1 Required data elements.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_204.71.dita#DARS_DARS_topic_69">SUBPART 204.71 — UNIFORM CONTRACT LINE ITEM NUMBERING SYSTEM</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="204.71032.dita#DARS_DARS_topic_70">204.7103-2 Numbering procedures.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="204.7105.dita#DARS_DARS_topic_71">204.7105 Contract exhibits and attachments.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="DARS_DARS_topic_176">
+   <title outputclass="Heading 2">
+      <ph props="autonumber">17.000</ph> Definitions.</title>
+   <conbody>
+      <p id="kJGZmp">
+         <i>Bridge Contract</i> is a short-term sole-source contract awarded generally to the incumbent contractor to continue critical services when a follow-on competitive contract action could not be completed in a timely manner. It provides needed services until the program and contracting offices can establish a new competitive contract. The SPE Bridge Decision Briefing, located in <xref format="aspx" href="https://disa.deps.mil/org/PL2/Pages/DITCORefs.aspx" scope="external">
+            <u>DARS PGI</u>
+         </xref>
+         <u></u>17.000, is not required for non-DISA contract actions nor is it required for bridge contracts made necessary by GAO or Agency-level protests. Although a bridge may not require a decision brief, it still must be added onto the <xref format="aspx" href="https://disa.deps.mil/org/PL2/Lists/BridgeChart/AllItems.aspx" scope="external">
+            <u>Bridge Report</u>
+         </xref>.</p>
+   </conbody>
+</concept>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="DARS_DARS_topic_124">
+   <title outputclass="Heading 2">
+      <ph props="autonumber">10.001</ph> Policy.</title>
+   <conbody>
+      <p id="AEHaWV" outputclass="Text Body">(b) All Sources Sought Notices (SSN) and Requests for Information (RFI) for acquisitions with an estimated value exceeding $5M, with the exception of the Sole Source Notice of Intent, shall be forwarded to <xref format="mailto" href="mailto:disa.meade.osbp.mbx.ditco-small-business-office@mail.mil" scope="external">the</xref>
+         <xref format="mailto" href="mailto:disa.meade.osbp.mbx.ditco-small-business-office@mail.mil" scope="external">
+            <u>DISA Office of Small Business Programs (OSBP)</u>
+         </xref>for review to ensure, for example, potential sources are not requested to submit more than the minimum information necessary. OSBP has 5 business days to complete the review.</p>
+   </conbody>
+</concept>

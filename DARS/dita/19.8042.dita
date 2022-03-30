@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="DARS_DARS_topic_216">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">19.804-2</ph> Agency offering.</title>
+   <conbody>
+      <p id="CMOYzU" outputclass="Text Body">(a) Sample offering letter is located at <xref format="html" href="https://www.ditco.disa.mil/DITCOContractingTemplates/" scope="external">
+            <u>https://www.ditco.disa.mil/DITCOContractingTemplates/</u>
+         </xref>
+         <ph> </ph>under Small Business Guides and Templates.</p>
+      <p id="eOhVRq" outputclass="Text Body">(S-90) Prior to requesting release of a requirement from the 8(a) program, coordinate with OSBP. Sample 8(a) release letter and package requirements are located at<xref format="html" href="https://www.ditco.disa.mil/DITCOContractingTemplates/" scope="external">
+            <u></u>
+            <ph>
+               <u>https://www.ditco.disa.mil/DITCOContractingTemplates/</u>
+            </ph>
+         </xref> under Small Business Guides and Templates.</p>
+   </conbody>
+</concept>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="DARS_DARS_topic_13">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">201.304</ph> Agency control and compliance procedures.</title>
+   <conbody>
+      <p id="YKYSmt" outputclass="Text Body">(S-90) DISA PL21 shall review all DISA acquisition-related procedures (both mandatory and non-mandatory) that impact the Agency prior to implementation. The procedures are generally implemented as DISA Acquisition Templates, Samples, Guides, and Deskbooks and referenced in the appropriate part in the DARS. Appendix A contains a listing of all current templates, samples, guides, and deskbooks. DISA PL21 facilitates implementation of all DISA Acquisition Documents. DISA procurement and acquisition policy and guidance can be found at <xref format="asp" href="http://www.ditco.disa.mil/hq/aqinfo.asp" scope="external">
+            <u>http://www.ditco.disa.mil/hq/aqinfo.asp</u>.</xref>
+      </p>
+   </conbody>
+</concept>

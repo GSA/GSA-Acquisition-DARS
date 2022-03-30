@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="DARS_DARS_topic_109">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">209.104-1</ph> General standards.</title>
+   <conbody>
+      <p id="IZNKcX" outputclass="Text Body">(g)(i) <i>Ownership or control by the government of a country that is a state sponsor of terrorism. (</i>See DARS 225.771-4)</p>
+      <p id="gBcQri" outputclass="Normal">(g)(ii) <i>Ownership or control by a foreign government when access to proscribed information is required.</i>
+      </p>
+      <p id="eBAoDC" outputclass="Normal">(B) Submit the request for advice to thePL21, <xref format="mailto" href="mailto:disa.meade.PLD.mbx.pl21-policy-branch@mail.mil" scope="external">
+            <u>Contract Policy Branch</u>
+         </xref> to serve as the liaison between DISA and Deputy Director, DPC/ Contract Policy and International Contracting (CPIC).</p>
+      <p id="hBMNib" outputclass="Text Body">(C) Submit waiver request to the PL21, <xref format="mailto" href="mailto:disa.meade.PLD.mbx.pl21-policy-branch@mail.mil" scope="external">
+            <u>Contract Policy Branch</u>
+         </xref> to serve as the liaison between DISA and DPC.</p>
+   </conbody>
+</concept>

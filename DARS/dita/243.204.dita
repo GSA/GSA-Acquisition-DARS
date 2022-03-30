@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="DARS_DARS_topic_300">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">243.204</ph> –70–7 Plans and reports.</title>
+   <conbody>
+      <p id="mWfYiR" outputclass="Normal">(S-90) <i>Authorization</i>. The contracting officer shall obtain approval from the Head of the Contracting Activity (HCA) before entering into an Unpriced Change Order (UCO) or modifying the scope of a UCO when performance has already begun. The Request for HCA approval of a UCO is located in <xref format="aspx" href="https://disa.deps.mil/org/PL2/Pages/DITCORefs.aspx" scope="external">DARS PGI</xref> 217.7404-1(S-90) and must be maintained in the contract file.</p>
+      <p id="CJafaX" outputclass="Normal">(S-91) <i>Processing.</i> The PL2 Contract Policy &amp; Operations Division will track the processing of UCOs (see <xref format="html" href="https://www.acquisition.gov/dfars" scope="external">
+            <u>DFARS</u>
+         </xref> 217.7405 &amp; <xref format="html" href="https://www.acquisition.gov/dfarspgi" scope="external">
+            <u>DFARS PGI</u>
+         </xref> 217.7405) from providing a UCO tracking number to reviewing the final negotiated agreement, at all dollar values. UCOs valued greater than $5M will be reported to the Director, Defense Pricing and Contracting in accordance with the DISA Consolidated UCA Management Plan. Contract data shall be maintained in the format required by the spreadsheet referenced in <xref format="html" href="https://www.acquisition.gov/dfarspgi" scope="external">
+            <u>DFARS PGI</u>
+         </xref> 217.7405(2)(ii). PL2 will track approval of the UCO by the HCA, and upon approval, retain a copy to complete the bi-annual report.</p>
+      <p id="sWYIEe" outputclass="Text Body">(S-92) <i>Review.</i> The contracting officer shall obtain a review of the proposed profit/fee from PL84, <xref format="mailto" href="mailto:disa.scott.ditco.mbx.cost-and-pricing-branch-pl842@mail.mil" scope="external">
+            <u>Cost and Pricing Branch</u>
+         </xref>
+         <ph>
+            <u>.</u>
+         </ph> A UCO Tracking Number shall be obtained from the PL21, <xref format="mailto" href="mailto:disa.meade.PLD.mbx.pl21-policy-branch@mail.mil" scope="external">
+            <u>Contract Policy Branch</u>
+         </xref>. A compliance review of the final negotiated agreement shall be obtained from the PL22, <xref format="mailto" href="mailto:disa.meade.PLD.mbx.pl22-policy-compliance-review@mail.mil" scope="external">
+            <u>Contract Operations Branch</u>
+         </xref> prior to definitization.</p>
+      <p id="uYbEeD" outputclass="Text Body">(S-93) <i>Management Plan (D&amp;F)</i>. All UCOs are required to adhere to the Consolidated UCA Management Plan required by <xref format="html" href="https://www.acquisition.gov/dfarspgi" scope="external">
+            <u>DFARS PGI</u>
+         </xref> 217.7405<xref format="html" href="https://www.acq.osd.mil/dpap/dars/pgi/pgi_htm/PGI217_74.htm" scope="external">(2)(i).</xref> Prior to definitization, contracting officers shall satisfy the requirements of the UCA Management Plan by executing a D&amp;F for HCA approval IAWIAW the Consolidated UCA Management Plan (<xref format="html" href="https://www.acquisition.gov/dfarspgi" scope="external">
+            <u>DFARS PGI</u>
+         </xref> 217.7405(2)(i)), which shall be maintained in the contract file. The D&amp;F template is located in <xref format="aspx?RootFolder=%2Forg%2FPL2%2FOther%2FPROCEDURES%20GUIDES%20AND%20INSTRUCTIONS%20%28PGI%29&amp;FolderCTID=0x012000175D246D4A108E42B091C3F17BE4BDFE&amp;View=%7B998EB6D7%2DDD02%2D4224%2D9626%2D13F9934F7F4C%7D" href="https://disa.deps.mil/org/PL2/Pages/DITCORefs.aspx?RootFolder=%2Forg%2FPL2%2FOther%2FPROCEDURES%20GUIDES%20AND%20INSTRUCTIONS%20%28PGI%29&amp;FolderCTID=0x012000175D246D4A108E42B091C3F17BE4BDFE&amp;View=%7B998EB6D7%2DDD02%2D4224%2D9626%2D13F9934F7F4C%7D" scope="external">
+            <u>DARS PGI</u>
+         </xref> 217.7405(S-91).</p>
+   </conbody>
+</concept>

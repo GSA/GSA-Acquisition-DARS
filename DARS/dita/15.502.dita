@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="DARS_DARS_topic_163">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">15.502</ph> Applicability.</title>
+   <conbody>
+      <p id="xsJzzc" outputclass="Text Body">The DoD Source Selection Procedures and the Outline for Debriefings are located at the <xref format="asp" href="https://www.ditco.disa.mil/DITCOContractingTemplates/Default.asp" scope="external">
+            <u>DISA</u>
+         </xref>
+         <ph> </ph>
+         <xref format="asp" href="https://www.ditco.disa.mil/DITCOContractingTemplates/Default.asp" scope="external">
+            <u>Procurement - Contracting Procedures, Guides and Templates</u>
+         </xref> website.</p>
+   </conbody>
+</concept>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DARS_DARS_topic_1">
+      <title outputclass=" 1 heading Ctr" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PART 1</ph> –– FEDERAL ACQUISITION REGULATIONS SYSTEM</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_1.1.dita#DARS_DARS_topic_2">SUBPART 1.1 –– PURPOSE, AUTHORITY, ISSUANCE</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="1.101.dita#DARS_DARS_topic_3">1.101 Purpose.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="201.104.dita#DARS_DARS_topic_4">201.104 Applicability.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="201.1053.dita#DARS_DARS_topic_5">201.105-3 Copies.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="201.170.dita#DARS_DARS_topic_6">201.170 Peer reviews.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_1.2.dita#DARS_DARS_topic_7">SUBPART 1.2 — ADMINISTRATION</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="1.2011.dita#DARS_DARS_topic_8">1.201-1 The two councils.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="201.20170.dita#DARS_DARS_topic_9">201.201-70 Maintenance of Procedures, Guidance, and Information.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_1.3.dita#DARS_DARS_topic_10">SUBPART 1.3 — AGENCY ACQUISITION REGULATIONS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="201.301.dita#DARS_DARS_topic_11">201.301 Policy.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="201.303.dita#DARS_DARS_topic_12">201.303 Publication and codification.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="201.304.dita#DARS_DARS_topic_13">201.304 Agency control and compliance procedures.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_1.4.dita#DARS_DARS_topic_14">SUBPART 1.4 –– DEVIATIONS FROM THE FAR</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="201.403.dita#DARS_DARS_topic_15">201.403 Individual deviations.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_1.5.dita#DARS_DARS_topic_16">SUBPART 1.5 — AGENCY AND PUBLIC PARTICIPATION</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="1.5012.dita#DARS_DARS_topic_17">1.501-2 Opportunity for public comments.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_1.6.dita#DARS_DARS_topic_18">SUBPART 1.6 — CAREER DEVELOPMENT, CONTRACTING AUTHORITY, AND RESPONSIBILITIES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="201.6022.dita#DARS_DARS_topic_19">201.602-2 Responsibilities.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="1.6023.dita#DARS_DARS_topic_20">1.602-3 Ratification of unauthorized commitments.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="1.603.dita#DARS_DARS_topic_21">1.603 Selection, appointment, and termination of appointment for contracting officers.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="1.6031.dita#DARS_DARS_topic_22">1.603-1 General.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="1.603190.dita#DARS_DARS_topic_23">1.603-1-90 Ordering officers.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="1.604.dita#DARS_DARS_topic_24">1.604 Contracting Officer’s Representative (COR).</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_1.90.dita#DARS_DARS_topic_25">SUBPART 1.90 — PROCUREMENT OVERSIGHT</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="1.9000.dita#DARS_DARS_topic_26">1.9000 Review and approval of contract actions.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="1.9001.dita#DARS_DARS_topic_27">1.9001 Procurement management reviews (PMR) and special interest reviews.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="1.9002.dita#DARS_DARS_topic_28">1.9002 Contract document approval signature routing procedures.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

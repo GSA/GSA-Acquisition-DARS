@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="DARS_DARS_topic_152">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">15.304</ph> Evaluation factors and significant sub factors.</title>
+   <conbody>
+      <p id="oEVSxc" outputclass="Text Body">(d)(S-90) Small Business Participation Evaluation:</p>
+      <p id="lXkMzQ" outputclass="Text Body">In acquisitions that require the use of FAR Clause 52.219-9, Small Business Subcontracting Plan, other than those based on the lowest price technically acceptable source selection process, the extent of participation of small business, including those in socioeconomic categories, shall be addressed through the submission of a Small Business Participation Plan. The contracting officer shall coordinate with the OSBP before issuing a solicitation when the evaluation assesses the extent of small business participation. The DoD Source Selection Procedures provides additional information regarding the evaluation of small business participation and it may be accessed at: <xref format="pdf" href="https://www.acq.osd.mil/dpap/policy/policyvault/USA004370-14-DPAP.pdf" scope="external">
+            <u>https://www.acq.osd.mil/dpap/policy/policyvault/USA004370-14-DPAP.pdf</u>
+         </xref>
+      </p>
+      <p id="XpdjVQ" outputclass="Text Body">Small Business Participation Plan Post Award Responsibilities:</p>
+      <p id="xTLFxg" outputclass="Normal">The Small Business Participation Plan shall be incorporated into the contract (as an attachment). Twice a year (every six months), the contractor shall report to the Contracting Officer’s Representative and the Contracting Officer with a copy to the OSBP information concerning their performance under the Plan. This reporting requirement is separate from the eSRS Subcontracting Plan report submission requirements. The contracting officer will determine reporting period dates that are consistent with the contract award date.</p>
+   </conbody>
+</concept>

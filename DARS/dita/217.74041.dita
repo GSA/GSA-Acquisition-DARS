@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="DARS_DARS_topic_194">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">217.7404-1</ph> Authorization.</title>
+   <conbody>
+      <p id="qdRmau" outputclass="Normal">(S-90) The contracting officer shall obtain approval from the HCA before entering into an UCA or modifying the scope of an UCA when performance has already begun. The Request for HCA approval of a UCA is located in <xref format="aspx" href="https://disa.deps.mil/org/PL2/Pages/DITCORefs.aspx" scope="external">
+            <u>DARS PGI</u>
+         </xref> 217.7404-1(S-90) and must be maintained in the contract file.</p>
+   </conbody>
+</concept>

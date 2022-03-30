@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="DARS_DARS_topic_132">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">211.274-6</ph> Contract clauses.</title>
+   <conbody>
+      <p id="WUcRyL" outputclass="Normal">(a)(1) DISA/PSD contracting officers shall not enter text in paragraph (c) of the clause at DFARS 252.211-7003, Item Unique Identification and Valuation, as there are no HCA exemptions and many firms tag items regardless of dollar value. Leaving the paragraph (c) blank (e.g., do not insert "See Schedule") accepts industries' independent IUID and tagging initiatives and supports the logistics supply chain and serial management of equipment irrespective of dollar value.</p>
+   </conbody>
+</concept>

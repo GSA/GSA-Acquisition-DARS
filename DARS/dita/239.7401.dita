@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="DARS_DARS_topic_287">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">239.7401</ph> Definitions.</title>
+   <conbody>
+      <p id="dbkVEZ" outputclass="Text Body">(S-90) Leasing/provisioning of telecommunications circuits (commoditized bandwidth) is covered under the FAR 2.101 Definitions, Commercial item definition, paragraph (1) in that it is a utility customarily used by the general public or by non-governmental entities for purposes other than governmental purposes, and has been sold, leased, or licensed to the general public; or, has been offered for sale, lease, or license to the general public. Thus, the FAR definition of a commercially available off-the-shelf (COTS) item would also cover leasing/provisioning of telecommunications circuits (commoditized bandwidth).</p>
+      <p id="iPpmAN">(S-91) Unless there is an associated service offered with the telecommunications and that associated service is billed separately, the leasing/provisioning of the telecommunications circuit (commoditized bandwidth) is not a "service contract." IAW FAR 22.001, a "service contract means any Government contract, or subcontract thereunder, the principal purpose of which is to furnish services in the United States through the use of service employees."</p>
+   </conbody>
+</concept>
