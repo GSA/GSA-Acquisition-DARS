@@ -2,48 +2,48 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="DARS_DARS_topic_281">
+   <topic id="DARS_PART_39">
       <title outputclass="1 heading Ctr" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PART 39</ph> — ACQUISITION OF INFORMATION TECHNOLOGY</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_39.1.dita#DARS_DARS_topic_282">SUBPART 39.1 – GENERAL</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_39.1.dita#DARS_SUBPART_39.1">SUBPART 39.1 – GENERAL</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="39.101.dita#DARS_DARS_topic_283">39.101 Policy.</xref>
+                        <xref outputclass="fm:TOC" href="39.101.dita#DARS_39.101">39.101 Policy.</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_39.2.dita#DARS_DARS_topic_284">SUBPART 39.2 —INFORMATION AND COMMUNICATION TECHNOLOGY</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_39.2.dita#DARS_SUBPART_39.2">SUBPART 39.2 —INFORMATION AND COMMUNICATION TECHNOLOGY</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="39.201.dita#DARS_DARS_topic_285">39.201 Scope of subpart.</xref>
+                        <xref outputclass="fm:TOC" href="39.201.dita#DARS_39.201">39.201 Scope of subpart.</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_239.74.dita#DARS_DARS_topic_286">SUBPART 239.74 —TELECOMMUNICATIONS SERVICES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_239.74.dita#DARS_SUBPART_239.74">SUBPART 239.74 —TELECOMMUNICATIONS SERVICES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="239.7401.dita#DARS_DARS_topic_287">239.7401 Definitions.</xref>
+                        <xref outputclass="fm:TOC" href="239.7401.dita#DARS_239.7401">239.7401 Definitions.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="239.7407.dita#DARS_DARS_topic_288">239.7407 Type of contract.</xref>
+                        <xref outputclass="fm:TOC" href="239.7407.dita#DARS_239.7407">239.7407 Type of contract.</xref>
                      </p>
                   </li>
                </ul>

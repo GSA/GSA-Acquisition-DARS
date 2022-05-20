@@ -2,56 +2,56 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="DARS_DARS_topic_97">
+   <topic id="DARS_PART_8">
       <title outputclass="1 heading Ctr" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PART 8</ph> –– REQUIRED SOURCES OF SUPPLIES AND SERVICES</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_8.4.dita#DARS_DARS_topic_98">SUBPART 8.4 – FEDERAL SUPPLY SCHEDULES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_8.4.dita#DARS_SUBPART_8.4">SUBPART 8.4 – FEDERAL SUPPLY SCHEDULES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="8.404.dita#DARS_DARS_topic_99">8.404 Use of Federal Supply Schedules.</xref>
+                        <xref outputclass="fm:TOC" href="8.404.dita#DARS_8.404">8.404 Use of Federal Supply Schedules.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="8.405.dita#DARS_DARS_topic_100">8.405 Ordering procedures for Federal Supply Schedules.</xref>
+                        <xref outputclass="fm:TOC" href="8.405.dita#DARS_8.405">8.405 Ordering procedures for Federal Supply Schedules.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="8.4055.dita#DARS_DARS_topic_101">8.405-5 Small business.</xref>
+                        <xref outputclass="fm:TOC" href="8.4055.dita#DARS_8.4055">8.405-5 Small business.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="8.4056.dita#DARS_DARS_topic_102">8.405-6 Limiting sources.</xref>
+                        <xref outputclass="fm:TOC" href="8.4056.dita#DARS_8.4056">8.405-6 Limiting sources.</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_208.70.dita#DARS_DARS_topic_103">SUBPART 208.70 –– COORDINATED ACQUISITIONS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_208.70.dita#DARS_SUBPART_208.70">SUBPART 208.70 –– COORDINATED ACQUISITIONS</xref>
                </p>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_208.74.dita#DARS_DARS_topic_104">SUBPART 208.74 – ENTERPRISE SOFTWARE AGREEMENTS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_208.74.dita#DARS_SUBPART_208.74">SUBPART 208.74 – ENTERPRISE SOFTWARE AGREEMENTS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="208.7402.dita#DARS_DARS_topic_105">208.7402 General.</xref>
+                        <xref outputclass="fm:TOC" href="208.7402.dita#DARS_208.7402">208.7402 General.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="208.7403.dita#DARS_DARS_topic_106">208.7403 Acquisition procedures.</xref>
+                        <xref outputclass="fm:TOC" href="208.7403.dita#DARS_208.7403">208.7403 Acquisition procedures.</xref>
                      </p>
                   </li>
                </ul>
