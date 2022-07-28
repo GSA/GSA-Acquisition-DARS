@@ -2,44 +2,44 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="DARS_DARS_topic_89">
+   <topic id="DARS_PART_7">
       <title outputclass="1 heading Ctr" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PART 7</ph> –– ACQUISITION PLANNING</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_7.1.dita#DARS_DARS_topic_90">SUBPART 7.1 –– ACQUISITION PLANS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_7.1.dita#DARS_SUBPART_7.1">SUBPART 7.1 –– ACQUISITION PLANS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="7.101.dita#DARS_DARS_topic_91">7.101 Definitions.</xref>
+                        <xref outputclass="fm:TOC" href="7.101.dita#DARS_7.101">7.101 Definitions.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="7.103.dita#DARS_DARS_topic_92">7.103 Agency–head responsibilities.</xref>
+                        <xref outputclass="fm:TOC" href="7.103.dita#DARS_7.103">7.103 Agency–head responsibilities.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="7.104.dita#DARS_DARS_topic_93">7.104 General procedures</xref>
+                        <xref outputclass="fm:TOC" href="7.104.dita#DARS_7.104">7.104 General procedures</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="7.105.dita#DARS_DARS_topic_94">7.105 Contents of written acquisition plans.</xref>
+                        <xref outputclass="fm:TOC" href="7.105.dita#DARS_7.105">7.105 Contents of written acquisition plans.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="7.107.dita#DARS_DARS_topic_95">7.107 Additional requirements for acquisitions involving consolidation, bundling, or substantial bundling.</xref>
+                        <xref outputclass="fm:TOC" href="7.107.dita#DARS_7.107">7.107 Additional requirements for acquisitions involving consolidation, bundling, or substantial bundling.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="7.1072.dita#DARS_DARS_topic_96">7.107-2 Consolidation.</xref>
+                        <xref outputclass="fm:TOC" href="7.1072.dita#DARS_7.1072">7.107-2 Consolidation.</xref>
                      </p>
                   </li>
                </ul>

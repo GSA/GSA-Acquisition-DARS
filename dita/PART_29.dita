@@ -2,19 +2,19 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="DARS_DARS_topic_247">
+   <topic id="DARS_PART_29">
       <title outputclass="1 heading Ctr" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PART 29</ph> ––TAXES</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_29.1.dita#DARS_DARS_topic_248">SUBPART 29.1 — GENERAL</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_29.1.dita#DARS_SUBPART_29.1">SUBPART 29.1 — GENERAL</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="29.101.dita#DARS_DARS_topic_249">29.101 Resolving tax problems.</xref>
+                        <xref outputclass="fm:TOC" href="29.101.dita#DARS_29.101">29.101 Resolving tax problems.</xref>
                      </p>
                   </li>
                </ul>
