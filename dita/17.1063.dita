@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="DARS_17.1063"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">17.106-3</ph> Special procedures applicable to DoD, NASA, and the Coast Guard.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="SltRyR" outputclass="Text Body" class="- topic/p ">(e) The HCA may approve recurring costs in cancellation ceilings for multi-year contracts.</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DARS_17.1063" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">17.106-3</ph> Special procedures applicable to DoD, NASA, and the Coast Guard.</title>
+   <conbody>
+      <p id="SltRyR" outputclass="Text Body">(e) The HCA may approve recurring costs in cancellation ceilings for multi-year contracts.</p>
    </conbody>
 </concept>

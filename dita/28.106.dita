@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="DARS_28.106"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass=" 3 heading Left" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">28.106</ph> Administration.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="1vptvq" class="- topic/p "/>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DARS_28.106" ditaarch:DITAArchVersion="1.3">
+   <title outputclass=" 3 heading Left">
+      <ph props="autonumber">28.106</ph> Administration.</title>
+   <conbody>
+      <p id="1vptvq"></p>
    </conbody>
 </concept>

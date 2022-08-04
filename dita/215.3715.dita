@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="DARS_215.3715"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">215.371-5</ph> Waiver.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="WrXAOY" outputclass="List1" class="- topic/p ">(b) Prior to awarding to the only offeror received when
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DARS_215.3715" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">215.371-5</ph> Waiver.</title>
+   <conbody>
+      <p id="WrXAOY" outputclass="List1">(b) Prior to awarding to the only offeror received when
          utilizing the competitive procedures, the contracting officer shall document a
          recommendation that resoliciting the procurement for an additional period of at least 30
          days is not in the best interest of the Government (sample determination and
-         findings/waiver is at <xref format="html"
-               href="https://disa.deps.mil/org/PL2/Pages/DITCORefs.aspx"
-               scope="external"
-               class="- topic/xref ">DARS PGI</xref> 215.371-5(b). The HCA delegates the waiver authority to the
+         findings/waiver is at <xref format="html" href="https://disa.deps.mil/org/PL2/Pages/DITCORefs.aspx" scope="external">DARS PGI</xref> 215.371-5(b). The HCA delegates the waiver authority to the
          appropriate DITCO Chief of the Contracting Office (CoCO).</p>
    </conbody>
 </concept>

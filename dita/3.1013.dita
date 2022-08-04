@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="DARS_3.1013"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">3.101-3</ph> Agency regulations.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="yZdqEP" outputclass="Text Body" class="- topic/p ">The DoD Directive 5500.07, Standards of Conduct, DoD 5500.07-R, Joint Ethics Regulation, DISA Instruction 100-50-06, Standards of Ethical Conduct, and DISA Employees’ Guide to the Standards of Conduct, provide extensive agency guidance governing this topic.</p>
-      <p id="GwFWkJ" outputclass="Text Body" class="- topic/p ">Contact General Counsel (GC) with any questions.</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DARS_3.1013" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">3.101-3</ph> Agency regulations.</title>
+   <conbody>
+      <p id="yZdqEP" outputclass="Text Body">The DoD Directive 5500.07, Standards of Conduct, DoD 5500.07-R, Joint Ethics Regulation, DISA Instruction 100-50-06, Standards of Ethical Conduct, and DISA Employees’ Guide to the Standards of Conduct, provide extensive agency guidance governing this topic.</p>
+      <p id="GwFWkJ" outputclass="Text Body">Contact General Counsel (GC) with any questions.</p>
    </conbody>
 </concept>

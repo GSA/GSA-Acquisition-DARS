@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="DARS_19.5022"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">19.502-2</ph> Total small business set-asides.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="mzKZVU" outputclass="List1" class="- topic/p ">(b) When determining a “reasonable expectation,” a lack of responses to a SSN and/or RFI is not adequate justification to rule out a small business set-aside. Additional market research is required prior to making that determination.</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DARS_19.5022" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">19.502-2</ph> Total small business set-asides.</title>
+   <conbody>
+      <p id="mzKZVU" outputclass="List1">(b) When determining a “reasonable expectation,” a lack of responses to a SSN and/or RFI is not adequate justification to rule out a small business set-aside. Additional market research is required prior to making that determination.</p>
    </conbody>
 </concept>

@@ -1,66 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="DARS_217.7405"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 2" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">217.7405</ph> Plans and reports.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="UZGHTB" outputclass="Normal" class="- topic/p ">(S-90) <i class="+ topic/ph hi-d/i ">Processing.</i> The PL2 Contract Policy &amp;
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DARS_217.7405" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 2">
+      <ph props="autonumber">217.7405</ph> Plans and reports.</title>
+   <conbody>
+      <p id="UZGHTB" outputclass="Normal">(S-90) <i>Processing.</i> The PL2 Contract Policy &amp;
          Operations Division will track the processing of UCAs from providing a UCA Tracking Number
          to reviewing the final negotiated agreement, at all dollar values. UCAs valued at greater
-         than $5M will be reported to the Director, Defense Pricing and Contracting (see <xref format="html"
-               href="https://www.acquisition.gov/dfars"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">DFARS</u>
+         than $5M will be reported to the Director, Defense Pricing and Contracting (see <xref format="html" href="https://www.acquisition.gov/dfars" scope="external">
+            <u>DFARS</u>
          </xref>
-         <ph class="- topic/ph "> </ph> 217.7405 &amp; <xref format="html"
-               href="https://www.acquisition.gov/dfarspgi"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">DFARS PGI</u>
+         <ph> </ph> 217.7405 &amp; <xref format="html" href="https://www.acquisition.gov/dfarspgi" scope="external">
+            <u>DFARS PGI</u>
          </xref>
-         <xref format="html"
-               href="http://www.acq.osd.mil/dpap/dars/pgi/pgi_htm/PGI217_74.htm"
-               scope="external"
-               class="- topic/xref "> 217.7405</xref>) in accordance with the DISA Consolidated UCA
+         <xref format="html" href="http://www.acq.osd.mil/dpap/dars/pgi/pgi_htm/PGI217_74.htm" scope="external"> 217.7405</xref>) in accordance with the DISA Consolidated UCA
          Management Plan. Contract data shall be maintained in the format required by the
-         spreadsheet referenced in <xref format="html"
-               href="http://www.acq.osd.mil/dpap/dars/pgi/pgi_htm/PGI217_74.htm"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">DFARS PGI</u>
+         spreadsheet referenced in <xref format="html" href="http://www.acq.osd.mil/dpap/dars/pgi/pgi_htm/PGI217_74.htm" scope="external">
+            <u>DFARS PGI</u>
          </xref> 217.7405(2)(ii). PL2 will track approval of the UCA by the HCA, and upon approval,
          retain a copy of the approved UCA Request for Approval and the UCA D&amp;Fs to complete the
          bi-annual report.</p>
-      <p id="MTDBpC" outputclass="Normal" class="- topic/p ">(S-91) <i class="+ topic/ph hi-d/i ">Review.</i> The contracting officer shall obtain
-         a review of the proposed profit/fee from <xref format="mailto"
-               href="mailto:disa.scott.ditco.mbx.cost-and-pricing-branch-pl842@mail.mil"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">PL842, Cost and Pricing Branch</u>
+      <p id="MTDBpC" outputclass="Normal">(S-91) <i>Review.</i> The contracting officer shall obtain
+         a review of the proposed profit/fee from <xref format="mailto" href="mailto:disa.scott.ditco.mbx.cost-and-pricing-branch-pl842@mail.mil" scope="external">
+            <u>PL842, Cost and Pricing Branch</u>
          </xref>
-         <ph class="- topic/ph ">
-            <u class="+ topic/ph hi-d/u ">.</u>
-         </ph> A UCA Tracking Number shall be obtained from <xref format="mailto"
-               href="mailto:disa.meade.PLD.mbx.pl21-policy-branch@mail.mil"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">PL21, Contract Policy Branch</u>
+         <ph>
+            <u>.</u>
+         </ph> A UCA Tracking Number shall be obtained from <xref format="mailto" href="mailto:disa.meade.PLD.mbx.pl21-policy-branch@mail.mil" scope="external">
+            <u>PL21, Contract Policy Branch</u>
          </xref>
-         <ph class="- topic/ph ">
-            <u class="+ topic/ph hi-d/u ">.</u>
+         <ph>
+            <u>.</u>
          </ph> A compliance review of the final negotiated agreement shall be obtained from the
-            <xref format="mailto"
-               href="mailto:disa.meade.PLD.mbx.pl22-policy-compliance-review@mail.mil"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">PL22, Contract Operations Branch</u>
+            <xref format="mailto" href="mailto:disa.meade.PLD.mbx.pl22-policy-compliance-review@mail.mil" scope="external">
+            <u>PL22, Contract Operations Branch</u>
          </xref> prior to definitization.</p>
-      <p id="EnyrII" outputclass="Normal" class="- topic/p ">(S-92) <i class="+ topic/ph hi-d/i ">Management Plan (D&amp;F)</i>. All UCAs are
+      <p id="EnyrII" outputclass="Normal">(S-92) <i>Management Plan (D&amp;F)</i>. All UCAs are
          required to adhere to the ‘Consolidated UCA Management Plan’ required by DFARS PGI
          217.7405(2)(i). Before entering into any UCA, Contracting Officers shall obtain HCA
          approval (see DARS 217.7404-1). Prior to definitization, Contracting Officers shall satisfy

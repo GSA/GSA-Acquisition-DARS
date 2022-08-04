@@ -1,176 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="DARS_PART_15"
-          ditaarch:DITAArchVersion="1.3"
-          class="- topic/topic ">
-      <title class="- topic/title " outputclass="1 heading Ctr">
-         <ph class="- topic/ph " props="autonumber">Part 15</ph> - CONTRACTING BY NEGOTIATION</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_15.2.dita#DARS_SUBPART_15.2"
-                        class="- topic/xref ">Subpart 15.2 - SOLICITATION AND RECEIPT OF PROPOSALS AND INFORMATION</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="DARS_PART_15" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="1 heading Ctr">
+         <ph props="autonumber">Part 15</ph> - CONTRACTING BY NEGOTIATION</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_15.2.dita#DARS_SUBPART_15.2">Subpart 15.2 - SOLICITATION AND RECEIPT OF PROPOSALS AND INFORMATION</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="15.201.dita#DARS_15.201"
-                              class="- topic/xref ">15.201 Exchanges with industry before receipt of proposals.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="15.201.dita#DARS_15.201">15.201 Exchanges with industry before receipt of proposals.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="15.204.dita#DARS_15.204"
-                              class="- topic/xref ">15.204 Contract format.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="15.204.dita#DARS_15.204">15.204 Contract format.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_15.3.dita#DARS_SUBPART_15.3"
-                        class="- topic/xref ">Subpart 15.3 - SOURCE SELECTION</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_15.3.dita#DARS_SUBPART_15.3">Subpart 15.3 - SOURCE SELECTION</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="15.300.dita#DARS_15.300"
-                              class="- topic/xref ">15.300 Scope of subpart.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="15.300.dita#DARS_15.300">15.300 Scope of subpart.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="15.304.dita#DARS_15.304"
-                              class="- topic/xref ">15.304 Evaluation factors and significant sub factors.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="15.304.dita#DARS_15.304">15.304 Evaluation factors and significant sub factors.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="15.307.dita#DARS_15.307"
-                              class="- topic/xref ">15.307 Proposal revisions.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="15.307.dita#DARS_15.307">15.307 Proposal revisions.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="215.371.dita#DARS_215.371"
-                              class="- topic/xref ">215.371 Only one offer.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="215.371.dita#DARS_215.371">215.371 Only one offer.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="215.3715.dita#DARS_215.3715"
-                              class="- topic/xref ">215.371-5 Waiver.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="215.3715.dita#DARS_215.3715">215.371-5 Waiver.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_15.4.dita#DARS_SUBPART_15.4"
-                        class="- topic/xref ">Subpart 15.4 - CONTRACT PRICING</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_15.4.dita#DARS_SUBPART_15.4">Subpart 15.4 - CONTRACT PRICING</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="215.4033.dita#DARS_215.4033"
-                              class="- topic/xref ">215.403-3 Requiring data other than certified cost or pricing data.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="215.4033.dita#DARS_215.4033">215.403-3 Requiring data other than certified cost or pricing data.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="15.4041.dita#DARS_15.4041"
-                              class="- topic/xref ">15.404-1 Proposal analysis techniques.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="15.4041.dita#DARS_15.4041">15.404-1 Proposal analysis techniques.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="15.406.dita#DARS_15.406"
-                              class="- topic/xref ">15.406 Documentation.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="15.406.dita#DARS_15.406">15.406 Documentation.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="15.4063.dita#DARS_15.4063"
-                              class="- topic/xref ">15.406-3 Documenting the negotiation.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="15.4063.dita#DARS_15.4063">15.406-3 Documenting the negotiation.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="215.4063.dita#DARS_215.4063"
-                              class="- topic/xref ">215.406-3 Documenting the negotiation.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="215.4063.dita#DARS_215.4063">215.406-3 Documenting the negotiation.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_15.5.dita#DARS_SUBPART_15.5"
-                        class="- topic/xref ">Subpart 15.5 - PREAWARD, AWARD, AND POSTAWARD NOTIFICATIONS, PROTESTS, AND MISTAKES</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_15.5.dita#DARS_SUBPART_15.5">Subpart 15.5 - PREAWARD, AWARD, AND POSTAWARD NOTIFICATIONS, PROTESTS, AND MISTAKES</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="15.502.dita#DARS_15.502"
-                              class="- topic/xref ">15.502 Applicability.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="15.502.dita#DARS_15.502">15.502 Applicability.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_15.6.dita#DARS_SUBPART_15.6"
-                        class="- topic/xref ">Subpart 15.6 - UNSOLICITED PROPOSALS</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_15.6.dita#DARS_SUBPART_15.6">Subpart 15.6 - UNSOLICITED PROPOSALS</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="15.606.dita#DARS_15.606"
-                              class="- topic/xref ">15.606 Agency procedures.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="15.606.dita#DARS_15.606">15.606 Agency procedures.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="15.6061.dita#DARS_15.6061"
-                              class="- topic/xref ">15.606-1 Receipt and initial review.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="15.6061.dita#DARS_15.6061">15.606-1 Receipt and initial review.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="15.6062.dita#DARS_15.6062"
-                              class="- topic/xref ">15.606-2 Evaluation.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="15.6062.dita#DARS_15.6062">15.606-2 Evaluation.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="15.607.dita#DARS_15.607"
-                              class="- topic/xref ">15.607 Criteria for acceptance and negotiation of an unsolicited proposal.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="15.607.dita#DARS_15.607">15.607 Criteria for acceptance and negotiation of an unsolicited proposal.</xref>
                      </p>
                   </li>
                </ul>

@@ -10,38 +10,40 @@
    <title outputclass="Title" class="- topic/title ">DARS</title>
    <topicref navtitle="Volume X - Parts xxxx to xxxx"
              href="Volume_I.dita"
-             outputclass="Volume"
-             props="NoTitle"
+             outputclass="subtopic"
+             props=""
              audience="Volume_I"
              otherprops="NoProp"
              base="NoTitle"
-             xtrf="Volume"
+             xtrf="subtopic"
              class="- map/topicref ">
       <topicref navtitle="Defense Acquisition Regulation    Supplement"
                 href="Cover_1.dita"
-                props="NoTitle"
+                props=""
                 audience="Cover_1"
                 otherprops="NoProp"
                 base="NoTitle"
                 outputclass="subtopic"
                 xtrf="subtopic"
+                xtrc="Cover_1.html"
                 class="- map/topicref "/>
    </topicref>
    <topicref href="PART_1.dita"
              navtitle="PART 1 –– FEDERAL ACQUISITION REGULATIONS SYSTEM"
              outputclass="Part"
-             props="PART 1"
+             props="Part 1"
              base="NoTitle"
              audience="DARS_PART_1"
              xtrf="Part"
              class="- map/topicref ">
       <topicref href="SUBPART_1.1.dita"
                 navtitle="SUBPART 1.1 –– PURPOSE, AUTHORITY, ISSUANCE"
-                props="PART 1.1"
+                props="Subpart 1.1"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_1.1"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_1.1.html"
                 class="- map/topicref ">
          <topicref href="1.101.dita"
                    navtitle="1.101 Purpose."
@@ -50,6 +52,7 @@
                    audience="DARS_1.101"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_1.101.html"
                    class="- map/topicref "/>
          <topicref href="201.104.dita"
                    navtitle="201.104 Applicability."
@@ -58,6 +61,7 @@
                    audience="DARS_201.104"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_201.104.html"
                    class="- map/topicref "/>
          <topicref href="201.1053.dita"
                    navtitle="201.105-3 Copies."
@@ -66,6 +70,7 @@
                    audience="DARS_201.1053"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_201.1053.html"
                    class="- map/topicref "/>
          <topicref href="201.170.dita"
                    navtitle="201.170 Peer reviews."
@@ -74,15 +79,17 @@
                    audience="DARS_201.170"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_201.170.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_1.2.dita"
                 navtitle="SUBPART 1.2 — ADMINISTRATION"
-                props="PART 1.2"
+                props="Subpart 1.2"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_1.2"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_1.2.html"
                 class="- map/topicref ">
          <topicref href="1.2011.dita"
                    navtitle="1.201-1 The two councils."
@@ -91,6 +98,7 @@
                    audience="DARS_1.2011"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_1.2011.html"
                    class="- map/topicref "/>
          <topicref href="201.20170.dita"
                    navtitle="201.201-70 Maintenance of Procedures, Guidance, and Information."
@@ -99,15 +107,17 @@
                    audience="DARS_201.20170"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_201.20170.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_1.3.dita"
                 navtitle="SUBPART 1.3 — AGENCY ACQUISITION REGULATIONS"
-                props="PART 1.3"
+                props="Subpart 1.3"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_1.3"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_1.3.html"
                 class="- map/topicref ">
          <topicref href="201.301.dita"
                    navtitle="201.301 Policy."
@@ -116,6 +126,7 @@
                    audience="DARS_201.301"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_201.301.html"
                    class="- map/topicref "/>
          <topicref href="201.303.dita"
                    navtitle="201.303 Publication and codification."
@@ -124,6 +135,7 @@
                    audience="DARS_201.303"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_201.303.html"
                    class="- map/topicref "/>
          <topicref href="201.304.dita"
                    navtitle="201.304 Agency control and compliance procedures."
@@ -132,15 +144,17 @@
                    audience="DARS_201.304"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_201.304.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_1.4.dita"
                 navtitle="SUBPART 1.4 –– DEVIATIONS FROM THE FAR"
-                props="PART 1.4"
+                props="Subpart 1.4"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_1.4"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_1.4.html"
                 class="- map/topicref ">
          <topicref href="201.403.dita"
                    navtitle="201.403 Individual deviations."
@@ -149,15 +163,17 @@
                    audience="DARS_201.403"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_201.403.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_1.5.dita"
                 navtitle="SUBPART 1.5 — AGENCY AND PUBLIC PARTICIPATION"
-                props="PART 1.5"
+                props="Subpart 1.5"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_1.5"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_1.5.html"
                 class="- map/topicref ">
          <topicref href="1.5012.dita"
                    navtitle="1.501-2 Opportunity for public comments."
@@ -166,15 +182,17 @@
                    audience="DARS_1.5012"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_1.5012.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_1.6.dita"
                 navtitle="SUBPART 1.6 — CAREER DEVELOPMENT, CONTRACTING AUTHORITY, AND RESPONSIBILITIES"
-                props="PART 1.6"
+                props="Subpart 1.6"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_1.6"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_1.6.html"
                 class="- map/topicref ">
          <topicref href="201.6022.dita"
                    navtitle="201.602-2 Responsibilities."
@@ -183,6 +201,7 @@
                    audience="DARS_201.6022"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_201.6022.html"
                    class="- map/topicref "/>
          <topicref href="1.6023.dita"
                    navtitle="1.602-3 Ratification of unauthorized commitments."
@@ -192,6 +211,7 @@
                    otherprops=""
                    props="1.602-3"
                    xtrf="subtopic"
+                   xtrc="DARS_1.6023.html"
                    class="- map/topicref "/>
          <topicref href="1.603.dita"
                    navtitle="1.603 Selection, appointment, and termination of appointment for contracting officers."
@@ -200,6 +220,7 @@
                    audience="DARS_1.603"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_1.603.html"
                    class="- map/topicref "/>
          <topicref href="1.6031.dita"
                    navtitle="1.603-1 General."
@@ -208,6 +229,7 @@
                    audience="DARS_1.6031"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_1.6031.html"
                    class="- map/topicref "/>
          <topicref href="1.603190.dita"
                    navtitle="1.603-1-90 Ordering officers."
@@ -216,6 +238,7 @@
                    audience="DARS_1.603190"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_1.603190.html"
                    class="- map/topicref "/>
          <topicref href="1.604.dita"
                    navtitle="1.604 Contracting Officer’s Representative (COR)."
@@ -224,15 +247,17 @@
                    audience="DARS_1.604"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_1.604.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_1.90.dita"
                 navtitle="SUBPART 1.90 — PROCUREMENT OVERSIGHT"
-                props="PART 1.90"
+                props="Subpart 1.90"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_1.90"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_1.90.html"
                 class="- map/topicref ">
          <topicref href="1.9000.dita"
                    navtitle="1.9000 Review and approval of contract actions."
@@ -241,6 +266,7 @@
                    audience="DARS_1.9000"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_1.9000.html"
                    class="- map/topicref "/>
          <topicref href="1.9001.dita"
                    navtitle="1.9001 Procurement management reviews (PMR) and special interest reviews."
@@ -249,6 +275,7 @@
                    audience="DARS_1.9001"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_1.9001.html"
                    class="- map/topicref "/>
          <topicref href="1.9002.dita"
                    navtitle="1.9002 Contract document approval signature routing procedures."
@@ -257,24 +284,26 @@
                    audience="DARS_1.9002"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_1.9002.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_2.dita"
              navtitle="PART 2 –– DEFINITIONS OF WORDS AND TERMS"
              outputclass="Part"
-             props="PART 2"
+             props="Part 2"
              base="NoTitle"
              audience="DARS_PART_2"
              xtrf="Part"
              class="- map/topicref ">
       <topicref href="SUBPART_2.1.dita"
                 navtitle="SUBPART 2.1 — DEFINITIONS"
-                props="PART 2.1"
+                props="Subpart 2.1"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_2.1"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_2.1.html"
                 class="- map/topicref ">
          <topicref href="2.000.dita"
                    navtitle="2.000 Scope of part."
@@ -283,6 +312,7 @@
                    audience="DARS_2.000"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_2.000.html"
                    class="- map/topicref "/>
          <topicref href="2.101.dita"
                    navtitle="2.101 Definitions."
@@ -291,24 +321,26 @@
                    audience="DARS_2.101"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_2.101.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_3.dita"
              outputclass="Part"
              navtitle="PART 3 –– IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST"
-             props="PART 3"
+             props="Part 3"
              base="NoTitle"
              audience="DARS_PART_3"
              xtrf="Part"
              class="- map/topicref ">
       <topicref href="SUBPART_3.1.dita"
                 navtitle="SUBPART 3.1 — SAFEGUARDS"
-                props="PART 3.1"
+                props="Subpart 3.1"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_3.1"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_3.1.html"
                 class="- map/topicref ">
          <topicref href="3.101.dita"
                    navtitle="3.101 Standards of conduct."
@@ -317,6 +349,7 @@
                    audience="DARS_3.101"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_3.101.html"
                    class="- map/topicref "/>
          <topicref href="3.1013.dita"
                    navtitle="3.101-3 Agency regulations."
@@ -325,6 +358,7 @@
                    audience="DARS_3.1013"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_3.1013.html"
                    class="- map/topicref "/>
          <topicref href="3.1043.dita"
                    navtitle="3.104-3 Statutory and related prohibitions, restrictions, and requirements."
@@ -333,6 +367,7 @@
                    audience="DARS_3.1043"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_3.1043.html"
                    class="- map/topicref "/>
          <topicref href="3.1044.dita"
                    navtitle="3.104-4 Disclosure, protection, and marking of contractor bid or proposal information and source selection information."
@@ -341,6 +376,7 @@
                    audience="DARS_3.1044"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_3.1044.html"
                    class="- map/topicref "/>
          <topicref href="3.1046.dita"
                    navtitle="3.104-6 Ethics advisory opinions regarding prohibitions on a former officials acceptance of compensation from a contractor."
@@ -349,6 +385,7 @@
                    audience="DARS_3.1046"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_3.1046.html"
                    class="- map/topicref "/>
          <topicref href="3.1047.dita"
                    navtitle="3.104-7 Violations or possible violations."
@@ -357,15 +394,17 @@
                    audience="DARS_3.1047"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_3.1047.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_3.2.dita"
                 navtitle="SUBPART 3.2 — CONTRACTOR GRATUITIES TO GOVERNMENT PERSONNEL"
-                props="PART 3.2"
+                props="Subpart 3.2"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_3.2"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_3.2.html"
                 class="- map/topicref ">
          <topicref href="3.203.dita"
                    navtitle="3.203 Reporting suspected violations of the gratuities clause."
@@ -374,15 +413,17 @@
                    audience="DARS_3.203"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_3.203.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_3.3.dita"
                 navtitle="SUBPART 3.3 — REPORTS OF SUSPECTED ANTITRUST VIOLATIONS"
-                props="PART 3.3"
+                props="Subpart 3.3"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_3.3"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_3.3.html"
                 class="- map/topicref ">
          <topicref href="3.301.dita"
                    navtitle="3.301 General."
@@ -391,15 +432,17 @@
                    audience="DARS_3.301"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_3.301.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_3.6.dita"
                 navtitle="SUBPART 3.6 — CONTRACTS WITH GOVERNMENT EMPLOYEES OR ORGANIZATIONS OWNED OR CONTROLLED BY THEM"
-                props="PART 3.6"
+                props="Subpart 3.6"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_3.6"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_3.6.html"
                 class="- map/topicref ">
          <topicref href="3.602.dita"
                    navtitle="3.602 Exceptions."
@@ -408,15 +451,17 @@
                    audience="DARS_3.602"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_3.602.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_3.7.dita"
                 navtitle="SUBPART 3.7 — VOIDING AND RESCINDING CONTRACTS"
-                props="PART 3.7"
+                props="Subpart 3.7"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_3.7"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_3.7.html"
                 class="- map/topicref ">
          <topicref href="3.705.dita"
                    navtitle="3.705 Procedures."
@@ -425,15 +470,17 @@
                    audience="DARS_3.705"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_3.705.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_3.8.dita"
                 navtitle="SUBPART 3.8 — LIMITATIONS ON THE PAYMENT OF FUNDS TO INFLUENCE FEDERAL TRANSACTIONS"
-                props="PART 3.8"
+                props="Subpart 3.8"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_3.8"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_3.8.html"
                 class="- map/topicref ">
          <topicref href="203.806.dita"
                    navtitle="203.806 Processing suspected violations."
@@ -442,15 +489,17 @@
                    audience="DARS_203.806"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_203.806.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_3.9.dita"
                 navtitle="SUBPART 3.9 — WHISTLEBLOWER PROTECTIONS FOR CONTRACTOR EMPLOYEES"
-                props="PART 3.9"
+                props="Subpart 3.9"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_3.9"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_3.9.html"
                 class="- map/topicref ">
          <topicref href="3.906.dita"
                    navtitle="3.906 Remedies."
@@ -459,24 +508,26 @@
                    audience="DARS_3.906"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_3.906.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_4.dita"
              navtitle="PART 4 –– ADMINISTRATIVE MATTERS"
              outputclass="Part"
-             props="PART 4"
+             props="Part 4"
              base="NoTitle"
              audience="DARS_PART_4"
              xtrf="Part"
              class="- map/topicref ">
       <topicref href="SUBPART_4.1.dita"
                 navtitle="SUBPART 4.1 –– CONTRACT EXECUTION"
-                props="PART 4.1"
+                props="Subpart 4.1"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_4.1"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_4.1.html"
                 class="- map/topicref ">
          <topicref href="4.101.dita"
                    navtitle="4.101 Contracting officer's signature."
@@ -485,6 +536,7 @@
                    audience="DARS_4.101"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_4.101.html"
                    class="- map/topicref "/>
          <topicref href="4.102.dita"
                    navtitle="4.102 Contractor’s signature."
@@ -493,15 +545,17 @@
                    audience="DARS_4.102"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_4.102.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_4.4.dita"
                 navtitle="SUBPART 4.4 — SAFEGUARDING CLASSIFIED INFORMATION WITHIN INDUSTRY"
-                props="PART 4.4"
+                props="Subpart 4.4"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_4.4"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_4.4.html"
                 class="- map/topicref ">
          <topicref href="4.403.dita"
                    navtitle="4.403 Responsibilities of contracting officers."
@@ -510,15 +564,17 @@
                    audience="DARS_4.403"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_4.403.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_4.5.dita"
                 navtitle="SUBPART 4.5 — ELECTRONIC COMMERCE IN CONTRACTING"
-                props="PART 4.5"
+                props="Subpart 4.5"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_4.5"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_4.5.html"
                 class="- map/topicref ">
          <topicref href="4.502.dita"
                    navtitle="4.502 Policy."
@@ -527,15 +583,17 @@
                    audience="DARS_4.502"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_4.502.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_4.6.dita"
                 navtitle="SUBPART 4.6 – CONTRACT REPORTING"
-                props="PART 4.6"
+                props="Subpart 4.6"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_4.6"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_4.6.html"
                 class="- map/topicref ">
          <topicref href="204.604.dita"
                    navtitle="204.604 Responsibilities."
@@ -544,15 +602,17 @@
                    audience="DARS_204.604"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_204.604.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_4.8.dita"
                 navtitle="SUBPART 4.8 –CONTRACT FILES"
-                props="PART 4.8"
+                props="Subpart 4.8"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_4.8"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_4.8.html"
                 class="- map/topicref ">
          <topicref href="204.802.dita"
                    navtitle="204.802 Contract files."
@@ -561,6 +621,7 @@
                    audience="DARS_204.802"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_204.802.html"
                    class="- map/topicref "/>
          <topicref href="204.804.dita"
                    navtitle="204.804 Closeout of contract files."
@@ -569,15 +630,17 @@
                    audience="DARS_204.804"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_204.804.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_4.10.dita"
                 navtitle="SUBPART 4.10 — UNIFORM USE OF LINE ITEMS"
-                props="PART 4.10"
+                props="Subpart 4.10"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_4.10"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_4.10.html"
                 class="- map/topicref ">
          <topicref href="4.1005.dita"
                    navtitle="4.1005 Data elements for line items and subline items."
@@ -586,6 +649,7 @@
                    audience="DARS_4.1005"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_4.1005.html"
                    class="- map/topicref "/>
          <topicref href="4.10051.dita"
                    navtitle="4.1005-1 Required data elements."
@@ -594,15 +658,17 @@
                    audience="DARS_4.10051"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_4.10051.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_204.71.dita"
                 navtitle="SUBPART 204.71 — UNIFORM CONTRACT LINE ITEM NUMBERING SYSTEM"
-                props="PART 204.71"
+                props="Subpart 204.71"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_204.71"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_204.71.html"
                 class="- map/topicref ">
          <topicref href="204.71032.dita"
                    navtitle="204.7103-2 Numbering procedures."
@@ -611,6 +677,7 @@
                    audience="DARS_204.71032"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_204.71032.html"
                    class="- map/topicref "/>
          <topicref href="204.7105.dita"
                    navtitle="204.7105 Contract exhibits and attachments."
@@ -619,24 +686,26 @@
                    audience="DARS_204.7105"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_204.7105.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_5.dita"
              navtitle="PART 5 –– PUBLICIZING CONTRACT ACTIONS"
              outputclass="Part"
-             props="PART 5"
+             props="Part 5"
              base="NoTitle"
              audience="DARS_PART_5"
              xtrf="Part"
              class="- map/topicref ">
       <topicref href="SUBPART_5.3.dita"
                 navtitle="SUBPART 5.3 –– SYNOPSIS OF CONTRACT AWARDS"
-                props="PART 5.3"
+                props="Subpart 5.3"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_5.3"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_5.3.html"
                 class="- map/topicref ">
          <topicref href="205.303.dita"
                    navtitle="205.303 Announcement of contract awards."
@@ -645,15 +714,17 @@
                    audience="DARS_205.303"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_205.303.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_5.4.dita"
                 navtitle="SUBPART 5.4 –– RELEASE OF INFORMATION"
-                props="PART 5.4"
+                props="Subpart 5.4"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_5.4"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_5.4.html"
                 class="- map/topicref ">
          <topicref href="5.401.dita"
                    navtitle="5.401 General."
@@ -662,6 +733,7 @@
                    audience="DARS_5.401"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_5.401.html"
                    class="- map/topicref "/>
          <topicref href="5.403.dita"
                    navtitle="5.403 Request from Members of Congress."
@@ -670,6 +742,7 @@
                    audience="DARS_5.403"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_5.403.html"
                    class="- map/topicref "/>
          <topicref href="5.404.dita"
                    navtitle="5.404 Release of long–range acquisition estimates."
@@ -678,6 +751,7 @@
                    audience="DARS_5.404"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_5.404.html"
                    class="- map/topicref "/>
          <topicref href="5.4041.dita"
                    navtitle="5.404-1 Release procedures."
@@ -686,24 +760,26 @@
                    audience="DARS_5.4041"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_5.4041.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_6.dita"
              navtitle="PART 6 –– COMPETITION REQUIREMENTS"
              outputclass="Part"
-             props="PART 6"
+             props="Part 6"
              base="NoTitle"
              audience="DARS_PART_6"
              xtrf="Part"
              class="- map/topicref ">
       <topicref href="SUBPART_6.2.dita"
                 navtitle="SUBPART 6.2 — FULL AND OPEN COMPETITION AFTER EXCLUSION OF SOURCES"
-                props="PART 6.2"
+                props="Subpart 6.2"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_6.2"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_6.2.html"
                 class="- map/topicref ">
          <topicref href="6.202.dita"
                    navtitle="6.202 Establishing or maintaining alternative sources."
@@ -712,15 +788,17 @@
                    audience="DARS_6.202"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_6.202.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_6.3.dita"
                 navtitle="SUBPART 6.3 — OTHER THAN FULL AND OPEN COMPETITION"
-                props="PART 6.3"
+                props="Subpart 6.3"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_6.3"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_6.3.html"
                 class="- map/topicref ">
          <topicref href="206.3021.dita"
                    navtitle="206.302-1 Only one responsible source and no other supplies or services will satisfy agency requirements."
@@ -729,6 +807,7 @@
                    audience="DARS_206.3021"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_206.3021.html"
                    class="- map/topicref "/>
          <topicref href="206.3024.dita"
                    navtitle="206.302-4 International agreement."
@@ -737,6 +816,7 @@
                    audience="DARS_206.3024"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_206.3024.html"
                    class="- map/topicref "/>
          <topicref href="206.3027.dita"
                    navtitle="206.302-7 Public interest."
@@ -745,6 +825,7 @@
                    audience="DARS_206.3027"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_206.3027.html"
                    class="- map/topicref "/>
          <topicref href="6.3031.dita"
                    navtitle="6.303-1 Requirements."
@@ -753,6 +834,7 @@
                    audience="DARS_6.3031"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_6.3031.html"
                    class="- map/topicref "/>
          <topicref href="6.30390.dita"
                    navtitle="6.303-90 Amendment/Modification Justification format."
@@ -761,24 +843,26 @@
                    audience="DARS_6.30390"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_6.30390.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_7.dita"
              navtitle="PART 7 –– ACQUISITION PLANNING"
              outputclass="Part"
-             props="PART 7"
+             props="Part 7"
              base="NoTitle"
              audience="DARS_PART_7"
              xtrf="Part"
              class="- map/topicref ">
       <topicref href="SUBPART_7.1.dita"
                 navtitle="SUBPART 7.1 –– ACQUISITION PLANS"
-                props="PART 7.1"
+                props="Subpart 7.1"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_7.1"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_7.1.html"
                 class="- map/topicref ">
          <topicref href="7.101.dita"
                    navtitle="7.101 Definitions."
@@ -787,6 +871,7 @@
                    audience="DARS_7.101"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_7.101.html"
                    class="- map/topicref "/>
          <topicref href="7.103.dita"
                    navtitle="7.103 Agency–head responsibilities."
@@ -795,6 +880,7 @@
                    audience="DARS_7.103"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_7.103.html"
                    class="- map/topicref "/>
          <topicref href="7.104.dita"
                    navtitle="7.104 General procedures"
@@ -803,6 +889,7 @@
                    audience="DARS_7.104"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_7.104.html"
                    class="- map/topicref "/>
          <topicref href="7.105.dita"
                    navtitle="7.105 Contents of written acquisition plans."
@@ -811,6 +898,7 @@
                    audience="DARS_7.105"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_7.105.html"
                    class="- map/topicref "/>
          <topicref href="7.107.dita"
                    navtitle="7.107 Additional requirements for acquisitions involving consolidation, bundling, or substantial bundling."
@@ -819,6 +907,7 @@
                    audience="DARS_7.107"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_7.107.html"
                    class="- map/topicref "/>
          <topicref href="7.1072.dita"
                    navtitle="7.107-2 Consolidation."
@@ -827,24 +916,26 @@
                    audience="DARS_7.1072"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_7.1072.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_8.dita"
              navtitle="PART 8 –– REQUIRED SOURCES OF SUPPLIES AND SERVICES"
              outputclass="Part"
-             props="PART 8"
+             props="Part 8"
              base="NoTitle"
              audience="DARS_PART_8"
              xtrf="Part"
              class="- map/topicref ">
       <topicref href="SUBPART_8.4.dita"
                 navtitle="SUBPART 8.4 – FEDERAL SUPPLY SCHEDULES"
-                props="PART 8.4"
+                props="Subpart 8.4"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_8.4"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_8.4.html"
                 class="- map/topicref ">
          <topicref href="8.404.dita"
                    navtitle="8.404 Use of Federal Supply Schedules."
@@ -853,6 +944,7 @@
                    audience="DARS_8.404"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_8.404.html"
                    class="- map/topicref "/>
          <topicref href="8.405.dita"
                    navtitle="8.405 Ordering procedures for Federal Supply Schedules."
@@ -861,6 +953,7 @@
                    audience="DARS_8.405"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_8.405.html"
                    class="- map/topicref "/>
          <topicref href="8.4055.dita"
                    navtitle="8.405-5 Small business."
@@ -869,6 +962,7 @@
                    audience="DARS_8.4055"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_8.4055.html"
                    class="- map/topicref "/>
          <topicref href="8.4056.dita"
                    navtitle="8.405-6 Limiting sources."
@@ -877,23 +971,26 @@
                    audience="DARS_8.4056"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_8.4056.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_208.70.dita"
                 navtitle="SUBPART 208.70 –– COORDINATED ACQUISITIONS"
-                props="PART 208.70"
+                props="Subpart 208.70"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_208.70"
                 xtrf="subtopic"
+                xtrc="DARS_SUBPART_208.70.html"
                 class="- map/topicref "/>
       <topicref href="SUBPART_208.74.dita"
                 navtitle="SUBPART 208.74 – ENTERPRISE SOFTWARE AGREEMENTS"
-                props="PART 208.74"
+                props="Subpart 208.74"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_208.74"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_208.74.html"
                 class="- map/topicref ">
          <topicref href="208.7402.dita"
                    navtitle="208.7402 General."
@@ -902,6 +999,7 @@
                    audience="DARS_208.7402"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_208.7402.html"
                    class="- map/topicref "/>
          <topicref href="208.7403.dita"
                    navtitle="208.7403 Acquisition procedures."
@@ -910,24 +1008,26 @@
                    audience="DARS_208.7403"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_208.7403.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_9.dita"
              navtitle="PART 9 –– CONTRACTOR QUALIFICATIONS"
              outputclass="Part"
-             props="PART 9"
+             props="Part 9"
              base="NoTitle"
              audience="DARS_PART_9"
              xtrf="Part"
              class="- map/topicref ">
       <topicref href="SUBPART_209.1.dita"
                 navtitle="SUBPART 209.1-- RESPONSIBLE PROSPECTIVE CONTRACTORS"
-                props="PART 209.1--"
+                props="Subpart 209.1"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_209.1"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_209.1.html"
                 class="- map/topicref ">
          <topicref href="209.1041.dita"
                    navtitle="209.104-1 General standards."
@@ -936,15 +1036,17 @@
                    audience="DARS_209.1041"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_209.1041.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_9.2.dita"
                 navtitle="SUBPART 9.2 — QUALIFICATIONS REQUIREMENTS"
-                props="PART 9.2"
+                props="Subpart 9.2"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_9.2"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_9.2.html"
                 class="- map/topicref ">
          <topicref href="9.202.dita"
                    navtitle="9.202 Policy."
@@ -953,6 +1055,7 @@
                    audience="DARS_9.202"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_9.202.html"
                    class="- map/topicref "/>
          <topicref href="9.206.dita"
                    navtitle="9.206 Acquisitions subject to qualification requirements."
@@ -961,6 +1064,7 @@
                    audience="DARS_9.206"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_9.206.html"
                    class="- map/topicref "/>
          <topicref href="9.2061.dita"
                    navtitle="9.206-1 General."
@@ -969,15 +1073,17 @@
                    audience="DARS_9.2061"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_9.2061.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_9.4.dita"
                 navtitle="SUBPART 9.4 –– DEBARMENT, SUSPENSION, AND INELIGIBILITY"
-                props="PART 9.4"
+                props="Subpart 9.4"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_9.4"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_9.4.html"
                 class="- map/topicref ">
          <topicref href="209.405.dita"
                    navtitle="209.405 Effect of listing."
@@ -986,6 +1092,7 @@
                    audience="DARS_209.405"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_209.405.html"
                    class="- map/topicref "/>
          <topicref href="9.4063.dita"
                    navtitle="9.406-3 Procedures."
@@ -994,15 +1101,17 @@
                    audience="DARS_9.4063"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_9.4063.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_9.5.dita"
                 navtitle="SUBPART 9.5 –– ORGANIZATIONAL AND CONSULTANT CONFLICTS OF INTEREST"
-                props="PART 9.5"
+                props="Subpart 9.5"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_9.5"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_9.5.html"
                 class="- map/topicref ">
          <topicref href="9.502.dita"
                    navtitle="9.502 Applicability."
@@ -1011,6 +1120,7 @@
                    audience="DARS_9.502"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_9.502.html"
                    class="- map/topicref "/>
          <topicref href="9.503.dita"
                    navtitle="9.503 Waiver."
@@ -1019,6 +1129,7 @@
                    audience="DARS_9.503"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_9.503.html"
                    class="- map/topicref "/>
          <topicref href="9.504.dita"
                    navtitle="9.504 Contracting officer responsibilities."
@@ -1027,6 +1138,7 @@
                    audience="DARS_9.504"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_9.504.html"
                    class="- map/topicref "/>
          <topicref href="9.506.dita"
                    navtitle="9.506 Procedures."
@@ -1035,6 +1147,7 @@
                    audience="DARS_9.506"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_9.506.html"
                    class="- map/topicref "/>
          <topicref href="9.508.dita"
                    navtitle="9.508 Examples."
@@ -1043,13 +1156,14 @@
                    audience="DARS_9.508"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_9.508.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_10.dita"
              navtitle="PART 10 – MARKET RESEARCH"
              outputclass="Part"
-             props="PART 10"
+             props="Part 10"
              base="NoTitle"
              audience="DARS_PART_10"
              xtrf="Part"
@@ -1061,6 +1175,7 @@
                 audience="DARS_10.001"
                 outputclass="subtopic"
                 xtrf="subtopic"
+                xtrc="DARS_10.001.html"
                 class="- map/topicref "/>
       <topicref href="210.001.dita"
                 navtitle="210.001 Policy."
@@ -1069,6 +1184,7 @@
                 audience="DARS_210.001"
                 outputclass="subtopic"
                 xtrf="subtopic"
+                xtrc="DARS_210.001.html"
                 class="- map/topicref "/>
       <topicref href="10.002.dita"
                 navtitle="10.002 Procedures."
@@ -1077,23 +1193,25 @@
                 audience="DARS_10.002"
                 outputclass="subtopic"
                 xtrf="subtopic"
+                xtrc="DARS_10.002.html"
                 class="- map/topicref "/>
    </topicref>
    <topicref href="PART_11.dita"
              navtitle="PART 11 –– DESCRIBING AGENCY NEEDS"
              outputclass="Part"
-             props="PART 11"
+             props="Part 11"
              base="NoTitle"
              audience="DARS_PART_11"
              xtrf="Part"
              class="- map/topicref ">
       <topicref href="SUBPART_11.1.dita"
                 navtitle="SUBPART 11.1 – SELECTING AND DEVELOPING REQUIREMENTS DOCUMENTS"
-                props="PART 11.1"
+                props="Subpart 11.1"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_11.1"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_11.1.html"
                 class="- map/topicref ">
          <topicref href="11.101.dita"
                    navtitle="11.101 Order of precedence for requirements documents."
@@ -1102,15 +1220,17 @@
                    audience="DARS_11.101"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_11.101.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_211.2.dita"
                 navtitle="SUBPART 211.2-- USING AND MAINTAINING REQUIREMENTS DOCUMENTS"
-                props="PART 211.2--"
+                props="Subpart 211.2"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_211.2"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_211.2.html"
                 class="- map/topicref ">
          <topicref href="211.274.dita"
                    navtitle="211.274 Item identification and valuation requirements."
@@ -1119,6 +1239,7 @@
                    audience="DARS_211.274"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_211.274.html"
                    class="- map/topicref "/>
          <topicref href="211.2746.dita"
                    navtitle="211.274-6 Contract clauses."
@@ -1127,15 +1248,17 @@
                    audience="DARS_211.2746"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_211.2746.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_211.6.dita"
                 navtitle="SUBPART 211.6 — PRIORITIES AND ALLOCATIONS"
-                props="PART 211.6"
+                props="Subpart 211.6"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_211.6"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_211.6.html"
                 class="- map/topicref ">
          <topicref href="211.602.dita"
                    navtitle="211.602 General."
@@ -1144,24 +1267,26 @@
                    audience="DARS_211.602"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_211.602.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_12.dita"
              navtitle="PART 12 –– ACQUISITION OF COMMERCIAL ITEMS"
              outputclass="Part"
-             props="PART 12"
+             props="Part 12"
              base="NoTitle"
              audience="DARS_PART_12"
              xtrf="Part"
              class="- map/topicref ">
       <topicref href="SUBPART_12.4.dita"
                 navtitle="SUBPART 12.4 – UNIQUE REQUIREMENTS REGARDING TERMS AND CONDITIONS FOR COMMERCIAL ITEMS"
-                props="PART 12.4"
+                props="Subpart 12.4"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_12.4"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_12.4.html"
                 class="- map/topicref ">
          <topicref href="12.403.dita"
                    navtitle="12.403 Termination."
@@ -1170,24 +1295,26 @@
                    audience="DARS_12.403"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_12.403.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_13.dita"
              navtitle="PART 13 –– SIMPLIFIED ACQUISITION PROCEDURES"
              outputclass="Part"
-             props="PART 13"
+             props="Part 13"
              base="NoTitle"
              audience="DARS_PART_13"
              xtrf="Part"
              class="- map/topicref ">
       <topicref href="SUBPART_13.1.dita"
                 navtitle="SUBPART 13.1 – PROCEDURES"
-                props="PART 13.1"
+                props="Subpart 13.1"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_13.1"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_13.1.html"
                 class="- map/topicref ">
          <topicref href="13.1063.dita"
                    navtitle="13.106-3 Award and documentation."
@@ -1196,15 +1323,17 @@
                    audience="DARS_13.1063"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_13.1063.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_13.2.dita"
                 navtitle="SUBPART 13.2 – ACTIONS AT OR BELOW THE MICRO–PURCHASE THRESHOLD"
-                props="PART 13.2"
+                props="Subpart 13.2"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_13.2"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_13.2.html"
                 class="- map/topicref ">
          <topicref href="213.270.dita"
                    navtitle="213.270 Use of the Governmentwide commercial purchase card."
@@ -1213,15 +1342,17 @@
                    audience="DARS_213.270"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_213.270.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_13.3.dita"
                 navtitle="SUBPART 13.3 –– SIMPLIFIED ACQUISITION METHODS"
-                props="PART 13.3"
+                props="Subpart 13.3"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_13.3"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_13.3.html"
                 class="- map/topicref ">
          <topicref href="13.301.dita"
                    navtitle="13.301 Government–wide commercial purchase card."
@@ -1230,13 +1361,14 @@
                    audience="DARS_13.301"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_13.301.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_14.dita"
              navtitle="PART 14 –– SEALED BIDDING"
              outputclass="Part"
-             props="PART 14"
+             props="Part 14"
              base="NoTitle"
              audience="DARS_PART_14"
              xtrf="Part"
@@ -1244,18 +1376,19 @@
    <topicref href="PART_15.dita"
              navtitle="PART 15 –– CONTRACTING BY NEGOTIATION"
              outputclass="Part"
-             props="PART 15"
+             props="Part 15"
              base="NoTitle"
              audience="DARS_PART_15"
              xtrf="Part"
              class="- map/topicref ">
       <topicref href="SUBPART_15.2.dita"
                 navtitle="SUBPART 15.2 — SOLICITATION AND RECEIPT OF PROPOSALS AND INFORMATION"
-                props="PART 15.2"
+                props="Subpart 15.2"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_15.2"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_15.2.html"
                 class="- map/topicref ">
          <topicref href="15.201.dita"
                    navtitle="15.201 Exchanges with industry before receipt of proposals."
@@ -1264,6 +1397,7 @@
                    audience="DARS_15.201"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_15.201.html"
                    class="- map/topicref "/>
          <topicref href="15.204.dita"
                    navtitle="15.204 Contract format."
@@ -1272,15 +1406,17 @@
                    audience="DARS_15.204"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_15.204.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_15.3.dita"
                 navtitle="SUBPART 15.3 — SOURCE SELECTION"
-                props="PART 15.3"
+                props="Subpart 15.3"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_15.3"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_15.3.html"
                 class="- map/topicref ">
          <topicref href="15.300.dita"
                    navtitle="15.300 Scope of subpart."
@@ -1289,6 +1425,7 @@
                    audience="DARS_15.300"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_15.300.html"
                    class="- map/topicref "/>
          <topicref href="15.304.dita"
                    navtitle="15.304 Evaluation factors and significant sub factors."
@@ -1297,6 +1434,7 @@
                    audience="DARS_15.304"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_15.304.html"
                    class="- map/topicref "/>
          <topicref href="15.307.dita"
                    navtitle="15.307 Proposal revisions."
@@ -1305,6 +1443,7 @@
                    audience="DARS_15.307"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_15.307.html"
                    class="- map/topicref "/>
          <topicref href="215.371.dita"
                    navtitle="215.371 Only one offer."
@@ -1313,6 +1452,7 @@
                    audience="DARS_215.371"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_215.371.html"
                    class="- map/topicref "/>
          <topicref href="215.3715.dita"
                    navtitle="215.371-5 Waiver."
@@ -1321,15 +1461,17 @@
                    audience="DARS_215.3715"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_215.3715.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_15.4.dita"
                 navtitle="SUBPART 15.4 –– CONTRACT PRICING"
-                props="PART 15.4"
+                props="Subpart 15.4"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_15.4"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_15.4.html"
                 class="- map/topicref ">
          <topicref href="215.4033.dita"
                    navtitle="215.403-3 Requiring data other than certified cost or pricing data."
@@ -1338,6 +1480,7 @@
                    audience="DARS_215.4033"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_215.4033.html"
                    class="- map/topicref "/>
          <topicref href="15.4041.dita"
                    navtitle="15.404-1 Proposal analysis techniques."
@@ -1346,6 +1489,7 @@
                    audience="DARS_15.4041"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_15.4041.html"
                    class="- map/topicref "/>
          <topicref href="15.406.dita"
                    navtitle="15.406 Documentation."
@@ -1354,6 +1498,7 @@
                    audience="DARS_15.406"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_15.406.html"
                    class="- map/topicref "/>
          <topicref href="15.4063.dita"
                    navtitle="15.406-3 Documenting the negotiation."
@@ -1362,6 +1507,7 @@
                    audience="DARS_15.4063"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_15.4063.html"
                    class="- map/topicref "/>
          <topicref href="215.4063.dita"
                    navtitle="215.406-3 Documenting the negotiation."
@@ -1370,15 +1516,17 @@
                    audience="DARS_215.4063"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_215.4063.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_15.5.dita"
                 navtitle="SUBPART 15.5 –– PREAWARD, AWARD, AND POSTAWARD NOTIFICATIONS, PROTESTS, AND MISTAKES"
-                props="PART 15.5"
+                props="Subpart 15.5"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_15.5"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_15.5.html"
                 class="- map/topicref ">
          <topicref href="15.502.dita"
                    navtitle="15.502 Applicability."
@@ -1387,15 +1535,17 @@
                    audience="DARS_15.502"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_15.502.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_15.6.dita"
                 navtitle="SUBPART 15.6 — UNSOLICITED PROPOSALS"
-                props="PART 15.6"
+                props="Subpart 15.6"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_15.6"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_15.6.html"
                 class="- map/topicref ">
          <topicref href="15.606.dita"
                    navtitle="15.606 Agency procedures."
@@ -1404,6 +1554,7 @@
                    audience="DARS_15.606"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_15.606.html"
                    class="- map/topicref "/>
          <topicref href="15.6061.dita"
                    navtitle="15.606-1 Receipt and initial review."
@@ -1412,6 +1563,7 @@
                    audience="DARS_15.6061"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_15.6061.html"
                    class="- map/topicref "/>
          <topicref href="15.6062.dita"
                    navtitle="15.606-2 Evaluation."
@@ -1420,6 +1572,7 @@
                    audience="DARS_15.6062"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_15.6062.html"
                    class="- map/topicref "/>
          <topicref href="15.607.dita"
                    navtitle="15.607 Criteria for acceptance and negotiation of an unsolicited proposal."
@@ -1428,24 +1581,26 @@
                    audience="DARS_15.607"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_15.607.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_16.dita"
              navtitle="PART 16 –– TYPES OF CONTRACTS"
              outputclass="Part"
-             props="PART 16"
+             props="Part 16"
              base="NoTitle"
              audience="DARS_PART_16"
              xtrf="Part"
              class="- map/topicref ">
       <topicref href="SUBPART_16.5.dita"
                 navtitle="SUBPART 16.5 –– INDEFINITE–DELIVERY CONTRACTS"
-                props="PART 16.5"
+                props="Subpart 16.5"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_16.5"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_16.5.html"
                 class="- map/topicref ">
          <topicref href="16.504.dita"
                    navtitle="16.504 Indefinite–quantity contracts."
@@ -1454,6 +1609,7 @@
                    audience="DARS_16.504"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_16.504.html"
                    class="- map/topicref "/>
          <topicref href="16.505.dita"
                    navtitle="16.505 Ordering."
@@ -1462,6 +1618,7 @@
                    audience="DARS_16.505"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_16.505.html"
                    class="- map/topicref "/>
          <topicref href="16.601.dita"
                    navtitle="16.601 Time–and–materials contracts."
@@ -1470,6 +1627,7 @@
                    audience="DARS_16.601"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_16.601.html"
                    class="- map/topicref "/>
          <topicref href="216.601.dita"
                    navtitle="216.601 Time–and–materials contracts."
@@ -1478,13 +1636,14 @@
                    audience="DARS_216.601"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_216.601.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_17.dita"
              navtitle="PART 17 –– SPECIAL CONTRACTING METHODS"
              outputclass="Part"
-             props="PART 17"
+             props="Part 17"
              base="NoTitle"
              audience="DARS_PART_17"
              xtrf="Part"
@@ -1496,14 +1655,16 @@
                 audience="DARS_17.000"
                 outputclass="subtopic"
                 xtrf="subtopic"
+                xtrc="DARS_17.000.html"
                 class="- map/topicref "/>
       <topicref href="SUBPART_17.1.dita"
                 navtitle="SUBPART 17.1 –– MULTI–YEAR CONTRACTS"
-                props="PART 17.1"
+                props="Subpart 17.1"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_17.1"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_17.1.html"
                 class="- map/topicref ">
          <topicref href="17.104.dita"
                    navtitle="17.104 General."
@@ -1512,6 +1673,7 @@
                    audience="DARS_17.104"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_17.104.html"
                    class="- map/topicref "/>
          <topicref href="17.106.dita"
                    navtitle="17.106 Procedures."
@@ -1520,6 +1682,7 @@
                    audience="DARS_17.106"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_17.106.html"
                    class="- map/topicref "/>
          <topicref href="17.1063.dita"
                    navtitle="17.106-3 Special procedures applicable to DoD, NASA, and the Coast Guard."
@@ -1528,15 +1691,17 @@
                    audience="DARS_17.1063"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_17.1063.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_17.2.dita"
                 navtitle="SUBPART 17.2 — OPTIONS"
-                props="PART 17.2"
+                props="Subpart 17.2"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_17.2"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_17.2.html"
                 class="- map/topicref ">
          <topicref href="17.202.dita"
                    navtitle="17.202 Use of options."
@@ -1545,6 +1710,7 @@
                    audience="DARS_17.202"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_17.202.html"
                    class="- map/topicref "/>
          <topicref href="17.20290.dita"
                    navtitle="17.202-90 Use of surge options."
@@ -1553,6 +1719,7 @@
                    audience="DARS_17.20290"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_17.20290.html"
                    class="- map/topicref "/>
          <topicref href="17.206.dita"
                    navtitle="17.206 Evaluation."
@@ -1561,6 +1728,7 @@
                    audience="DARS_17.206"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_17.206.html"
                    class="- map/topicref "/>
          <topicref href="17.207.dita"
                    navtitle="17.207 Exercise of options."
@@ -1569,15 +1737,17 @@
                    audience="DARS_17.207"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_17.207.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_17.5.dita"
                 navtitle="SUBPART 17.5 — INTERAGENCY ACQUISITIONS"
-                props="PART 17.5"
+                props="Subpart 17.5"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_17.5"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_17.5.html"
                 class="- map/topicref ">
          <topicref href="17.501.dita"
                    navtitle="17.501 General."
@@ -1586,6 +1756,7 @@
                    audience="DARS_17.501"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_17.501.html"
                    class="- map/topicref "/>
          <topicref href="17.502.dita"
                    navtitle="17.502 Procedures."
@@ -1594,6 +1765,7 @@
                    audience="DARS_17.502"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_17.502.html"
                    class="- map/topicref "/>
          <topicref href="17.5021.dita"
                    navtitle="17.502-1 General."
@@ -1602,6 +1774,7 @@
                    audience="DARS_17.5021"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_17.5021.html"
                    class="- map/topicref "/>
          <topicref href="17.503.dita"
                    navtitle="17.503 Ordering Procedures."
@@ -1610,15 +1783,17 @@
                    audience="DARS_17.503"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_17.503.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_217.74.dita"
                 navtitle="SUBPART 217.74-- UNDEFINITIZED CONTRACT ACTIONS"
-                props="PART 217.74--"
+                props="Subpart 217.74"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_217.74"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_217.74.html"
                 class="- map/topicref ">
          <topicref href="217.7402.dita"
                    navtitle="217.7402 Exceptions."
@@ -1627,6 +1802,7 @@
                    audience="DARS_217.7402"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_217.7402.html"
                    class="- map/topicref "/>
          <topicref href="217.7404.dita"
                    navtitle="217.7404 Limitations."
@@ -1635,6 +1811,7 @@
                    audience="DARS_217.7404"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_217.7404.html"
                    class="- map/topicref "/>
          <topicref href="217.74041.dita"
                    navtitle="217.7404-1 Authorization."
@@ -1643,6 +1820,7 @@
                    audience="DARS_217.74041"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_217.74041.html"
                    class="- map/topicref "/>
          <topicref href="217.74043.dita"
                    navtitle="217.7404-3 Definitization schedule."
@@ -1651,6 +1829,7 @@
                    audience="DARS_217.74043"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_217.74043.html"
                    class="- map/topicref "/>
          <topicref href="217.7405.dita"
                    navtitle="217.7405 Plans and reports."
@@ -1659,15 +1838,17 @@
                    audience="DARS_217.7405"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_217.7405.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_17.91.dita"
                 navtitle="SUBPART 17.91 — PRODUCT LOAN AGREEMENTS"
-                props="PART 17.91"
+                props="Subpart 17.91"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_17.91"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_17.91.html"
                 class="- map/topicref ">
          <topicref href="17.9100.dita"
                    navtitle="17.9100 General."
@@ -1676,6 +1857,7 @@
                    audience="DARS_17.9100"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_17.9100.html"
                    class="- map/topicref "/>
          <topicref href="17.9101.dita"
                    navtitle="17.9101 Policy."
@@ -1684,13 +1866,14 @@
                    audience="DARS_17.9101"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_17.9101.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_18.dita"
              navtitle="PART 18 – EMERGENCY ACQUISITIONS"
              outputclass="Part"
-             props="PART 18"
+             props="Part 18"
              base="NoTitle"
              audience="DARS_PART_18"
              xtrf="Part"
@@ -1698,18 +1881,19 @@
    <topicref href="PART_19.dita"
              navtitle="PART 19 — SMALL BUSINESS PROGRAMS"
              outputclass="Part"
-             props="PART 19"
+             props="Part 19"
              base="NoTitle"
              audience="DARS_PART_19"
              xtrf="Part"
              class="- map/topicref ">
       <topicref href="SUBPART_19.2.dita"
                 navtitle="SUBPART 19.2 – POLICIES"
-                props="PART 19.2"
+                props="Subpart 19.2"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_19.2"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_19.2.html"
                 class="- map/topicref ">
          <topicref href="219.201.dita"
                    navtitle="219.201 General policy."
@@ -1718,6 +1902,7 @@
                    audience="DARS_219.201"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_219.201.html"
                    class="- map/topicref "/>
          <topicref href="19.202.dita"
                    navtitle="19.202 Specific policies."
@@ -1726,6 +1911,7 @@
                    audience="DARS_19.202"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_19.202.html"
                    class="- map/topicref "/>
          <topicref href="19.203.dita"
                    navtitle="19.203 Relationship among small business programs."
@@ -1734,15 +1920,17 @@
                    audience="DARS_19.203"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_19.203.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_19.3.dita"
                 navtitle="SUBPART 19.3 – DETERMINATION OF SMALL BUSINESS STATUS FOR SMALL BUSINESS PROGRAMS"
-                props="PART 19.3"
+                props="Subpart 19.3"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_19.3"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_19.3.html"
                 class="- map/topicref ">
          <topicref href="19.302.dita"
                    navtitle="19.302 Protesting a small business representation"
@@ -1751,15 +1939,17 @@
                    audience="DARS_19.302"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_19.302.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_19.5.dita"
                 navtitle="SUBPART 19.5 –– SET –ASIDES FOR SMALL BUSINESS"
-                props="PART 19.5"
+                props="Subpart 19.5"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_19.5"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_19.5.html"
                 class="- map/topicref ">
          <topicref href="19.5022.dita"
                    navtitle="19.502-2 Total small business set–asides."
@@ -1768,15 +1958,17 @@
                    audience="DARS_19.5022"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_19.5022.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_19.7.dita"
                 navtitle="SUBPART 19.7 — THE SMALL BUSINESS SUBCONTRACTING PROGRAM"
-                props="PART 19.7"
+                props="Subpart 19.7"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_19.7"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_19.7.html"
                 class="- map/topicref ">
          <topicref href="19.705.dita"
                    navtitle="19.705 Responsibilities of the contracting officer under the subcontracting assistance program."
@@ -1785,6 +1977,7 @@
                    audience="DARS_19.705"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_19.705.html"
                    class="- map/topicref "/>
          <topicref href="19.7052.dita"
                    navtitle="19.705-2 Determining the need for a subcontracting plan"
@@ -1793,6 +1986,7 @@
                    audience="DARS_19.7052"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_19.7052.html"
                    class="- map/topicref "/>
          <topicref href="19.7054.dita"
                    navtitle="19.705-4 Reviewing the subcontracting plan."
@@ -1801,6 +1995,7 @@
                    audience="DARS_19.7054"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_19.7054.html"
                    class="- map/topicref "/>
          <topicref href="19.7056.dita"
                    navtitle="19.705-6 Postaward responsibilities of the contracting officer"
@@ -1809,15 +2004,17 @@
                    audience="DARS_19.7056"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_19.7056.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_19.8.dita"
                 navtitle="SUBPART 19.8 – CONTRACTING WITH THE SMALL BUSINESS ADMINISTRATION (THE 8(a) PROGRAM)"
-                props="PART 19.8"
+                props="Subpart 19.8"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_19.8"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_19.8.html"
                 class="- map/topicref ">
          <topicref href="19.8042.dita"
                    navtitle="19.804-2 Agency offering."
@@ -1826,6 +2023,7 @@
                    audience="DARS_19.8042"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_19.8042.html"
                    class="- map/topicref "/>
          <topicref href="19.8043.dita"
                    navtitle="19.804-3 SBA acceptance."
@@ -1834,6 +2032,7 @@
                    audience="DARS_19.8043"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_19.8043.html"
                    class="- map/topicref "/>
          <topicref href="19.8051.dita"
                    navtitle="19.805-1 General."
@@ -1842,6 +2041,7 @@
                    audience="DARS_19.8051"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_19.8051.html"
                    class="- map/topicref "/>
          <topicref href="19.808.dita"
                    navtitle="19.808 Contract negotiation."
@@ -1850,6 +2050,7 @@
                    audience="DARS_19.808"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_19.808.html"
                    class="- map/topicref "/>
          <topicref href="19.8081.dita"
                    navtitle="19.808-1 Sole source."
@@ -1858,13 +2059,14 @@
                    audience="DARS_19.8081"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_19.8081.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_20.dita"
              navtitle="PART 20 –– RESERVED"
              outputclass="Part"
-             props="PART 20"
+             props="Part 20"
              base="NoTitle"
              audience="DARS_PART_20"
              xtrf="Part"
@@ -1872,7 +2074,7 @@
    <topicref href="PART_21.dita"
              navtitle="PART 21 –– RESERVED"
              outputclass="Part"
-             props="PART 21"
+             props="Part 21"
              base="NoTitle"
              audience="DARS_PART_21"
              xtrf="Part"
@@ -1880,7 +2082,7 @@
    <topicref href="PART_22.dita"
              outputclass="Part"
              navtitle="PART 22 –– APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITIONS"
-             props="PART 22"
+             props="Part 22"
              base="NoTitle"
              audience="DARS_PART_22"
              xtrf="Part"
@@ -1892,14 +2094,16 @@
                 audience="DARS_22.001"
                 outputclass="subtopic"
                 xtrf="subtopic"
+                xtrc="DARS_22.001.html"
                 class="- map/topicref "/>
       <topicref href="SUBPART_22.1.dita"
                 navtitle="SUBPART 22.1 –– BASIC LABOR POLICIES"
-                props="PART 22.1"
+                props="Subpart 22.1"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_22.1"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_22.1.html"
                 class="- map/topicref ">
          <topicref href="22.101.dita"
                    navtitle="22.101 Labor relations."
@@ -1908,6 +2112,7 @@
                    audience="DARS_22.101"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_22.101.html"
                    class="- map/topicref "/>
          <topicref href="22.1013.dita"
                    navtitle="22.101-3 Reporting labor disputes."
@@ -1916,13 +2121,14 @@
                    audience="DARS_22.1013"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_22.1013.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_23.dita"
              outputclass="Part"
              navtitle="PART 23 –– ENVIRONMENT, CONSERVATION, OCCUPATIONAL SAFETY, AND DRUG–FREE WORKPLACE"
-             props="PART 23"
+             props="Part 23"
              base="NoTitle"
              audience="DARS_PART_23"
              xtrf="Part"
@@ -1930,18 +2136,19 @@
    <topicref href="PART_24.dita"
              outputclass="Part"
              navtitle="PART 24 –– PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION"
-             props="PART 24"
+             props="Part 24"
              base="NoTitle"
              audience="DARS_PART_24"
              xtrf="Part"
              class="- map/topicref ">
       <topicref href="SUBPART_24.2.dita"
                 navtitle="SUBPART 24.2 — FREEDOM OF INFORMATION ACT"
-                props="PART 24.2"
+                props="Subpart 24.2"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_24.2"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_24.2.html"
                 class="- map/topicref ">
          <topicref href="224.203.dita"
                    navtitle="224.203 Policy."
@@ -1950,13 +2157,14 @@
                    audience="DARS_224.203"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_224.203.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_25.dita"
              navtitle="PART 25 –– FOREIGN ACQUISITIONS"
              outputclass="Part"
-             props="PART 25"
+             props="Part 25"
              base="NoTitle"
              audience="DARS_PART_25"
              xtrf="Part"
@@ -1964,7 +2172,7 @@
    <topicref href="PART_26.dita"
              navtitle="PART 26 –– OTHER SOCIOECONOMIC PROGRAMS"
              outputclass="Part"
-             props="PART 26"
+             props="Part 26"
              base="NoTitle"
              audience="DARS_PART_26"
              xtrf="Part"
@@ -1972,18 +2180,19 @@
    <topicref href="PART_27.dita"
              navtitle="PART 27 –– PATENTS, DATA, AND COPYRIGHTS"
              outputclass="Part"
-             props="PART 27"
+             props="Part 27"
              base="NoTitle"
              audience="DARS_PART_27"
              xtrf="Part"
              class="- map/topicref ">
       <topicref href="SUBPART_27.90.dita"
                 navtitle="SUBPART 27.90 – TRADEMARK RIGHTS UNDER GOVERNMENT CONTRACTS"
-                props="PART 27.90"
+                props="Subpart 27.90"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_27.90"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_27.90.html"
                 class="- map/topicref ">
          <topicref href="27.9000.dita"
                    navtitle="27.9000 Definitions."
@@ -1992,6 +2201,7 @@
                    audience="DARS_27.9000"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_27.9000.html"
                    class="- map/topicref "/>
          <topicref href="27.9001.dita"
                    navtitle="27.9001 Trademark rights under government contracts."
@@ -2000,24 +2210,26 @@
                    audience="DARS_27.9001"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_27.9001.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_28.dita"
              navtitle="PART 28 –– BONDS AND INSURANCE"
              outputclass="Part"
-             props="PART 28"
+             props="Part 28"
              base="NoTitle"
              audience="DARS_PART_28"
              xtrf="Part"
              class="- map/topicref ">
       <topicref href="SUBPART_28.1.dita"
                 navtitle="SUBPART 28.1 — BONDS"
-                props="PART 28.1"
+                props="Subpart 28.1"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_28.1"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_28.1.html"
                 class="- map/topicref ">
          <topicref href="28.106.dita"
                    navtitle="28.106 Administration."
@@ -2026,6 +2238,7 @@
                    audience="DARS_28.106"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_28.106.html"
                    class="- map/topicref "/>
          <topicref href="28.1066.dita"
                    navtitle="28.106-6 Furnishing information."
@@ -2034,15 +2247,17 @@
                    audience="DARS_28.1066"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_28.1066.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_28.2.dita"
                 navtitle="SUBPART 28.2 – SURETIES AND OTHER SECURITY FOR BONDS"
-                props="PART 28.2"
+                props="Subpart 28.2"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_28.2"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_28.2.html"
                 class="- map/topicref ">
          <topicref href="28.2035.dita"
                    navtitle="28.203-5 Exclusion of individual sureties."
@@ -2051,15 +2266,17 @@
                    audience="DARS_28.2035"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_28.2035.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_28.3.dita"
                 navtitle="SUBPART 28.3 – INSURANCE"
-                props="PART 28.3"
+                props="Subpart 28.3"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_28.3"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_28.3.html"
                 class="- map/topicref ">
          <topicref href="28.306.dita"
                    navtitle="28.306 Insurance under fixed–price contracts."
@@ -2068,6 +2285,7 @@
                    audience="DARS_28.306"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_28.306.html"
                    class="- map/topicref "/>
          <topicref href="28.310.dita"
                    navtitle="28.310 Contract clause for work on a Government installation."
@@ -2076,24 +2294,26 @@
                    audience="DARS_28.310"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_28.310.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_29.dita"
              navtitle="PART 29 ––TAXES"
              outputclass="Part"
-             props="PART 29"
+             props="Part 29"
              base="NoTitle"
              audience="DARS_PART_29"
              xtrf="Part"
              class="- map/topicref ">
       <topicref href="SUBPART_29.1.dita"
                 navtitle="SUBPART 29.1 — GENERAL"
-                props="PART 29.1"
+                props="Subpart 29.1"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_29.1"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_29.1.html"
                 class="- map/topicref ">
          <topicref href="29.101.dita"
                    navtitle="29.101 Resolving tax problems."
@@ -2102,13 +2322,14 @@
                    audience="DARS_29.101"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_29.101.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_30.dita"
              navtitle="PART 30 –– COST ACCOUNTING STANDARDS ADMINISTRATION"
              outputclass="Part"
-             props="PART 30"
+             props="Part 30"
              base="NoTitle"
              audience="DARS_PART_30"
              xtrf="Part"
@@ -2116,7 +2337,7 @@
    <topicref href="PART_31.dita"
              navtitle="PART 31 –– CONTRACT COST PRINCIPLES AND PROCEDURES"
              outputclass="Part"
-             props="PART 31"
+             props="Part 31"
              base="NoTitle"
              audience="DARS_PART_31"
              xtrf="Part"
@@ -2124,18 +2345,19 @@
    <topicref href="PART_32.dita"
              navtitle="PART 32 –– CONTRACT FINANCING"
              outputclass="Part"
-             props="PART 32"
+             props="Part 32"
              base="NoTitle"
              audience="DARS_PART_32"
              xtrf="Part"
              class="- map/topicref ">
       <topicref href="SUBPART_32.4.dita"
                 navtitle="SUBPART 32.4 –– ADVANCE PAYMENTS FOR NON–COMMERCIAL ITEMS"
-                props="PART 32.4"
+                props="Subpart 32.4"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_32.4"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_32.4.html"
                 class="- map/topicref ">
          <topicref href="32.402.dita"
                    navtitle="32.402 General."
@@ -2144,6 +2366,7 @@
                    audience="DARS_32.402"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_32.402.html"
                    class="- map/topicref "/>
          <topicref href="32.407.dita"
                    navtitle="32.407 Interest."
@@ -2152,15 +2375,17 @@
                    audience="DARS_32.407"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_32.407.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_32.7.dita"
                 navtitle="SUBPART 32.7 – CONTRACT FUNDING"
-                props="PART 32.7"
+                props="Subpart 32.7"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_32.7"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_32.7.html"
                 class="- map/topicref ">
          <topicref href="32.7032.dita"
                    navtitle="32.703-2 Contracts conditioned upon availability of funds."
@@ -2169,6 +2394,7 @@
                    audience="DARS_32.7032"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_32.7032.html"
                    class="- map/topicref "/>
          <topicref href="32.70390.dita"
                    navtitle="32.703-90 Solicitations issued without funding."
@@ -2177,15 +2403,17 @@
                    audience="DARS_32.70390"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_32.70390.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_32.9.dita"
                 navtitle="SUBPART 32.9 –– PROMPT PAYMENT"
-                props="PART 32.9"
+                props="Subpart 32.9"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_32.9"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_32.9.html"
                 class="- map/topicref ">
          <topicref href="32.901.dita"
                    navtitle="32.901 Applicability."
@@ -2194,15 +2422,17 @@
                    audience="DARS_32.901"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_32.901.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_32.11.dita"
                 navtitle="SUBPART 32.11 —ELECTRONIC FUNDS TRANSFER"
-                props="PART 32.11"
+                props="Subpart 32.11"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_32.11"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_32.11.html"
                 class="- map/topicref ">
          <topicref href="32.1106.dita"
                    navtitle="32.1106 EFT mechanisms."
@@ -2211,24 +2441,26 @@
                    audience="DARS_32.1106"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_32.1106.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_33.dita"
              navtitle="PART 33 –– PROTESTS, DISPUTES, AND APPEALS"
              outputclass="Part"
-             props="PART 33"
+             props="Part 33"
              base="NoTitle"
              audience="DARS_PART_33"
              xtrf="Part"
              class="- map/topicref ">
       <topicref href="SUBPART_33.1.dita"
                 navtitle="SUBPART 33.1 –– PROTESTS"
-                props="PART 33.1"
+                props="Subpart 33.1"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_33.1"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_33.1.html"
                 class="- map/topicref ">
          <topicref href="33.103.dita"
                    navtitle="33.103 Protests to the agency."
@@ -2237,6 +2469,7 @@
                    audience="DARS_33.103"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_33.103.html"
                    class="- map/topicref "/>
          <topicref href="33.104.dita"
                    navtitle="33.104 Protest to GAO."
@@ -2245,15 +2478,17 @@
                    audience="DARS_33.104"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_33.104.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_33.2.dita"
                 navtitle="SUBPART 33.2 –– DISPUTES AND APPEALS"
-                props="PART 33.2"
+                props="Subpart 33.2"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_33.2"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_33.2.html"
                 class="- map/topicref ">
          <topicref href="33.204.dita"
                    navtitle="33.204 Policy."
@@ -2262,6 +2497,7 @@
                    audience="DARS_33.204"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_33.204.html"
                    class="- map/topicref "/>
          <topicref href="33.211.dita"
                    navtitle="33.211 Contracting officer’s decision."
@@ -2270,24 +2506,26 @@
                    audience="DARS_33.211"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_33.211.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_34.dita"
              navtitle="PART 34 –– MAJOR SYSTEM ACQUISITION"
              outputclass="Part"
-             props="PART 34"
+             props="Part 34"
              base="NoTitle"
              audience="DARS_PART_34"
              xtrf="Part"
              class="- map/topicref ">
       <topicref href="SUBPART_34.0.dita"
                 navtitle="SUBPART 34.0 –– GENERAL"
-                props="PART 34.0"
+                props="Subpart 34.0"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_34.0"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_34.0.html"
                 class="- map/topicref ">
          <topicref href="34.003.dita"
                    navtitle="34.003 Responsibilities."
@@ -2296,13 +2534,14 @@
                    audience="DARS_34.003"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_34.003.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_35.dita"
              navtitle="PART 35 –– RESEARCH AND DEVELOPMENT CONTRACTING"
              outputclass="Part"
-             props="PART 35"
+             props="Part 35"
              base="NoTitle"
              audience="DARS_PART_35"
              xtrf="Part"
@@ -2310,7 +2549,7 @@
    <topicref href="PART_36.dita"
              outputclass="Part"
              navtitle="PART 36 – CONSTRUCTION AAAND ARCHITTECT–ENGINEER CONTRACTS"
-             props="PART 36"
+             props="Part 36"
              base="NoTitle"
              audience="DARS_PART_36"
              xtrf="Part"
@@ -2318,18 +2557,19 @@
    <topicref href="PART_37.dita"
              navtitle="PART 37 –– SERVICE CONTRACTING"
              outputclass="Part"
-             props="PART 37"
+             props="Part 37"
              base="NoTitle"
              audience="DARS_PART_37"
              xtrf="Part"
              class="- map/topicref ">
       <topicref href="SUBPART_37.1.dita"
                 navtitle="SUBPART 37.1 –– SERVICE CONTRACTS––GENERAL"
-                props="PART 37.1"
+                props="Subpart 37.1"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_37.1"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_37.1.html"
                 class="- map/topicref ">
          <topicref href="237.104.dita"
                    navtitle="237.104 Personal services contracts."
@@ -2338,6 +2578,7 @@
                    audience="DARS_237.104"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_237.104.html"
                    class="- map/topicref "/>
          <topicref href="237.170.dita"
                    navtitle="237.170 Approval of contracts and task orders for services."
@@ -2346,6 +2587,7 @@
                    audience="DARS_237.170"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_237.170.html"
                    class="- map/topicref "/>
          <topicref href="237.1702.dita"
                    navtitle="237.170-2 Approval requirements"
@@ -2354,13 +2596,14 @@
                    audience="DARS_237.1702"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_237.1702.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_38.dita"
              navtitle="PART 38 –– FEDERAL SUPPLY SCHEDULE CONTRACTING"
              outputclass="Part"
-             props="PART 38"
+             props="Part 38"
              base="NoTitle"
              audience="DARS_PART_38"
              xtrf="Part"
@@ -2368,18 +2611,19 @@
    <topicref href="PART_39.dita"
              navtitle="PART 39 — ACQUISITION OF INFORMATION TECHNOLOGY"
              outputclass="Part"
-             props="PART 39"
+             props="Part 39"
              base="NoTitle"
              audience="DARS_PART_39"
              xtrf="Part"
              class="- map/topicref ">
       <topicref href="SUBPART_39.1.dita"
                 navtitle="SUBPART 39.1 – GENERAL"
-                props="PART 39.1"
+                props="Subpart 39.1"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_39.1"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_39.1.html"
                 class="- map/topicref ">
          <topicref href="39.101.dita"
                    navtitle="39.101 Policy."
@@ -2388,15 +2632,17 @@
                    audience="DARS_39.101"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_39.101.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_39.2.dita"
                 navtitle="SUBPART 39.2 —INFORMATION AND COMMUNICATION TECHNOLOGY"
-                props="PART 39.2"
+                props="Subpart 39.2"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_39.2"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_39.2.html"
                 class="- map/topicref ">
          <topicref href="39.201.dita"
                    navtitle="39.201 Scope of subpart."
@@ -2405,15 +2651,17 @@
                    audience="DARS_39.201"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_39.201.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_239.74.dita"
                 navtitle="SUBPART 239.74 —TELECOMMUNICATIONS SERVICES"
-                props="PART 239.74"
+                props="Subpart 239.74"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_239.74"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_239.74.html"
                 class="- map/topicref ">
          <topicref href="239.7401.dita"
                    navtitle="239.7401 Definitions."
@@ -2422,6 +2670,7 @@
                    audience="DARS_239.7401"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_239.7401.html"
                    class="- map/topicref "/>
          <topicref href="239.7407.dita"
                    navtitle="239.7407 Type of contract."
@@ -2430,13 +2679,14 @@
                    audience="DARS_239.7407"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_239.7407.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_40.dita"
              navtitle="PART 40 –– RESERVED"
              outputclass="Part"
-             props="PART 40"
+             props="Part 40"
              base="NoTitle"
              audience="DARS_PART_40"
              xtrf="Part"
@@ -2444,7 +2694,7 @@
    <topicref href="PART_41.dita"
              navtitle="PART 41 — ACQUISITION OF UTILITY SERVICES"
              outputclass="Part"
-             props="PART 41"
+             props="Part 41"
              base="NoTitle"
              audience="DARS_PART_41"
              xtrf="Part"
@@ -2452,18 +2702,19 @@
    <topicref href="PART_42.dita"
              navtitle="PART 42 –– CONTRACT ADMINISTRATION AND AUDIT SERVICES"
              outputclass="Part"
-             props="PART 42"
+             props="Part 42"
              base="NoTitle"
              audience="DARS_PART_42"
              xtrf="Part"
              class="- map/topicref ">
       <topicref href="SUBPART_42.15.dita"
                 navtitle="SUBPART 42.15 — CONTRACTOR PERFORMANCE INFORMATION"
-                props="PART 42.15"
+                props="Subpart 42.15"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_42.15"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_42.15.html"
                 class="- map/topicref ">
          <topicref href="42.1502.dita"
                    navtitle="42.1502 Policy."
@@ -2472,6 +2723,7 @@
                    audience="DARS_42.1502"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_42.1502.html"
                    class="- map/topicref "/>
          <topicref href="42.1503.dita"
                    navtitle="42.1503 Procedures."
@@ -2480,24 +2732,26 @@
                    audience="DARS_42.1503"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_42.1503.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_43.dita"
              navtitle="PART 43 – CONTRACT MODIFICATIONS"
              outputclass="Part"
-             props="PART 43"
+             props="Part 43"
              base="NoTitle"
              audience="DARS_PART_43"
              xtrf="Part"
              class="- map/topicref ">
       <topicref href="SUBPART_43.1.dita"
                 navtitle="SUBPART 43.1 — GENERAL"
-                props="PART 43.1"
+                props="Subpart 43.1"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_43.1"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_43.1.html"
                 class="- map/topicref ">
          <topicref href="43.102.dita"
                    navtitle="43.102 Policy."
@@ -2506,15 +2760,17 @@
                    audience="DARS_43.102"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_43.102.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_243.2.dita"
                 navtitle="SUBPART 243.2 — CHANGE ORDERS"
-                props="PART 243.2"
+                props="Subpart 243.2"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_243.2"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_243.2.html"
                 class="- map/topicref ">
          <topicref href="243.20470.dita"
                    navtitle="243.204-70 Definitization of change orders."
@@ -2523,6 +2779,7 @@
                    audience="DARS_243.20470"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_243.20470.html"
                    class="- map/topicref "/>
          <topicref href="243.204.dita"
                    navtitle="243.204 –70–7 Plans and reports."
@@ -2531,15 +2788,17 @@
                    audience="DARS_243.204"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_243.204.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_43.9000.dita"
                 navtitle="SUBPART 43.9000 – SCOPE DETERMINATION"
-                props="PART 43.9000"
+                props="Subpart 43.9000"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_43.9000"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_43.9000.html"
                 class="- map/topicref ">
          <topicref href="43.9000.dita"
                    navtitle="43.9000 Policy."
@@ -2548,13 +2807,14 @@
                    audience="DARS_43.9000"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_43.9000.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_44.dita"
              navtitle="PART 44 –– SUBCONTRACTING POLICIES AND PROCEDURES"
              outputclass="Part"
-             props="PART 44"
+             props="Part 44"
              base="NoTitle"
              audience="DARS_PART_44"
              xtrf="Part"
@@ -2562,18 +2822,19 @@
    <topicref href="PART_45.dita"
              navtitle="PART 45 –– GOVERNMENT PROPERTY"
              outputclass="Part"
-             props="PART 45"
+             props="Part 45"
              base="NoTitle"
              audience="DARS_PART_45"
              xtrf="Part"
              class="- map/topicref ">
       <topicref href="SUBPART_45.1.dita"
                 navtitle="SUBPART 45.1 — GENERAL"
-                props="PART 45.1"
+                props="Subpart 45.1"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_45.1"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_45.1.html"
                 class="- map/topicref ">
          <topicref href="45.000.dita"
                    navtitle="45.000 Scope of part."
@@ -2582,6 +2843,7 @@
                    audience="DARS_45.000"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_45.000.html"
                    class="- map/topicref "/>
          <topicref href="45.101.dita"
                    navtitle="45.101 Definitions."
@@ -2590,6 +2852,7 @@
                    audience="DARS_45.101"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_45.101.html"
                    class="- map/topicref "/>
          <topicref href="45.102.dita"
                    navtitle="45.102 Policy."
@@ -2598,6 +2861,7 @@
                    audience="DARS_45.102"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_45.102.html"
                    class="- map/topicref "/>
          <topicref href="45.105.dita"
                    navtitle="45.105 Contractors’ property management system compliance."
@@ -2606,6 +2870,7 @@
                    audience="DARS_45.105"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_45.105.html"
                    class="- map/topicref "/>
          <topicref href="45.106.dita"
                    navtitle="45.106 Transferring accountability."
@@ -2614,15 +2879,17 @@
                    audience="DARS_45.106"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_45.106.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_45.2.dita"
                 navtitle="SUBPART 45.2 — SOLICITATION AND EVALUATION PROCEDURES"
-                props="PART 45.2"
+                props="Subpart 45.2"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_45.2"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_45.2.html"
                 class="- map/topicref ">
          <topicref href="45.201.dita"
                    navtitle="45.201 Solicitation."
@@ -2631,13 +2898,14 @@
                    audience="DARS_45.201"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_45.201.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_46.dita"
              navtitle="PART 46 –– QUALITY ASSURANCE"
              outputclass="Part"
-             props="PART 46"
+             props="Part 46"
              base="NoTitle"
              audience="DARS_PART_46"
              xtrf="Part"
@@ -2645,7 +2913,7 @@
    <topicref href="PART_47.dita"
              navtitle="PART 47 –– TRANSPORTATION"
              outputclass="Part"
-             props="PART 47"
+             props="Part 47"
              base="NoTitle"
              audience="DARS_PART_47"
              xtrf="Part"
@@ -2653,18 +2921,19 @@
    <topicref href="PART_48.dita"
              navtitle="PART 48 – VALUE ENGINEERING"
              outputclass="Part"
-             props="PART 48"
+             props="Part 48"
              base="NoTitle"
              audience="DARS_PART_48"
              xtrf="Part"
              class="- map/topicref ">
       <topicref href="SUBPART_48.1.dita"
                 navtitle="SUBPART 48.1 – POLICIES AND PROCEDURES"
-                props="PART 48.1"
+                props="Subpart 48.1"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_48.1"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_48.1.html"
                 class="- map/topicref ">
          <topicref href="48.101.dita"
                    navtitle="48.101 General."
@@ -2673,24 +2942,26 @@
                    audience="DARS_48.101"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_48.101.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_49.dita"
              navtitle="PART 49 –– TERMINATION OF CONTRACTS"
              outputclass="Part"
-             props="PART 49"
+             props="Part 49"
              base="NoTitle"
              audience="DARS_PART_49"
              xtrf="Part"
              class="- map/topicref ">
       <topicref href="SUBPART_49.1.dita"
                 navtitle="SUBPART 49.1 — GENERAL PRINCIPLES"
-                props="PART 49.1"
+                props="Subpart 49.1"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_49.1"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_49.1.html"
                 class="- map/topicref ">
          <topicref href="49.101.dita"
                    navtitle="49.101 Authorities and responsibilities."
@@ -2699,6 +2970,7 @@
                    audience="DARS_49.101"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_49.101.html"
                    class="- map/topicref "/>
          <topicref href="49.102.dita"
                    navtitle="49.102 Notice of termination."
@@ -2707,6 +2979,7 @@
                    audience="DARS_49.102"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_49.102.html"
                    class="- map/topicref "/>
          <topicref href="49.107.dita"
                    navtitle="49.107 Audit of prime contract settlement proposals and subcontract settlements."
@@ -2715,6 +2988,7 @@
                    audience="DARS_49.107"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_49.107.html"
                    class="- map/topicref "/>
          <topicref href="49.108.dita"
                    navtitle="49.108 Settlement of subcontract settlement proposals."
@@ -2723,6 +2997,7 @@
                    audience="DARS_49.108"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_49.108.html"
                    class="- map/topicref "/>
          <topicref href="49.1088.dita"
                    navtitle="49.108-8 Assignment of rights under subcontracts."
@@ -2731,6 +3006,7 @@
                    audience="DARS_49.1088"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_49.1088.html"
                    class="- map/topicref "/>
          <topicref href="49.109.dita"
                    navtitle="49.109 Settlement agreements."
@@ -2739,6 +3015,7 @@
                    audience="DARS_49.109"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_49.109.html"
                    class="- map/topicref "/>
          <topicref href="49.1091.dita"
                    navtitle="49.109-1 General."
@@ -2747,15 +3024,17 @@
                    audience="DARS_49.1091"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_49.1091.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_49.2.dita"
                 navtitle="SUBPART 49.2 — ADDITIONAL PRINCIPLES FOR FIXED–PRICE CONTRACTS TERMINATED FOR CONVENIENCE"
-                props="PART 49.2"
+                props="Subpart 49.2"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_49.2"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_49.2.html"
                 class="- map/topicref ">
          <topicref href="49.202.dita"
                    navtitle="49.202 Profit."
@@ -2764,6 +3043,7 @@
                    audience="DARS_49.202"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_49.202.html"
                    class="- map/topicref "/>
          <topicref href="49.206.dita"
                    navtitle="49.206 Settlement proposals."
@@ -2772,6 +3052,7 @@
                    audience="DARS_49.206"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_49.206.html"
                    class="- map/topicref "/>
          <topicref href="49.2061.dita"
                    navtitle="49.206-1 Submission of settlement proposals."
@@ -2780,15 +3061,17 @@
                    audience="DARS_49.2061"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_49.2061.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_49.3.dita"
                 navtitle="SUBPART 49.3 — ADDITIONAL PRINCIPLES FOR COST–REIMBURSEMENT CONTRACTS TERMINATED FOR CONVENIENCE"
-                props="PART 49.3"
+                props="Subpart 49.3"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_49.3"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_49.3.html"
                 class="- map/topicref ">
          <topicref href="49.303.dita"
                    navtitle="49.303 Procedure after discontinuing vouchers."
@@ -2797,6 +3080,7 @@
                    audience="DARS_49.303"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_49.303.html"
                    class="- map/topicref "/>
          <topicref href="49.3034.dita"
                    navtitle="49.303-4 Adjustment of indirect costs."
@@ -2805,6 +3089,7 @@
                    audience="DARS_49.3034"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_49.3034.html"
                    class="- map/topicref "/>
          <topicref href="49.3035.dita"
                    navtitle="49.303-5 Final settlement."
@@ -2813,6 +3098,7 @@
                    audience="DARS_49.3035"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_49.3035.html"
                    class="- map/topicref "/>
          <topicref href="49.305.dita"
                    navtitle="49.305 Adjustment of fee."
@@ -2821,6 +3107,7 @@
                    audience="DARS_49.305"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_49.305.html"
                    class="- map/topicref "/>
          <topicref href="49.3051.dita"
                    navtitle="49.305-1 General."
@@ -2829,15 +3116,17 @@
                    audience="DARS_49.3051"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_49.3051.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_49.4.dita"
                 navtitle="SUBPART 49.4 — TERMINATION FOR DEFAULT"
-                props="PART 49.4"
+                props="Subpart 49.4"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_49.4"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_49.4.html"
                 class="- map/topicref ">
          <topicref href="49.402.dita"
                    navtitle="49.402 Termination of Fixed–Price Contracts for Default."
@@ -2846,6 +3135,7 @@
                    audience="DARS_49.402"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_49.402.html"
                    class="- map/topicref "/>
          <topicref href="49.4023.dita"
                    navtitle="49.402-3 Procedure for default."
@@ -2854,15 +3144,17 @@
                    audience="DARS_49.4023"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_49.4023.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_249.70.dita"
                 navtitle="SUBPART 249.70 — SPECIAL TERMINATION REQUIREMENTS"
-                props="PART 249.70"
+                props="Subpart 249.70"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_249.70"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_249.70.html"
                 class="- map/topicref ">
          <topicref href="249.7001.dita"
                    navtitle="249.7001 Congressional notification on significant contract terminations."
@@ -2871,24 +3163,26 @@
                    audience="DARS_249.7001"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_249.7001.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_50.dita"
              outputclass="Part"
              navtitle="PART 50 –– EXTRAORDINARY CONTRACTUAL ACTIONS AND THE SAFETY ACT"
-             props="PART 50"
+             props="Part 50"
              base="NoTitle"
              audience="DARS_PART_50"
              xtrf="Part"
              class="- map/topicref ">
       <topicref href="SUBPART_50.1.dita"
                 navtitle="SUBPART 50.1 EXTRAORDINARY CONTRACTUAL ACTIONS"
-                props="PART 50.1"
+                props="Subpart 50.1"
                 base="NoTitle"
                 outputclass="SubPart"
                 audience="DARS_SUBPART_50.1"
                 xtrf="SubPart"
+                xtrc="DARS_SUBPART_50.1.html"
                 class="- map/topicref ">
          <topicref href="50.102.dita"
                    navtitle="50.102 Delegation of and limitations on exercise of authority."
@@ -2897,6 +3191,7 @@
                    audience="DARS_50.102"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_50.102.html"
                    class="- map/topicref "/>
          <topicref href="50.1022.dita"
                    navtitle="50.102-2 Contract adjustment boards."
@@ -2905,13 +3200,14 @@
                    audience="DARS_50.1022"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DARS_50.1022.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_51.dita"
              navtitle="PART 51 –– USE OF GOVERNMENT SOURCES BY CONTRACTORS"
              outputclass="Part"
-             props="PART 51"
+             props="Part 51"
              base="NoTitle"
              audience="DARS_PART_51"
              xtrf="Part"
@@ -2919,7 +3215,7 @@
    <topicref href="PART_52.dita"
              navtitle="PART 52 –– SOLICITATION PROVISIONS AND CONTRACT CLAUSES"
              outputclass="Part"
-             props="PART 52"
+             props="Part 52"
              base="NoTitle"
              audience="DARS_PART_52"
              xtrf="Part"
@@ -2927,7 +3223,7 @@
    <topicref href="PART_53.dita"
              navtitle="PART 53 – FORMS"
              outputclass="Part"
-             props="PART 53"
+             props="Part 53"
              base="NoTitle"
              audience="DARS_PART_53"
              xtrf="Part"
@@ -2935,7 +3231,7 @@
    <topicref href="APPENDIX-A.dita"
              navtitle="APPENDIX A –– DISA PLAN FOR CONTROL OF CLAUSES"
              outputclass="Part"
-             props="APPENDIX A"
+             props="APPENDIX A - DISA PLAN FOR CONTROL OF CLAUSES"
              base="NoTitle"
              audience="DARS_APPENDIX-A"
              xtrf="Part"
@@ -2943,7 +3239,7 @@
    <topicref href="APPENDIX-B.dita"
              navtitle="APPENDIX B –– DISA PLAN FOR CONTROL OF CLAUSES"
              outputclass="Part"
-             props="APPENDIX B"
+             props="APPENDIX B - DISA PLAN FOR CONTROL OF CLAUSES"
              base="NoTitle"
              audience="DARS_APPENDIX-B"
              xtrf="Part"

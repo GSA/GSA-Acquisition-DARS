@@ -1,144 +1,128 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="DARS_201.303"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">201.303</ph> Publication and codification.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="rABhav" outputclass="Text Body" class="- topic/p ">(a)(ii) To the extent practical all DARS text (whether implemental or supplemental) will be numbered as if it were implemented in accordance with DFARS Subpart 201.303-Publication and Codification. Supplemental numbering will only be used when the text cannot be integrated intelligibly with its FAR or DFARS counterpart. DARS supplements shall parallel the FAR and/or DFARS, with the exception that supplemental sections are numbered using 90 or (S-90). Parts, subparts, sections, or subsections are supplemented by the addition of a number of 90 and up. Lower divisions are supplemented by the addition of a number of (S-90).</p>
-      <p id="XkKYGh" outputclass="Normal" class="- topic/p ">(D) The table shown in DFARS Subpart 201.303(D), DFARS Numbering provides an example</p>
-      <p id="BnVKBF" outputclass="Text Body" class="- topic/p ">of the numbering system. Sample Table with DARS Numbering below</p>
-      <p id="OLeWom" outputclass="Ctr text body" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">Table 1-</b>
-         <b class="+ topic/ph hi-d/b ">2</b>
-         <b class="+ topic/ph hi-d/b ">DARS Numbering</b>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DARS_201.303" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">201.303</ph> Publication and codification.</title>
+   <conbody>
+      <p id="rABhav" outputclass="Text Body">(a)(ii) To the extent practical all DARS text (whether implemental or supplemental) will be numbered as if it were implemented in accordance with DFARS Subpart 201.303-Publication and Codification. Supplemental numbering will only be used when the text cannot be integrated intelligibly with its FAR or DFARS counterpart. DARS supplements shall parallel the FAR and/or DFARS, with the exception that supplemental sections are numbered using 90 or (S-90). Parts, subparts, sections, or subsections are supplemented by the addition of a number of 90 and up. Lower divisions are supplemented by the addition of a number of (S-90).</p>
+      <p id="XkKYGh" outputclass="Normal">(D) The table shown in DFARS Subpart 201.303(D), DFARS Numbering provides an example</p>
+      <p id="BnVKBF" outputclass="Text Body">of the numbering system. Sample Table with DARS Numbering below</p>
+      <p id="OLeWom" outputclass="Ctr text body">
+         <b>Table 1-</b>
+         <b>2</b>
+         <b>DARS Numbering</b>
       </p>
-      <table colsep="1" rowsep="1" class="- topic/table ">
-         <tgroup cols="4" colsep="1" class="- topic/tgroup ">
-            <colspec colname="1"
-                     colnum="1"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="2"
-                     colnum="2"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="3"
-                     colnum="3"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="4"
-                     colnum="4"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <tbody class="- topic/tbody ">
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="alWkzU" class="- topic/p ">FAR</p>
+      <table colsep="1" rowsep="1">
+         <tgroup cols="4" colsep="1">
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="3" colnum="3" rowheader="headers" />
+            <colspec colname="4" colnum="4" rowheader="headers" />
+            <tbody>
+               <row rowsep="1">
+                  <entry>
+                     <p id="alWkzU">FAR</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="OSMyLt" class="- topic/p ">DFARS Implements</p>
-                     <p id="PccNyX" class="- topic/p ">FAR As</p>
+                  <entry>
+                     <p id="OSMyLt">DFARS Implements</p>
+                     <p id="PccNyX">FAR As</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="QXUBuu" class="- topic/p ">DFARS Supplements</p>
-                     <p id="tdDGeO" class="- topic/p ">FAR As</p>
+                  <entry>
+                     <p id="QXUBuu">DFARS Supplements</p>
+                     <p id="tdDGeO">FAR As</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="wiNCTp" class="- topic/p ">DARS Supplements</p>
-                     <p id="kGRpcG" class="- topic/p ">DFARS As</p>
+                  <entry>
+                     <p id="wiNCTp">DARS Supplements</p>
+                     <p id="kGRpcG">DFARS As</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="hYVtrR" class="- topic/p ">19</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="hYVtrR">19</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="BpnQWv" class="- topic/p ">219</p>
+                  <entry>
+                     <p id="BpnQWv">219</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="DCKfzo" class="- topic/p ">219.70</p>
+                  <entry>
+                     <p id="DCKfzo">219.70</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="vXLlVE" class="- topic/p ">219.70-90</p>
-                  </entry>
-               </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="WTJSyE" class="- topic/p ">19.5</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="tORykP" class="- topic/p ">219.5</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="KDnZJf" class="- topic/p ">219.570</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="suLeJr" class="- topic/p ">219.570-90</p>
+                  <entry>
+                     <p id="vXLlVE">219.70-90</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="RigCIM" class="- topic/p ">19.501</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="WTJSyE">19.5</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="AoJdNi" class="- topic/p ">219.501</p>
+                  <entry>
+                     <p id="tORykP">219.5</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="dYPxBE" class="- topic/p ">219.501-70</p>
+                  <entry>
+                     <p id="KDnZJf">219.570</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="YvGeMs" class="- topic/p ">219.501-70-90</p>
-                  </entry>
-               </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="nMOADN" class="- topic/p ">19.501-1</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="FPoQWi" class="- topic/p ">219.501-1</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="SRGveh" class="- topic/p ">219.501-1-70</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="RoRneT" class="- topic/p ">219.501-1-70-90</p>
+                  <entry>
+                     <p id="suLeJr">219.570-90</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="pQTQZB" class="- topic/p ">19.501-1(a)</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="RigCIM">19.501</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="eSKZRh" class="- topic/p ">219.501-1(a)</p>
+                  <entry>
+                     <p id="AoJdNi">219.501</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="GGjEsW" class="- topic/p ">219.501-1(a)(S-70)</p>
+                  <entry>
+                     <p id="dYPxBE">219.501-70</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ZiQXNt" class="- topic/p ">219.501-19(a)(S-70)(S-90)</p>
+                  <entry>
+                     <p id="YvGeMs">219.501-70-90</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="FsQhit" class="- topic/p ">19.501-1(a)(1)</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="nMOADN">19.501-1</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="tWhHjF" class="- topic/p ">219.501-1(a)(1)</p>
+                  <entry>
+                     <p id="FPoQWi">219.501-1</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="RjwVxO" class="- topic/p ">219.501-1(a)(1)(S-70)</p>
+                  <entry>
+                     <p id="SRGveh">219.501-1-70</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="dQmmca" class="- topic/p ">219.501-1(a)(1)(S-70)(S-90)</p>
+                  <entry>
+                     <p id="RoRneT">219.501-1-70-90</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="pQTQZB">19.501-1(a)</p>
+                  </entry>
+                  <entry>
+                     <p id="eSKZRh">219.501-1(a)</p>
+                  </entry>
+                  <entry>
+                     <p id="GGjEsW">219.501-1(a)(S-70)</p>
+                  </entry>
+                  <entry>
+                     <p id="ZiQXNt">219.501-19(a)(S-70)(S-90)</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="FsQhit">19.501-1(a)(1)</p>
+                  </entry>
+                  <entry>
+                     <p id="tWhHjF">219.501-1(a)(1)</p>
+                  </entry>
+                  <entry>
+                     <p id="RjwVxO">219.501-1(a)(1)(S-70)</p>
+                  </entry>
+                  <entry>
+                     <p id="dQmmca">219.501-1(a)(1)(S-70)(S-90)</p>
                   </entry>
                </row>
             </tbody>
          </tgroup>
       </table>
-      <p id="LhTEnd" outputclass="Text Body" class="- topic/p ">(S-90) Sections under subparts will be enumerated using FAR or DFAR numbering conventions, depending on whether the FAR or DFAR is being implemented or supplemented.</p>
+      <p id="LhTEnd" outputclass="Text Body">(S-90) Sections under subparts will be enumerated using FAR or DFAR numbering conventions, depending on whether the FAR or DFAR is being implemented or supplemented.</p>
    </conbody>
 </concept>

@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="DARS_28.306"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">28.306</ph> Insurance under fixed-price contracts.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="oJZFFz" outputclass="Normal" class="- topic/p ">(b) See DARS PGI 28.306(b) for Certificate of Insurance</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DARS_28.306" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">28.306</ph> Insurance under fixed-price contracts.</title>
+   <conbody>
+      <p id="oJZFFz" outputclass="Normal">(b) See DARS PGI 28.306(b) for Certificate of Insurance</p>
    </conbody>
 </concept>

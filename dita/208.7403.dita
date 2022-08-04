@@ -1,27 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="DARS_208.7403"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">208.7403</ph> Acquisition procedures.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="kBreTi" outputclass="Text Body" class="- topic/p ">(S-90) In accordance with DFARS PGI 208.7403(5)(iii), the designated management official is the DISA CIO.</p>
-      <p id="fikfSO" outputclass="Text Body" class="- topic/p ">(S-91) If requiring officials determine that the JELA supports a requirement, but there is an unusual or compelling circumstance to use another source, the waiver must be completed and submitted with the acquisition package. The waiver is located at <xref format="html"
-               href="https://www.ditco.disa.mil/contracts/SampleDocTemplates.asp."
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">https://www.ditco.disa.mil/contracts/SampleDocTemplates.asp.</u>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DARS_208.7403" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">208.7403</ph> Acquisition procedures.</title>
+   <conbody>
+      <p id="kBreTi" outputclass="Text Body">(S-90) In accordance with DFARS PGI 208.7403(5)(iii), the designated management official is the DISA CIO.</p>
+      <p id="fikfSO" outputclass="Text Body">(S-91) If requiring officials determine that the JELA supports a requirement, but there is an unusual or compelling circumstance to use another source, the waiver must be completed and submitted with the acquisition package. The waiver is located at <xref format="html" href="https://www.ditco.disa.mil/contracts/SampleDocTemplates.asp." scope="external">
+            <u>https://www.ditco.disa.mil/contracts/SampleDocTemplates.asp.</u>
          </xref>
       </p>
-      <p id="BAxQgb" outputclass="Text Body" class="- topic/p ">
-         <image height="2.65mm"
-                href="Graphics/image1.png"
-                width="158.75mm"
-                placement="inline"
-                class="- topic/image "/>
+      <p id="BAxQgb" outputclass="Text Body">
+         <image height="2.65mm" href="Graphics/image1.png" width="158.75mm" placement="inline" />
       </p>
    </conbody>
 </concept>

@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="DARS_33.211"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">33.211</ph> Contracting officers decision.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="Txuyra" outputclass="Text Body" class="- topic/p ">(a) The contracting officer must coordinate with legal counsel and the CoCO and HCO prior to issuing a final decision.</p>
-      <p id="NNGGIz" outputclass="Text Body" class="- topic/p ">(S-90) <i class="+ topic/ph hi-d/i ">Settlements.</i> The contracting officer must coordinate with legal counsel, a DITCO Cost/Price Analyst, the CoCO, and the HCO on proposed settlement agreements.</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DARS_33.211" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">33.211</ph> Contracting officers decision.</title>
+   <conbody>
+      <p id="Txuyra" outputclass="Text Body">(a) The contracting officer must coordinate with legal counsel and the CoCO and HCO prior to issuing a final decision.</p>
+      <p id="NNGGIz" outputclass="Text Body">(S-90) <i>Settlements.</i> The contracting officer must coordinate with legal counsel, a DITCO Cost/Price Analyst, the CoCO, and the HCO on proposed settlement agreements.</p>
    </conbody>
 </concept>

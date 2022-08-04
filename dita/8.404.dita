@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="DARS_8.404"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">8.404</ph> Use of Federal Supply Schedules.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="SdWwke" class="- topic/p ">(h)(3)(ii)(A) A determination and findings is not required for time-and-materials or labor-hour CLINS utilizing Order Level Materials (OLM) under GSA Schedules. The cumulative value of the OLM CLIN/SLINs shall not exceed 33.33% of the total value of the order or BPA, not including travel.</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DARS_8.404" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">8.404</ph> Use of Federal Supply Schedules.</title>
+   <conbody>
+      <p id="SdWwke">(h)(3)(ii)(A) A determination and findings is not required for time-and-materials or labor-hour CLINS utilizing Order Level Materials (OLM) under GSA Schedules. The cumulative value of the OLM CLIN/SLINs shall not exceed 33.33% of the total value of the order or BPA, not including travel.</p>
    </conbody>
 </concept>

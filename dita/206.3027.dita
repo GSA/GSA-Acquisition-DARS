@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="DARS_206.3027"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">206.302-7</ph> Public interest.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="sZqgXS" outputclass="Text Body" class="- topic/p ">(c)(1) Follow the format at FAR 1.7 to prepare the D&amp;F.</p>
-      <p id="mvmikW" outputclass="Text Body" class="- topic/p ">Required coordination: CoCO and HCO, PACA/ACA, PL2, legal counsel, HCA, and SPE. Provide the PACA with a copy of the approved D&amp;F.</p>
-      <p id="XeNjPp" outputclass="Text Body" class="- topic/p ">(3) A justification is required to support the determination.</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DARS_206.3027" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">206.302-7</ph> Public interest.</title>
+   <conbody>
+      <p id="sZqgXS" outputclass="Text Body">(c)(1) Follow the format at FAR 1.7 to prepare the D&amp;F.</p>
+      <p id="mvmikW" outputclass="Text Body">Required coordination: CoCO and HCO, PACA/ACA, PL2, legal counsel, HCA, and SPE. Provide the PACA with a copy of the approved D&amp;F.</p>
+      <p id="XeNjPp" outputclass="Text Body">(3) A justification is required to support the determination.</p>
    </conbody>
 </concept>

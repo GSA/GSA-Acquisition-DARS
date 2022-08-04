@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="DARS_204.802"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">204.802</ph> Contract files.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="lHwjLt" outputclass="Text Body" class="- topic/p ">(S-90) The contracting officer shall use the contract file checklist applicable to the procurement and file the completed contract file checklist and any required supporting documents in the Electronic Document Management System (EDMS) contract file. Contract Specialists using the Procurement Administrative Lead Time (PALT) Tracking Application (PTA) shall export the contract checklists out of the PTA and file the checklist into EDMS in accordance with the Standard Operating Procedure for the PTA. The required checklists for procurements accomplished in accordance with FAR Part 8.4/Federal Supply Schedules and FAR Part 16.5/Indefinite Delivery Contracts, FAR Part 12/Acquisition of Commercial Items, FAR Part 13/Simplified Acquisition Procedures, FAR Part 15/Contracting by Negotiation, IDIQ CSA Orders, and Inquiry/Quote/Order (IQO) Contracts are incorporated into the PTA. If the Contracting Officer is not using the PTA checklist, the contract file checklists for the awards and modifications located in <xref format="aspx"
-               href="https://disa.deps.mil/org/PL2/Pages/DITCORefs.aspx"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">DARS PGI</u>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DARS_204.802" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">204.802</ph> Contract files.</title>
+   <conbody>
+      <p id="lHwjLt" outputclass="Text Body">(S-90) The contracting officer shall use the contract file checklist applicable to the procurement and file the completed contract file checklist and any required supporting documents in the Electronic Document Management System (EDMS) contract file. Contract Specialists using the Procurement Administrative Lead Time (PALT) Tracking Application (PTA) shall export the contract checklists out of the PTA and file the checklist into EDMS in accordance with the Standard Operating Procedure for the PTA. The required checklists for procurements accomplished in accordance with FAR Part 8.4/Federal Supply Schedules and FAR Part 16.5/Indefinite Delivery Contracts, FAR Part 12/Acquisition of Commercial Items, FAR Part 13/Simplified Acquisition Procedures, FAR Part 15/Contracting by Negotiation, IDIQ CSA Orders, and Inquiry/Quote/Order (IQO) Contracts are incorporated into the PTA. If the Contracting Officer is not using the PTA checklist, the contract file checklists for the awards and modifications located in <xref format="aspx" href="https://disa.deps.mil/org/PL2/Pages/DITCORefs.aspx" scope="external">
+            <u>DARS PGI</u>
          </xref>
-         <ph class="- topic/ph "> </ph>204.802(S-90) shall be used. A new contract file checklist is required for each new procurement action.</p>
-      <p id="XLdTuY" outputclass="Text Body" class="- topic/p ">(S-91) When using the Integrated Defense Enterprise Acquisition System (IDEAS), the system is the checklist and leads the user through the process by issuing various tasks when required. Therefore, (S-90) is not applicable when using IDEAS.</p>
+         <ph> </ph>204.802(S-90) shall be used. A new contract file checklist is required for each new procurement action.</p>
+      <p id="XLdTuY" outputclass="Text Body">(S-91) When using the Integrated Defense Enterprise Acquisition System (IDEAS), the system is the checklist and leads the user through the process by issuing various tasks when required. Therefore, (S-90) is not applicable when using IDEAS.</p>
    </conbody>
 </concept>

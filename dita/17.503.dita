@@ -1,161 +1,136 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="DARS_17.503"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">17.503</ph> Ordering Procedures.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="jYOdyJ" outputclass="Ctr normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">Table 17-1 DISA/DITCO’s Approval Authority Interagency Assisted Acquisitions</b>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DARS_17.503" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">17.503</ph> Ordering Procedures.</title>
+   <conbody>
+      <p id="jYOdyJ" outputclass="Ctr normal">
+         <b>Table 17-1 DISA/DITCO’s Approval Authority Interagency Assisted Acquisitions</b>
       </p>
-      <table colsep="1" rowsep="1" class="- topic/table ">
-         <tgroup cols="3" colsep="1" class="- topic/tgroup ">
-            <colspec colname="1"
-                     colnum="1"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="2"
-                     colnum="2"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="3"
-                     colnum="3"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <tbody class="- topic/tbody ">
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="kSGVoI" outputclass=" Ctr" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Regulatory Authority</b>
+      <table colsep="1" rowsep="1">
+         <tgroup cols="3" colsep="1">
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="3" colnum="3" rowheader="headers" />
+            <tbody>
+               <row rowsep="1">
+                  <entry>
+                     <p id="kSGVoI" outputclass=" Ctr">
+                        <b>Regulatory Authority</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="RIUDuu" outputclass=" Ctr" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Agreement Type</b>
+                  <entry>
+                     <p id="RIUDuu" outputclass=" Ctr">
+                        <b>Agreement Type</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="IEyFGB" outputclass=" Ctr" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Approval</b>
+                  <entry>
+                     <p id="IEyFGB" outputclass=" Ctr">
+                        <b>Approval</b>
                      </p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="VCwgSY" class="- topic/p ">FAR &amp; DFARS</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="VCwgSY">FAR &amp; DFARS</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ySiCES" class="- topic/p ">One contract award or multiple contract actions under one contract vehicle</p>
+                  <entry>
+                     <p id="ySiCES">One contract award or multiple contract actions under one contract vehicle</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="dFziUh" class="- topic/p ">Contracting Officer (KO) (up to warrant amount)</p>
-                  </entry>
-               </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="MsPSZo" class="- topic/p ">FAR &amp; DFARS</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="AQcmPE" class="- topic/p ">Multiple contract awards against multiple contract vehicles and/or methods within one contracting office</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="KxzIyH" class="- topic/p ">Chief of Contracting Office (CoCO)</p>
+                  <entry>
+                     <p id="dFziUh">Contracting Officer (KO) (up to warrant amount)</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="vNJHOn" class="- topic/p ">FAR &amp; DFARS</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="MsPSZo">FAR &amp; DFARS</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="QSccqJ" class="- topic/p ">Multiple contract awards against multiple contract vehicles and/or methods within multiple contracting offices</p>
+                  <entry>
+                     <p id="AQcmPE">Multiple contract awards against multiple contract vehicles and/or methods within one contracting office</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="WpdzOK" class="- topic/p ">Vice Procurement Services Executive</p>
+                  <entry>
+                     <p id="KxzIyH">Chief of Contracting Office (CoCO)</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="vNJHOn">FAR &amp; DFARS</p>
+                  </entry>
+                  <entry>
+                     <p id="QSccqJ">Multiple contract awards against multiple contract vehicles and/or methods within multiple contracting offices</p>
+                  </entry>
+                  <entry>
+                     <p id="WpdzOK">Vice Procurement Services Executive</p>
                   </entry>
                </row>
             </tbody>
          </tgroup>
       </table>
-      <p id="ketHBj" outputclass="normal Ctr" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">Table 17-2 DISA Coordination and Approval Authority for Determination and Findings (D&amp;F) for Assisted Acquisitions</b>
+      <p id="ketHBj" outputclass="normal Ctr">
+         <b>Table 17-2 DISA Coordination and Approval Authority for Determination and Findings (D&amp;F) for Assisted Acquisitions</b>
       </p>
-      <table colsep="1" rowsep="1" class="- topic/table ">
-         <tgroup cols="4" colsep="1" class="- topic/tgroup ">
-            <colspec colname="1"
-                     colnum="1"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="2"
-                     colnum="2"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="3"
-                     colnum="3"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="4"
-                     colnum="4"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <tbody class="- topic/tbody ">
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="adVuXV" outputclass=" Ctr" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Regulatory Authority</b>
+      <table colsep="1" rowsep="1">
+         <tgroup cols="4" colsep="1">
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="3" colnum="3" rowheader="headers" />
+            <colspec colname="4" colnum="4" rowheader="headers" />
+            <tbody>
+               <row rowsep="1">
+                  <entry>
+                     <p id="adVuXV" outputclass=" Ctr">
+                        <b>Regulatory Authority</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="udXlOd" outputclass=" Ctr" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Dollar Threshold</b>
+                  <entry>
+                     <p id="udXlOd" outputclass=" Ctr">
+                        <b>Dollar Threshold</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="SgrGlS" outputclass=" Ctr" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Concurrence</b>
+                  <entry>
+                     <p id="SgrGlS" outputclass=" Ctr">
+                        <b>Concurrence</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="AMVyEf" outputclass=" Ctr" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Approval</b>
+                  <entry>
+                     <p id="AMVyEf" outputclass=" Ctr">
+                        <b>Approval</b>
                      </p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="KCKpLp" class="- topic/p ">FAR &amp; DFARS</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="KCKpLp">FAR &amp; DFARS</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="XNRZFX" class="- topic/p ">Exceeding the micro-purchase threshold to</p>
-                     <p id="XcBeBH" class="- topic/p ">$50M</p>
+                  <entry>
+                     <p id="XNRZFX">Exceeding the micro-purchase threshold to</p>
+                     <p id="XcBeBH">$50M</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="mKfdjv" class="- topic/p ">Requirements Official</p>
+                  <entry>
+                     <p id="mKfdjv">Requirements Official</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="gzBxeN" class="- topic/p ">Chief of Contracting Office (CoCO)</p>
+                  <entry>
+                     <p id="gzBxeN">Chief of Contracting Office (CoCO)</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="BPYjmZ" class="- topic/p ">FAR &amp; DFARS</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="BPYjmZ">FAR &amp; DFARS</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="sLuzLV" class="- topic/p ">Exceeding $50M</p>
+                  <entry>
+                     <p id="sLuzLV">Exceeding $50M</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="lvqUTO" class="- topic/p ">1) Director of the Requirements Office</p>
-                     <p id="cxwGLB" class="- topic/p ">2) CoCO</p>
+                  <entry>
+                     <p id="lvqUTO">1) Director of the Requirements Office</p>
+                     <p id="cxwGLB">2) CoCO</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="cfwauZ" class="- topic/p ">Head of Contracting Office (HCO)</p>
+                  <entry>
+                     <p id="cfwauZ">Head of Contracting Office (HCO)</p>
                   </entry>
                </row>
             </tbody>
          </tgroup>
       </table>
-      <p id="p__bookmark189" outputclass="Text Body" class="- topic/p "/>
+      <p id="p__bookmark189" outputclass="Text Body"></p>
    </conbody>
 </concept>

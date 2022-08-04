@@ -1,245 +1,211 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="DARS_1.9000"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">1.9000</ph> Review and approval of contract actions.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="BDhoEi" outputclass="List1" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">(a) Definitions.</i>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DARS_1.9000" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">1.9000</ph> Review and approval of contract actions.</title>
+   <conbody>
+      <p id="BDhoEi" outputclass="List1">
+         <i>(a) Definitions.</i>
       </p>
-      <p id="KlyxUC" outputclass="Text Body" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">Contract Decision Authority (CDA)</i> means the individuals delegated the authority to review and approve contract actions and contract approvals.</p>
-      <p id="oFXcTk" outputclass="Text Body" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">Contract Approval</i> means for competitive acquisitions conducted with or without discussions, approval by the Contract Decision Authority (CDA) or Source Selection Authority (SSA) to authorize the contracting officer to award a contract or order.</p>
-      <p id="POnGtJ" outputclass="List1" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">(b) Exclusions.</i>
+      <p id="KlyxUC" outputclass="Text Body">
+         <i>Contract Decision Authority (CDA)</i> means the individuals delegated the authority to review and approve contract actions and contract approvals.</p>
+      <p id="oFXcTk" outputclass="Text Body">
+         <i>Contract Approval</i> means for competitive acquisitions conducted with or without discussions, approval by the Contract Decision Authority (CDA) or Source Selection Authority (SSA) to authorize the contracting officer to award a contract or order.</p>
+      <p id="POnGtJ" outputclass="List1">
+         <i>(b) Exclusions.</i>
       </p>
-      <p id="ckTURG" outputclass="List1" class="- topic/p ">(1) An extension modification or contract award as a result of a protest.</p>
-      <p id="jDafqL" outputclass="List1" class="- topic/p ">(2) An order issued against an existing contract, BOA or BPA if:</p>
-      <p id="thNybN" outputclass="List1" class="- topic/p ">(i) Prices have been established in the basic indefinite delivery contract, BOA or BPA;</p>
-      <p id="hbRdGU" outputclass="List1" class="- topic/p ">(ii) All other terms and conditions have been established in the basic indefinite delivery contract, BOA or BPA;</p>
-      <p id="HKcLrF" outputclass="List1" class="- topic/p ">(iii) The basic contract, BOA or BPA was reviewed and found legally sufficient; and</p>
-      <p id="XYCfFt" outputclass="List1" class="- topic/p ">(iv) There are no negotiations (i.e., no proposal, formal or informal, is necessary for the order to be issued) involved in the award of the proposed order under the indefinite delivery contract, BOA or BPA.</p>
-      <p id="OxSjrr" outputclass="List1" class="- topic/p ">(3) The order is issued against a single award contract, BOA or BPA.</p>
-      <p id="wdsZjW" outputclass="List1" class="- topic/p ">(4) Inquiries issued in accordance with the <xref format="asp"
-               href="https://www.ditco.disa.mil/hq/deskbooks.asp"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">Inquiry/Quote/Order (IQO) Acquisition</u>
-            <u class="+ topic/ph hi-d/u ">Deskbook</u>
+      <p id="ckTURG" outputclass="List1">(1) An extension modification or contract award as a result of a protest.</p>
+      <p id="jDafqL" outputclass="List1">(2) An order issued against an existing contract, BOA or BPA if:</p>
+      <p id="thNybN" outputclass="List1">(i) Prices have been established in the basic indefinite delivery contract, BOA or BPA;</p>
+      <p id="hbRdGU" outputclass="List1">(ii) All other terms and conditions have been established in the basic indefinite delivery contract, BOA or BPA;</p>
+      <p id="HKcLrF" outputclass="List1">(iii) The basic contract, BOA or BPA was reviewed and found legally sufficient; and</p>
+      <p id="XYCfFt" outputclass="List1">(iv) There are no negotiations (i.e., no proposal, formal or informal, is necessary for the order to be issued) involved in the award of the proposed order under the indefinite delivery contract, BOA or BPA.</p>
+      <p id="OxSjrr" outputclass="List1">(3) The order is issued against a single award contract, BOA or BPA.</p>
+      <p id="wdsZjW" outputclass="List1">(4) Inquiries issued in accordance with the <xref format="asp" href="https://www.ditco.disa.mil/hq/deskbooks.asp" scope="external">
+            <u>Inquiry/Quote/Order (IQO) Acquisition</u>
+            <u>Deskbook</u>
          </xref>. However, Orders issued as a result of the inquiries, are not excluded from the contract review and approval.</p>
-      <p id="LCJXFI" outputclass="List1" class="- topic/p ">(5) Contract actions that solely provide incremental funding, incentive fee funding, award fee funding, or other administrative contract modifications.</p>
-      <p id="cxBlZe" outputclass="Normal" class="- topic/p ">(6) Priced options that were previously established in the basic contract/order and that are exercised in accordance with the established prices and terms and conditions of the contract/order.</p>
-      <p id="Rdutej" outputclass="Normal" class="- topic/p ">(c) <i class="+ topic/ph hi-d/i ">Policy, thresholds, and approvals.</i>
+      <p id="LCJXFI" outputclass="List1">(5) Contract actions that solely provide incremental funding, incentive fee funding, award fee funding, or other administrative contract modifications.</p>
+      <p id="cxBlZe" outputclass="Normal">(6) Priced options that were previously established in the basic contract/order and that are exercised in accordance with the established prices and terms and conditions of the contract/order.</p>
+      <p id="Rdutej" outputclass="Normal">(c) <i>Policy, thresholds, and approvals.</i>
       </p>
-      <p id="gDYYZj" outputclass="Text Body" class="- topic/p ">Procurement actions are subject to various review levels and thresholds as set forth below.</p>
-      <p id="AbDvyX" outputclass="Text Body" class="- topic/p ">Note: HCOs and CoCOs are accountable for procurement quality. HCOs and CoCOs will establish an internal review, self-inspection program to review contract files not less than annually to ensure quality standards are maintained for all procurement actions within their respective offices, including simplified acquisitions. The HCO and/or CoCO is responsible for identifying the quality control measures implemented for the DITCO in the Manager's Internal Control Program. The results of the quality inspections will be provided to PL2 for trend analysis, training purposes, and future PMRs.</p>
-      <p id="pyskwp" outputclass="List1" class="- topic/p ">(1) The objectives of the review and approval process are to ensure that:</p>
-      <p id="RqgaIm" outputclass="List1" class="- topic/p ">(i) Contract actions effectively implement approved acquisition strategies;</p>
-      <p id="ohtAjw" outputclass="List1" class="- topic/p ">(ii) Negotiations and contract actions result in fair and reasonable business arrangements;</p>
-      <p id="sIcUWQ" outputclass="List1" class="- topic/p ">(iii) Negotiations and contract actions are consistent with laws, regulations, and policies; and,</p>
-      <p id="tfHwMS" outputclass="List1" class="- topic/p ">(iv) An independent review and assessment for the proposed contract action is accomplished.</p>
-      <p id="DoIxRB" outputclass="List1" class="- topic/p ">(2) Contract actions meeting the contract value thresholds set in <xref format="aspx"
-               href="https://disa.deps.mil/org/PL2/Pages/DITCORefs.aspx"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">DARS PGI</u>
+      <p id="gDYYZj" outputclass="Text Body">Procurement actions are subject to various review levels and thresholds as set forth below.</p>
+      <p id="AbDvyX" outputclass="Text Body">Note: HCOs and CoCOs are accountable for procurement quality. HCOs and CoCOs will establish an internal review, self-inspection program to review contract files not less than annually to ensure quality standards are maintained for all procurement actions within their respective offices, including simplified acquisitions. The HCO and/or CoCO is responsible for identifying the quality control measures implemented for the DITCO in the Manager's Internal Control Program. The results of the quality inspections will be provided to PL2 for trend analysis, training purposes, and future PMRs.</p>
+      <p id="pyskwp" outputclass="List1">(1) The objectives of the review and approval process are to ensure that:</p>
+      <p id="RqgaIm" outputclass="List1">(i) Contract actions effectively implement approved acquisition strategies;</p>
+      <p id="ohtAjw" outputclass="List1">(ii) Negotiations and contract actions result in fair and reasonable business arrangements;</p>
+      <p id="sIcUWQ" outputclass="List1">(iii) Negotiations and contract actions are consistent with laws, regulations, and policies; and,</p>
+      <p id="tfHwMS" outputclass="List1">(iv) An independent review and assessment for the proposed contract action is accomplished.</p>
+      <p id="DoIxRB" outputclass="List1">(2) Contract actions meeting the contract value thresholds set in <xref format="aspx" href="https://disa.deps.mil/org/PL2/Pages/DITCORefs.aspx" scope="external">
+            <u>DARS PGI</u>
          </xref> 1.9000(c)(2) shall not be awarded without obtaining the required review approvals.</p>
-      <p id="ZlfciF" outputclass="List1" class="- topic/p ">(d) <i class="+ topic/ph hi-d/i ">General Counsel (GC)/Legal and Policy Compliance</i>
-         <i class="+ topic/ph hi-d/i ">Reviews.</i>
+      <p id="ZlfciF" outputclass="List1">(d) <i>General Counsel (GC)/Legal and Policy Compliance</i>
+         <i>Reviews.</i>
       </p>
-      <p id="CgufVB" outputclass="List1" class="- topic/p ">(1) Legal (GC) and Policy Compliance (PL22) reviews shall be obtained prior to submission to the CDA/SSA.</p>
-      <p id="jMsFLF" outputclass="List1" class="- topic/p ">(i) Legal and Policy Compliance review thresholds. PL8 (non-telecommunications): $10M for task orders, $10M for supplies / hardware, and $6.5M for all other procurement actions; PLA, PL5, PL7 and PL8 (telecommunications): $6.5M for all procurement actions. PL6: $6.5M for Legal reviews, see DARS PGI 1.9000(d)(5) for compliance reviews. All broad agency announcements (BAA) require legal review.</p>
-      <p id="KHRdCL" outputclass="List1" class="- topic/p ">(ii) Legal and Policy reviews of contracts and task orders using the trade-off evaluation method, regardless of dollar value, are highly encouraged.</p>
-      <p id="FkVWQV" outputclass="List1" class="- topic/p ">Legal and Policy reviews can be requested by a contracting officer, CoCO, HCO, or HCA at lower dollar thresholds or for special interest procurements.</p>
-      <p id="vsxpmY" outputclass="List1" class="- topic/p ">(2) At a minimum, the contracting officer must review the contract file/documentation prior to requesting a legal and policy compliance review. Also, the contract file must be reviewed at least one level above the contracting officer prior to requesting a Legal and Policy compliance review for contract actions greater than or equal to $50M. The contracting officer may submit the request for Legal and Policy compliance review only after all reviewer comments, if any, are resolved.</p>
-      <p id="yCnsdH" outputclass="List1" class="- topic/p ">(3) Legal and Policy compliance reviews should be requested concurrently. Legal and Policy reviews will be accomplished in four (4) business days. Additional business days may be required to review substantial/numerous documents.</p>
-      <p id="qMURDJ" outputclass="List1" class="- topic/p ">(i) When Legal or Policy reviews indicate non-compliance with laws, regulations or policies (e.g., a Policy Finding or a GC legally insufficient finding), the contracting officer will revise the procurement documents in collaboration with the assigned attorney-advisor and/or procurement analyst. Legal will copy the CoCO on e-mails which notify a contracting officer of legally insufficient findings, and Policy will copy the CoCO on e-mails which notify a contracting officer of compliance review Findings. A procurement document shall not be released until legally insufficient or compliance review Findings are adjudicated.</p>
-      <p id="YOieJl" outputclass="List1" class="- topic/p ">(ii) While changes are expected to be professionally resolved at the lowest possible level, disagreements may be elevated above the contracting officer, through Section and Branch Chiefs to the CoCO, the HCO, and ultimately to the HCA. Legal issues may be elevated to the Deputy General Counsel (Acquisition &amp; Procurement).</p>
-      <p id="hKymZV" outputclass="List1" class="- topic/p ">(4) Policy compliance (PL22) reviews --</p>
-      <p id="BTDryE" outputclass="List1" class="- topic/p ">(i) Requests for Policy compliance review shall be sent via email to the “<xref format="mailto"
-               href="mailto:disa.meade.PLD.mbx.pl22-policy-compliance-review@mail.mil"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">DISA Ft Meade PLD Mailbox PL22 Policy Compliance Review</u>
-         </xref>” group mailbox. The following standard subject line format shall be used: “[insert Office Code (i.e., PLX)], [insert “Pre-Solicitation”, “Pre-Award” or “Post-Award,” as appropriate] Policy Compliance Review Request, [insert solicitation, contract/modification, or order/modification number].” Urgent requests for review must also include “Expedite” in the subject line and shall be forwarded to the PL22 group mailbox by the CoCO. Pertinent information needed to assist the PL22 Policy compliance reviewers should be included in the body of the e-mail. For example, provide the EDMS folder ID number*, document identifier/description, indicate if a policy compliance review was accomplished at a previous stage of the procurement (and if so, the solicitation number), provide the estimated dollar value of the procurement, etc. See Table 1-5 for a list of required documents<b class="+ topic/ph hi-d/b ">.</b> Documents may be submitted as attachments to the email if not available in EDMS.</p>
-      <p id="NkIcVi" outputclass="Text Body" class="- topic/p ">*Note: The EDMS folder identifier must be included.</p>
-      <p id="SBYPSA" outputclass="List1" class="- topic/p ">(ii) In circumstances where the contracting officer finds it necessary to proceed with issuing a solicitation or awarding a contract action prior to obtaining a PL22 Policy compliance review as required by the DARS, the contracting officer shall obtain a written waiver from the CoCO. The waiver shall be retained in the official contract file. Prior to requesting a waiver, the Contracting Officer shall consider a targeted review of critical documents or portion of the contract file.</p>
-      <p id="kdWiWM" outputclass="List1" class="- topic/p ">(iii) Each Policy review comment will be listed under one of the following categories: Observation, Finding, Recommendation, or Commendation. Below are the definitions of each category:</p>
-      <p id="inVLUI" outputclass="Normal" class="- topic/p ">(A) Observation: Comments and input on issues identified by the PL22 Analyst that do not meet the definition of a Finding or do not warrant being documented as a Finding yet may need correction. Observations may be accompanied by an actionable Recommendation. Examples include process improvements, apparent oversights in supporting documentations or the contents of the contract file, administrative errors related to grammar, punctuation, style, etc.</p>
-      <p id="qEphpf" outputclass="Normal" class="- topic/p ">(B) Finding: Specific actions that contradict statutory, regulatory, or policy requirements, causing the procurement to be deemed non-compliant with the FAR, DFARS, DARS, or DISA prescribed policy or procedure. Findings shall include a cited reference and the Finding shall be resolved prior to release of any related procurement documents. The compliance review issued by PL22 documenting the Finding and the documented disposition by the Contracting Officer shall be filed in the contract file.</p>
-      <p id="VTeocV" outputclass="Normal" class="- topic/p ">(C) Recommendation: Tangible action proposed by the Analyst to rectify a Finding identified by the compliance review by either: (1) adjudicating the Finding in accordance with statute, regulation, or policy or (2) establishing internal procedures to mitigate the likelihood of reoccurring deficiencies if elimination of the Finding is not possible or practical.</p>
-      <p id="rHVfJR" outputclass="Normal" class="- topic/p ">(D) Commendation: Validated procedures, actions or examples with supportable documentation which can generally been accepted as superior to other alternatives, or “standards” over-and-above what is merely required.</p>
-      <p id="WXdSDK" outputclass="List1" class="- topic/p ">(5) PL6 Reviews see DARS PGI 1.9000(d)(5).</p>
-      <p id="BjTDsa" outputclass="List1" class="- topic/p ">(6) Legal (GC) reviews ---</p>
-      <p id="DkLgcS" outputclass="List1" class="- topic/p ">(i) Definitions.</p>
-      <p id="PZzZSw" outputclass="Text Body" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">Legally Sufficient.</i> Complies with the applicable laws, regulations and policy.</p>
-      <p id="SpegxX" outputclass="Text Body" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">Legally Insufficient.</i> Does not comply with the applicable laws, regulations and policy. Generally, these will be accompanied by specific findings and potential alternatives to correct legal deficiencies.</p>
-      <p id="pIVmZN" outputclass="Text Body" class="- topic/p ">In addition, Legal may also express its business opinion/advice in support of its reviews beyond the base legal sufficiency determinations above, to include advice on legal and business risks relative to the best interests of the Agency. These opinions constitute advice for consideration of the DISA acquisition team in which the GC is a partner.</p>
-      <p id="WfOiqE" outputclass="List1" class="- topic/p ">(ii) Legal review comments or a statement that the procurement document has been reviewed and found to be legally sufficient shall be placed in the contract file. The contracting officer is responsible for assuring that all legal comments are adjudicated.</p>
-      <p id="TNceKw" outputclass="List1" class="- topic/p ">(iii) In circumstances where the contracting officer finds it necessary to proceed with issuing a solicitation or awarding a contract action prior to obtaining a required legal review, the contracting officer shall obtain a written waiver from the CoCO. The waiver shall be retained in the contract file. The CoCO shall request an emergency/or quick turn-around legal review prior to approving a waiver. Legal will not review solicitations and contract award actions that have been waived (i.e., after-the-fact reviews).</p>
-      <p id="juAOSN" outputclass="List1" class="- topic/p ">(iv) DITCO-Pacific (PL7), DITCO-Scott Telecommunications Contracting Division (PL82), DITCO-Scott IT Contracting Division (PL83), and DITCO-Scott Emerging Technology, Special Interest Contracts, and Pricing Division (PL84) shall obtain legal reviews from legal counsel located at DITCO-Scott. DITCO-National Capital Region (PL6), DITCO-Europe (PL5), Defense Capabilities Contracting Office (PLA), and WHCA shall obtain legal reviews from legal counsel located at DITCO-NCR.</p>
-      <p id="AXMeiX" outputclass="List1" class="- topic/p ">(v) Requests for legal review from legal counsel located at DITCO-Scott shall be sent via email to the “<xref format="mailto"
-               href="mailto:disa.scott.ditco.mbx.legal-office@mail.mil"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">DISA Scott AFB DITCO Mailbox Legal Office</u>
-         </xref>” group mailbox. Requests for legal reviews from legal counsel located at DITCO-NCR shall be sent via email to the “<xref format="mailto"
-               href="mailto:disa.meade.gc.mbx.acquisition-law-team@mail.mil"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">DISA Ft Meade GC Mailbox Acquisition Law Team”</u>
+      <p id="CgufVB" outputclass="List1">(1) Legal (GC) and Policy Compliance (PL22) reviews shall be obtained prior to submission to the CDA/SSA.</p>
+      <p id="jMsFLF" outputclass="List1">(i) Legal and Policy Compliance review thresholds. PL8 (non-telecommunications): $10M for task orders, $10M for supplies / hardware, and $6.5M for all other procurement actions; PLA, PL5, PL7 and PL8 (telecommunications): $6.5M for all procurement actions. PL6: $6.5M for Legal reviews, see DARS PGI 1.9000(d)(5) for compliance reviews. All broad agency announcements (BAA) require legal review.</p>
+      <p id="KHRdCL" outputclass="List1">(ii) Legal and Policy reviews of contracts and task orders using the trade-off evaluation method, regardless of dollar value, are highly encouraged.</p>
+      <p id="FkVWQV" outputclass="List1">Legal and Policy reviews can be requested by a contracting officer, CoCO, HCO, or HCA at lower dollar thresholds or for special interest procurements.</p>
+      <p id="vsxpmY" outputclass="List1">(2) At a minimum, the contracting officer must review the contract file/documentation prior to requesting a legal and policy compliance review. Also, the contract file must be reviewed at least one level above the contracting officer prior to requesting a Legal and Policy compliance review for contract actions greater than or equal to $50M. The contracting officer may submit the request for Legal and Policy compliance review only after all reviewer comments, if any, are resolved.</p>
+      <p id="yCnsdH" outputclass="List1">(3) Legal and Policy compliance reviews should be requested concurrently. Legal and Policy reviews will be accomplished in four (4) business days. Additional business days may be required to review substantial/numerous documents.</p>
+      <p id="qMURDJ" outputclass="List1">(i) When Legal or Policy reviews indicate non-compliance with laws, regulations or policies (e.g., a Policy Finding or a GC legally insufficient finding), the contracting officer will revise the procurement documents in collaboration with the assigned attorney-advisor and/or procurement analyst. Legal will copy the CoCO on e-mails which notify a contracting officer of legally insufficient findings, and Policy will copy the CoCO on e-mails which notify a contracting officer of compliance review Findings. A procurement document shall not be released until legally insufficient or compliance review Findings are adjudicated.</p>
+      <p id="YOieJl" outputclass="List1">(ii) While changes are expected to be professionally resolved at the lowest possible level, disagreements may be elevated above the contracting officer, through Section and Branch Chiefs to the CoCO, the HCO, and ultimately to the HCA. Legal issues may be elevated to the Deputy General Counsel (Acquisition &amp; Procurement).</p>
+      <p id="hKymZV" outputclass="List1">(4) Policy compliance (PL22) reviews --</p>
+      <p id="BTDryE" outputclass="List1">(i) Requests for Policy compliance review shall be sent via email to the “<xref format="mailto" href="mailto:disa.meade.PLD.mbx.pl22-policy-compliance-review@mail.mil" scope="external">
+            <u>DISA Ft Meade PLD Mailbox PL22 Policy Compliance Review</u>
+         </xref>” group mailbox. The following standard subject line format shall be used: “[insert Office Code (i.e., PLX)], [insert “Pre-Solicitation”, “Pre-Award” or “Post-Award,” as appropriate] Policy Compliance Review Request, [insert solicitation, contract/modification, or order/modification number].” Urgent requests for review must also include “Expedite” in the subject line and shall be forwarded to the PL22 group mailbox by the CoCO. Pertinent information needed to assist the PL22 Policy compliance reviewers should be included in the body of the e-mail. For example, provide the EDMS folder ID number*, document identifier/description, indicate if a policy compliance review was accomplished at a previous stage of the procurement (and if so, the solicitation number), provide the estimated dollar value of the procurement, etc. See Table 1-5 for a list of required documents<b>.</b> Documents may be submitted as attachments to the email if not available in EDMS.</p>
+      <p id="NkIcVi" outputclass="Text Body">*Note: The EDMS folder identifier must be included.</p>
+      <p id="SBYPSA" outputclass="List1">(ii) In circumstances where the contracting officer finds it necessary to proceed with issuing a solicitation or awarding a contract action prior to obtaining a PL22 Policy compliance review as required by the DARS, the contracting officer shall obtain a written waiver from the CoCO. The waiver shall be retained in the official contract file. Prior to requesting a waiver, the Contracting Officer shall consider a targeted review of critical documents or portion of the contract file.</p>
+      <p id="kdWiWM" outputclass="List1">(iii) Each Policy review comment will be listed under one of the following categories: Observation, Finding, Recommendation, or Commendation. Below are the definitions of each category:</p>
+      <p id="inVLUI" outputclass="Normal">(A) Observation: Comments and input on issues identified by the PL22 Analyst that do not meet the definition of a Finding or do not warrant being documented as a Finding yet may need correction. Observations may be accompanied by an actionable Recommendation. Examples include process improvements, apparent oversights in supporting documentations or the contents of the contract file, administrative errors related to grammar, punctuation, style, etc.</p>
+      <p id="qEphpf" outputclass="Normal">(B) Finding: Specific actions that contradict statutory, regulatory, or policy requirements, causing the procurement to be deemed non-compliant with the FAR, DFARS, DARS, or DISA prescribed policy or procedure. Findings shall include a cited reference and the Finding shall be resolved prior to release of any related procurement documents. The compliance review issued by PL22 documenting the Finding and the documented disposition by the Contracting Officer shall be filed in the contract file.</p>
+      <p id="VTeocV" outputclass="Normal">(C) Recommendation: Tangible action proposed by the Analyst to rectify a Finding identified by the compliance review by either: (1) adjudicating the Finding in accordance with statute, regulation, or policy or (2) establishing internal procedures to mitigate the likelihood of reoccurring deficiencies if elimination of the Finding is not possible or practical.</p>
+      <p id="rHVfJR" outputclass="Normal">(D) Commendation: Validated procedures, actions or examples with supportable documentation which can generally been accepted as superior to other alternatives, or “standards” over-and-above what is merely required.</p>
+      <p id="WXdSDK" outputclass="List1">(5) PL6 Reviews see DARS PGI 1.9000(d)(5).</p>
+      <p id="BjTDsa" outputclass="List1">(6) Legal (GC) reviews ---</p>
+      <p id="DkLgcS" outputclass="List1">(i) Definitions.</p>
+      <p id="PZzZSw" outputclass="Text Body">
+         <i>Legally Sufficient.</i> Complies with the applicable laws, regulations and policy.</p>
+      <p id="SpegxX" outputclass="Text Body">
+         <i>Legally Insufficient.</i> Does not comply with the applicable laws, regulations and policy. Generally, these will be accompanied by specific findings and potential alternatives to correct legal deficiencies.</p>
+      <p id="pIVmZN" outputclass="Text Body">In addition, Legal may also express its business opinion/advice in support of its reviews beyond the base legal sufficiency determinations above, to include advice on legal and business risks relative to the best interests of the Agency. These opinions constitute advice for consideration of the DISA acquisition team in which the GC is a partner.</p>
+      <p id="WfOiqE" outputclass="List1">(ii) Legal review comments or a statement that the procurement document has been reviewed and found to be legally sufficient shall be placed in the contract file. The contracting officer is responsible for assuring that all legal comments are adjudicated.</p>
+      <p id="TNceKw" outputclass="List1">(iii) In circumstances where the contracting officer finds it necessary to proceed with issuing a solicitation or awarding a contract action prior to obtaining a required legal review, the contracting officer shall obtain a written waiver from the CoCO. The waiver shall be retained in the contract file. The CoCO shall request an emergency/or quick turn-around legal review prior to approving a waiver. Legal will not review solicitations and contract award actions that have been waived (i.e., after-the-fact reviews).</p>
+      <p id="juAOSN" outputclass="List1">(iv) DITCO-Pacific (PL7), DITCO-Scott Telecommunications Contracting Division (PL82), DITCO-Scott IT Contracting Division (PL83), and DITCO-Scott Emerging Technology, Special Interest Contracts, and Pricing Division (PL84) shall obtain legal reviews from legal counsel located at DITCO-Scott. DITCO-National Capital Region (PL6), DITCO-Europe (PL5), Defense Capabilities Contracting Office (PLA), and WHCA shall obtain legal reviews from legal counsel located at DITCO-NCR.</p>
+      <p id="AXMeiX" outputclass="List1">(v) Requests for legal review from legal counsel located at DITCO-Scott shall be sent via email to the “<xref format="mailto" href="mailto:disa.scott.ditco.mbx.legal-office@mail.mil" scope="external">
+            <u>DISA Scott AFB DITCO Mailbox Legal Office</u>
+         </xref>” group mailbox. Requests for legal reviews from legal counsel located at DITCO-NCR shall be sent via email to the “<xref format="mailto" href="mailto:disa.meade.gc.mbx.acquisition-law-team@mail.mil" scope="external">
+            <u>DISA Ft Meade GC Mailbox Acquisition Law Team”</u>
          </xref> group mailbox. The following standard subject line format shall be used: “[insert Office Code (i.e., PLX)], [insert “Pre-Solicitation”, “Pre-Award Contract Approval” or “Contract Approval” as appropriate] Legal Review Request, [insert solicitation, contract/modification, or order/modification number].” The contracting officer or specialist shall provide legal counsel with all documents necessary to complete the review.</p>
-      <p id="pDiiUo" outputclass="normal Ctr" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">Table 1-</b>
-         <b class="+ topic/ph hi-d/b ">5</b>
-         <b class="+ topic/ph hi-d/b ">Minimum Documentation to Attach to Review Requests</b>
+      <p id="pDiiUo" outputclass="normal Ctr">
+         <b>Table 1-</b>
+         <b>5</b>
+         <b>Minimum Documentation to Attach to Review Requests</b>
       </p>
-      <p id="DLoOeZ" outputclass="normal Ctr" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">(</b>
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">The minimum documentation required for reviews)</i>
+      <p id="DLoOeZ" outputclass="normal Ctr">
+         <b>(</b>
+         <b>
+            <i>The minimum documentation required for reviews)</i>
          </b>
       </p>
-      <table colsep="1" rowsep="1" class="- topic/table ">
-         <tgroup cols="5" colsep="1" class="- topic/tgroup ">
-            <colspec colname="1"
-                     colnum="1"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="2"
-                     colnum="2"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="3"
-                     colnum="3"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="4"
-                     colnum="4"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="5"
-                     colnum="5"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <tbody class="- topic/tbody ">
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="XOipxe" outputclass=" Ctr" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Type of Review</b>
+      <table colsep="1" rowsep="1">
+         <tgroup cols="5" colsep="1">
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="3" colnum="3" rowheader="headers" />
+            <colspec colname="4" colnum="4" rowheader="headers" />
+            <colspec colname="5" colnum="5" rowheader="headers" />
+            <tbody>
+               <row rowsep="1">
+                  <entry>
+                     <p id="XOipxe" outputclass=" Ctr">
+                        <b>Type of Review</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="OUmkcz" outputclass=" Ctr" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Decision Point</b>
+                  <entry>
+                     <p id="OUmkcz" outputclass=" Ctr">
+                        <b>Decision Point</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="IkGDcY" outputclass=" Ctr" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Non-Competitive</b>
+                  <entry>
+                     <p id="IkGDcY" outputclass=" Ctr">
+                        <b>Non-Competitive</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="MZZyOA" outputclass=" Ctr" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Competitive FAR Parts 12 and 15</b>
+                  <entry>
+                     <p id="MZZyOA" outputclass=" Ctr">
+                        <b>Competitive FAR Parts 12 and 15</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="mcQhkh" outputclass=" Ctr" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Competitive FAR Subparts 8.4 and</b>
-                        <b class="+ topic/ph hi-d/b ">16.5</b>
+                  <entry>
+                     <p id="mcQhkh" outputclass=" Ctr">
+                        <b>Competitive FAR Subparts 8.4 and</b>
+                        <b>16.5</b>
                      </p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="BdfMWU" class="- topic/p "/>
+               <row rowsep="1">
+                  <entry>
+                     <p id="BdfMWU"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="SmJSCg" class="- topic/p "/>
+                  <entry>
+                     <p id="SmJSCg"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="OhgAgf" class="- topic/p "/>
+                  <entry>
+                     <p id="OhgAgf"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="DrNFeV" class="- topic/p "/>
+                  <entry>
+                     <p id="DrNFeV"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="wePUIj" class="- topic/p "/>
-                  </entry>
-               </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="xzzcRp" class="- topic/p ">Pre-Solicitation</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="JkghIF" class="- topic/p ">Prior to Release of Solicitation</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="WKHSIL" class="- topic/p ">All Pre-Solicitation Documents including then Solicitation</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="dAPeNj" class="- topic/p ">All Pre-Solicitation Documents including the</p>
-                     <p id="Onkzys" class="- topic/p ">Solicitation</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="bbCFmq" class="- topic/p ">All Pre-Solicitation Documents including the</p>
-                     <p id="YtUcro" class="- topic/p ">Solicitation</p>
+                  <entry>
+                     <p id="wePUIj"></p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="FiKWjS" class="- topic/p "/>
+               <row rowsep="1">
+                  <entry>
+                     <p id="xzzcRp">Pre-Solicitation</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="CCaPaC" class="- topic/p ">Pre-Negotiation</p>
+                  <entry>
+                     <p id="JkghIF">Prior to Release of Solicitation</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="nUIwjj" class="- topic/p ">Pre-PNMs and Sole</p>
-                     <p id="OhMBLg" class="- topic/p ">Source PNMs</p>
+                  <entry>
+                     <p id="WKHSIL">All Pre-Solicitation Documents including then Solicitation</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="xAnbrO" class="- topic/p ">Not Applicable</p>
+                  <entry>
+                     <p id="dAPeNj">All Pre-Solicitation Documents including the</p>
+                     <p id="Onkzys">Solicitation</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="EkBBCa" class="- topic/p ">Not Applicable</p>
+                  <entry>
+                     <p id="bbCFmq">All Pre-Solicitation Documents including the</p>
+                     <p id="YtUcro">Solicitation</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="p__Hlk80007397" class="- topic/p ">Contract Approval</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="FiKWjS"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="LipjHX" class="- topic/p ">Prior to Award</p>
+                  <entry>
+                     <p id="CCaPaC">Pre-Negotiation</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="XLEehC" class="- topic/p ">Contract, Order and</p>
-                     <p id="yeYqlK" class="- topic/p ">Post-PNM</p>
-                     <p id="OSJgZh" class="- topic/p ">RFP and Evaluation</p>
-                     <p id="tFUEax" class="- topic/p ">Documents (Legal</p>
-                     <p id="LAzFuq" class="- topic/p ">Only)</p>
+                  <entry>
+                     <p id="nUIwjj">Pre-PNMs and Sole</p>
+                     <p id="OhMBLg">Source PNMs</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="zELfGN" class="- topic/p ">All Pre-Award Documentation including Contract, Source Selection Decision Document, Best Value Trade- off or LPTA Evaluation Summary (e.g., Selection Recommendation Document), RFP, and Draft Notification to Unsuccessful Offerors</p>
+                  <entry>
+                     <p id="xAnbrO">Not Applicable</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="iwWVAa" class="- topic/p ">All Pre-Award Documentation including Order, Post-PNM, Best Value Trade-off or LPTA Evaluation Summary (e.g.,</p>
-                     <p id="XMyfjj" class="- topic/p ">Selection Recommendation</p>
-                     <p id="vJOSfD" class="- topic/p ">Document), RFQ, and Draft</p>
-                     <p id="cPNVvr" class="- topic/p ">Notification to Unsuccessful</p>
-                     <p id="HiXkmY" class="- topic/p ">Offerors</p>
+                  <entry>
+                     <p id="EkBBCa">Not Applicable</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="p__Hlk80007397">Contract Approval</p>
+                  </entry>
+                  <entry>
+                     <p id="LipjHX">Prior to Award</p>
+                  </entry>
+                  <entry>
+                     <p id="XLEehC">Contract, Order and</p>
+                     <p id="yeYqlK">Post-PNM</p>
+                     <p id="OSJgZh">RFP and Evaluation</p>
+                     <p id="tFUEax">Documents (Legal</p>
+                     <p id="LAzFuq">Only)</p>
+                  </entry>
+                  <entry>
+                     <p id="zELfGN">All Pre-Award Documentation including Contract, Source Selection Decision Document, Best Value Trade- off or LPTA Evaluation Summary (e.g., Selection Recommendation Document), RFP, and Draft Notification to Unsuccessful Offerors</p>
+                  </entry>
+                  <entry>
+                     <p id="iwWVAa">All Pre-Award Documentation including Order, Post-PNM, Best Value Trade-off or LPTA Evaluation Summary (e.g.,</p>
+                     <p id="XMyfjj">Selection Recommendation</p>
+                     <p id="vJOSfD">Document), RFQ, and Draft</p>
+                     <p id="cPNVvr">Notification to Unsuccessful</p>
+                     <p id="HiXkmY">Offerors</p>
                   </entry>
                </row>
             </tbody>
          </tgroup>
       </table>
-      <p id="JKluep" outputclass="Normal" class="- topic/p ">(7) Classified procurement oversight.Classified procurements are not exempt from compliance reviews. The Chief, Contract Operations Branch (PL22) shall be contacted to coordinate compliance reviews. The contracting officer shall ensure contract documents are redacted<b class="+ topic/ph hi-d/b ">,</b> as necessary.</p>
+      <p id="JKluep" outputclass="Normal">(7) Classified procurement oversight.Classified procurements are not exempt from compliance reviews. The Chief, Contract Operations Branch (PL22) shall be contacted to coordinate compliance reviews. The contracting officer shall ensure contract documents are redacted<b>,</b> as necessary.</p>
    </conbody>
 </concept>

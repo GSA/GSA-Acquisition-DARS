@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="DARS_42.1503"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">42.1503</ph> Procedures.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="HsUXGC" outputclass="Text Body" class="- topic/p ">(a)(1)(i) Past performance assessments are a combined responsibility of the Assessing Official (AO) Assessing Official Representative (AOR), Reviewing Official (RO), and Contractor Representative (CR).</p>
-      <p id="PisXwS" outputclass="Text Body" class="- topic/p ">(a)(1)(ii) The contracting officer shall be assigned as the AO. The RO is at least a level above the AO. The contracting officer and Focal Point (PSD Contract Specialist) appoint AORs (Contracting Officer’s Representative (COR) or Program Office Representatives) to assist the AO with writing the evaluation. If the AOR is the COR, the AOR designation shall be included in the COR appointment letter.</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DARS_42.1503" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">42.1503</ph> Procedures.</title>
+   <conbody>
+      <p id="HsUXGC" outputclass="Text Body">(a)(1)(i) Past performance assessments are a combined responsibility of the Assessing Official (AO) Assessing Official Representative (AOR), Reviewing Official (RO), and Contractor Representative (CR).</p>
+      <p id="PisXwS" outputclass="Text Body">(a)(1)(ii) The contracting officer shall be assigned as the AO. The RO is at least a level above the AO. The contracting officer and Focal Point (PSD Contract Specialist) appoint AORs (Contracting Officer’s Representative (COR) or Program Office Representatives) to assist the AO with writing the evaluation. If the AOR is the COR, the AOR designation shall be included in the COR appointment letter.</p>
    </conbody>
 </concept>

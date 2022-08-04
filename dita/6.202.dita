@@ -1,68 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="DARS_6.202"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">6.202</ph> Establishing or maintaining alternative sources.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="PnyIKW" outputclass="Text Body" class="- topic/p ">(b)(1) Approval authority for determinations and findings (D&amp;Fs) under this subpart follows:</p>
-      <table colsep="1" rowsep="1" class="- topic/table ">
-         <tgroup cols="2" class="- topic/tgroup ">
-            <colspec colname="1"
-                     colnum="1"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="2"
-                     colnum="2"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <tbody class="- topic/tbody ">
-               <row class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="nTUllr" class="- topic/p ">Estimated Value of Justification</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DARS_6.202" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">6.202</ph> Establishing or maintaining alternative sources.</title>
+   <conbody>
+      <p id="PnyIKW" outputclass="Text Body">(b)(1) Approval authority for determinations and findings (D&amp;Fs) under this subpart follows:</p>
+      <table colsep="1" rowsep="1">
+         <tgroup cols="2">
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
+            <tbody>
+               <row>
+                  <entry>
+                     <p id="nTUllr">Estimated Value of Justification</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="sZKpJp" class="- topic/p ">Approving Official ofD&amp;F</p>
+                  <entry>
+                     <p id="sZKpJp">Approving Official ofD&amp;F</p>
                   </entry>
                </row>
-               <row class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="yVIdfQ" class="- topic/p ">$750K and below</p>
+               <row>
+                  <entry>
+                     <p id="yVIdfQ">$750K and below</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="XDOiiN" class="- topic/p ">Contracting Officer</p>
-                  </entry>
-               </row>
-               <row class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="RHBJIB" class="- topic/p ">Over $750K to $15M</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="TiHFvd" class="- topic/p ">COCO</p>
+                  <entry>
+                     <p id="XDOiiN">Contracting Officer</p>
                   </entry>
                </row>
-               <row class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="ngZMRh" class="- topic/p ">Over $15M to $100M</p>
+               <row>
+                  <entry>
+                     <p id="RHBJIB">Over $750K to $15M</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="RJVNlr" class="- topic/p ">HCA</p>
+                  <entry>
+                     <p id="TiHFvd">COCO</p>
                   </entry>
                </row>
-               <row class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="bAvmiK" class="- topic/p ">Over $100M</p>
+               <row>
+                  <entry>
+                     <p id="ngZMRh">Over $15M to $100M</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="nAiKKw" class="- topic/p ">SPE</p>
+                  <entry>
+                     <p id="RJVNlr">HCA</p>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <p id="bAvmiK">Over $100M</p>
+                  </entry>
+                  <entry>
+                     <p id="nAiKKw">SPE</p>
                   </entry>
                </row>
             </tbody>
          </tgroup>
       </table>
-      <p id="JBlSlY" outputclass="Text Body" class="- topic/p ">See DFARS 206.2 for D&amp;F format. Legal Counsel and Procuring Activity Competition Advocate (PACA) or Agency Competition Advocate (ACA) coordination is required before approval. Provide the PACA with a copy of the approved D&amp;F.</p>
+      <p id="JBlSlY" outputclass="Text Body">See DFARS 206.2 for D&amp;F format. Legal Counsel and Procuring Activity Competition Advocate (PACA) or Agency Competition Advocate (ACA) coordination is required before approval. Provide the PACA with a copy of the approved D&amp;F.</p>
    </conbody>
 </concept>

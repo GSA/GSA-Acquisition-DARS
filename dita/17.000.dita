@@ -1,25 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="DARS_17.000"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 2" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">17.000</ph> Definitions.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="kJGZmp" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">Bridge Contract</i> is a short-term sole-source contract awarded generally to the incumbent contractor to continue critical services when a follow-on competitive contract action could not be completed in a timely manner. It provides needed services until the program and contracting offices can establish a new competitive contract. The SPE Bridge Decision Briefing, located in <xref format="aspx"
-               href="https://disa.deps.mil/org/PL2/Pages/DITCORefs.aspx"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">DARS PGI</u>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DARS_17.000" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 2">
+      <ph props="autonumber">17.000</ph> Definitions.</title>
+   <conbody>
+      <p id="kJGZmp">
+         <i>Bridge Contract</i> is a short-term sole-source contract awarded generally to the incumbent contractor to continue critical services when a follow-on competitive contract action could not be completed in a timely manner. It provides needed services until the program and contracting offices can establish a new competitive contract. The SPE Bridge Decision Briefing, located in <xref format="aspx" href="https://disa.deps.mil/org/PL2/Pages/DITCORefs.aspx" scope="external">
+            <u>DARS PGI</u>
          </xref>
-         <u class="+ topic/ph hi-d/u "/>17.000, is not required for non-DISA contract actions nor is it required for bridge contracts made necessary by GAO or Agency-level protests. Although a bridge may not require a decision brief, it still must be added onto the <xref format="aspx"
-               href="https://disa.deps.mil/org/PL2/Lists/BridgeChart/AllItems.aspx"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">Bridge Report</u>
+         <u></u>17.000, is not required for non-DISA contract actions nor is it required for bridge contracts made necessary by GAO or Agency-level protests. Although a bridge may not require a decision brief, it still must be added onto the <xref format="aspx" href="https://disa.deps.mil/org/PL2/Lists/BridgeChart/AllItems.aspx" scope="external">
+            <u>Bridge Report</u>
          </xref>.</p>
    </conbody>
 </concept>

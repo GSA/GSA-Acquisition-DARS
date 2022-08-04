@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="DARS_49.107"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">49.107</ph> Audit of prime contract settlement proposals and subcontract settlements.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="PZJbgi" outputclass="Text Body" class="- topic/p ">(a) The contracting officer shall ensure that each prime contract settlement proposal is reviewed by a DITCO Cost/Price Analyst for the purpose of evaluating the reasonableness prior to negotiating the final settlement. The Cost/Price Analyst will assist the KO in the development of a settlement negotiation position, as necessary</p>
-      <p id="oPZieJ" outputclass="Text Body" class="- topic/p ">(c) Requests to an Audit agency to perform an accounting review will be prepared by the Cost/Price Analyst, for signature by the KO. An audit request is not required for commercial item contracts awarded under Part 12 procedures, in accordance with FAR 49.002(a)(2). See FAR subpart 12.403 for termination policies for commercial item contracts.</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DARS_49.107" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">49.107</ph> Audit of prime contract settlement proposals and subcontract settlements.</title>
+   <conbody>
+      <p id="PZJbgi" outputclass="Text Body">(a) The contracting officer shall ensure that each prime contract settlement proposal is reviewed by a DITCO Cost/Price Analyst for the purpose of evaluating the reasonableness prior to negotiating the final settlement. The Cost/Price Analyst will assist the KO in the development of a settlement negotiation position, as necessary</p>
+      <p id="oPZieJ" outputclass="Text Body">(c) Requests to an Audit agency to perform an accounting review will be prepared by the Cost/Price Analyst, for signature by the KO. An audit request is not required for commercial item contracts awarded under Part 12 procedures, in accordance with FAR 49.002(a)(2). See FAR subpart 12.403 for termination policies for commercial item contracts.</p>
    </conbody>
 </concept>

@@ -1,45 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="DARS_6.3031"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">6.303-1</ph> Requirements.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="rLDkTJ" outputclass="List1" class="- topic/p ">(c) The Technical and Requirement certification may be accomplished by the same certifying official on the OTFAOC Justification.</p>
-      <p id="rVDuBS" outputclass="Text Body" class="- topic/p ">(S-90) The requirements office, in close coordination with the contracting officer, shall develop the Justification for OTFAOC using the required format located in <xref format="aspx"
-               href="https://disa.deps.mil/org/PL2/Pages/DITCORefs.aspx"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">DARS PGI</u>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DARS_6.3031" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">6.303-1</ph> Requirements.</title>
+   <conbody>
+      <p id="rLDkTJ" outputclass="List1">(c) The Technical and Requirement certification may be accomplished by the same certifying official on the OTFAOC Justification.</p>
+      <p id="rVDuBS" outputclass="Text Body">(S-90) The requirements office, in close coordination with the contracting officer, shall develop the Justification for OTFAOC using the required format located in <xref format="aspx" href="https://disa.deps.mil/org/PL2/Pages/DITCORefs.aspx" scope="external">
+            <u>DARS PGI</u>
          </xref>
-         <u class="+ topic/ph hi-d/u "/> 6.303-1(S-90). Templates are updated periodically, therefore a new template must be used for each new J&amp;A.</p>
-      <p id="cUOVqW" outputclass="Text Body" class="- topic/p ">(S-91) The approval level shall be determined by the estimated total value of the class. For each acquisition covered by a Class J&amp;A, the contract file must include a copy of the Class J&amp;A with signature page, or a statement referring to its location. Only one statutory and associated regulatory authority is permissible to support a Class J&amp;A.</p>
-      <p id="oePvpy" outputclass="Text Body" class="- topic/p ">(S-92) Class J&amp;As: Legal Counsel review/coordination is required on all Justifications for OTFAOC over $750K prior to approval by the approving official. The contracting officer can request legal review for justifications at $750K or below. Procedures for signatures and approvals are located at <xref format="html"
-               href="https://disa.deps.mil/org/PL2/Pages/DITCORefs.aspx"
-               scope="external"
-               class="- topic/xref ">DARS PGI</xref>
-         <xref format="aspx?RootFolder=%2Forg%2FPL2%2FOther%2FPROCEDURES%20GUIDES%20AND%20INSTRUCTIONS%20%28PGI%29&amp;FolderCTID=0x012000175D246D4A108E42B091C3F17BE4BDFE&amp;View=%7B998EB6D7%2DDD02%2D4224%2D9626%2D13F9934F7F4C%7D"
-               href="https://disa.deps.mil/org/PL2/Pages/DITCORefs.aspx?RootFolder=%2Forg%2FPL2%2FOther%2FPROCEDURES%20GUIDES%20AND%20INSTRUCTIONS%20%28PGI%29&amp;FolderCTID=0x012000175D246D4A108E42B091C3F17BE4BDFE&amp;View=%7B998EB6D7%2DDD02%2D4224%2D9626%2D13F9934F7F4C%7D"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u "/>
-            <u class="+ topic/ph hi-d/u ">6.303-1(S-92)(b)</u>
+         <u></u> 6.303-1(S-90). Templates are updated periodically, therefore a new template must be used for each new J&amp;A.</p>
+      <p id="cUOVqW" outputclass="Text Body">(S-91) The approval level shall be determined by the estimated total value of the class. For each acquisition covered by a Class J&amp;A, the contract file must include a copy of the Class J&amp;A with signature page, or a statement referring to its location. Only one statutory and associated regulatory authority is permissible to support a Class J&amp;A.</p>
+      <p id="oePvpy" outputclass="Text Body">(S-92) Class J&amp;As: Legal Counsel review/coordination is required on all Justifications for OTFAOC over $750K prior to approval by the approving official. The contracting officer can request legal review for justifications at $750K or below. Procedures for signatures and approvals are located at <xref format="html" href="https://disa.deps.mil/org/PL2/Pages/DITCORefs.aspx" scope="external">DARS PGI</xref>
+         <xref format="aspx?RootFolder=%2Forg%2FPL2%2FOther%2FPROCEDURES%20GUIDES%20AND%20INSTRUCTIONS%20%28PGI%29&amp;FolderCTID=0x012000175D246D4A108E42B091C3F17BE4BDFE&amp;View=%7B998EB6D7%2DDD02%2D4224%2D9626%2D13F9934F7F4C%7D" href="https://disa.deps.mil/org/PL2/Pages/DITCORefs.aspx?RootFolder=%2Forg%2FPL2%2FOther%2FPROCEDURES%20GUIDES%20AND%20INSTRUCTIONS%20%28PGI%29&amp;FolderCTID=0x012000175D246D4A108E42B091C3F17BE4BDFE&amp;View=%7B998EB6D7%2DDD02%2D4224%2D9626%2D13F9934F7F4C%7D" scope="external">
+            <u></u>
+            <u>6.303-1(S-92)(b)</u>
          </xref>.</p>
-      <p id="vPeyYD" outputclass="Text Body" class="- topic/p ">Legal reviews will be conducted within four (4) business days. PACA/ACA reviews will be conducted within three (3) business days.</p>
-      <p id="bEmyTG" outputclass="Text Body" class="- topic/p ">(S-93) An amendment to an approved J&amp;A is required if, prior to award of the contract, the approved J&amp;A contents change in any of the following areas:</p>
-      <p id="IhdWLE" outputclass="List1" class="- topic/p ">(1) The dollar value changes (increases) prior to award but remains within the original approving official approval level;</p>
-      <p id="gRsrkm" outputclass="List1" class="- topic/p ">(2) The dollar value of the prospective contract results in a change of the approving official;</p>
-      <p id="cuGNDr" outputclass="List1" class="- topic/p ">(3) The competitive strategy; or,</p>
-      <p id="fgftng" outputclass="Text Body" class="- topic/p ">(4) Requirements that affect the basis for the justification.</p>
-      <p id="nOHXhA" outputclass="Text Body" class="- topic/p ">If paragraph (1) applies, a new signature page will be routed to the approving official. If paragraphs (2), (3) or (4) apply, a new signature page will be routed in accordance with (S-92).</p>
-      <p id="wlbgqn" outputclass="Text Body" class="- topic/p ">(S-94) A modification to an approved J&amp;A is required if, after the award of the contract, the value of the contract will increase above the value of the J&amp;A.</p>
-      <p id="BVTfjf" outputclass="Text Body" class="- topic/p ">The approving official for a modification to an approved J&amp;A shall be based on the value of the modification alone, except if processed within six (6) months of an awarded contract action, which shall then be the cumulative dollar amount.</p>
-      <p id="jUINrP" outputclass="Text Body" class="- topic/p ">If the cumulative value requires a higher approving official’s signature, a new signature page will be routed through the initial approving official to the new approving official.</p>
-      <p id="okyfGn" outputclass="Text Body" class="- topic/p ">(S-95) Determining contract value.</p>
-      <p id="MTtzGl" outputclass="Text Body" class="- topic/p ">Proposed out-of-scope contract modifications and new task/delivery orders require a new OTFAOC J&amp;A. The estimated value of the proposed out-of-scope contract modification or new task/delivery order J&amp;A shall be based on the value of the modification or new task/delivery order requirement alone, and not a cumulative contract value, except if processed within six (6) months of an awarded contract action, which shall then be the cumulative dollar amount.</p>
-      <p id="tzXoRJ" outputclass="Text Body" class="- topic/p ">If the cumulative value requires a higher approving official’s signature, a new signature page will be routed through the initial approving official to the new approving official.</p>
+      <p id="vPeyYD" outputclass="Text Body">Legal reviews will be conducted within four (4) business days. PACA/ACA reviews will be conducted within three (3) business days.</p>
+      <p id="bEmyTG" outputclass="Text Body">(S-93) An amendment to an approved J&amp;A is required if, prior to award of the contract, the approved J&amp;A contents change in any of the following areas:</p>
+      <p id="IhdWLE" outputclass="List1">(1) The dollar value changes (increases) prior to award but remains within the original approving official approval level;</p>
+      <p id="gRsrkm" outputclass="List1">(2) The dollar value of the prospective contract results in a change of the approving official;</p>
+      <p id="cuGNDr" outputclass="List1">(3) The competitive strategy; or,</p>
+      <p id="fgftng" outputclass="Text Body">(4) Requirements that affect the basis for the justification.</p>
+      <p id="nOHXhA" outputclass="Text Body">If paragraph (1) applies, a new signature page will be routed to the approving official. If paragraphs (2), (3) or (4) apply, a new signature page will be routed in accordance with (S-92).</p>
+      <p id="wlbgqn" outputclass="Text Body">(S-94) A modification to an approved J&amp;A is required if, after the award of the contract, the value of the contract will increase above the value of the J&amp;A.</p>
+      <p id="BVTfjf" outputclass="Text Body">The approving official for a modification to an approved J&amp;A shall be based on the value of the modification alone, except if processed within six (6) months of an awarded contract action, which shall then be the cumulative dollar amount.</p>
+      <p id="jUINrP" outputclass="Text Body">If the cumulative value requires a higher approving official’s signature, a new signature page will be routed through the initial approving official to the new approving official.</p>
+      <p id="okyfGn" outputclass="Text Body">(S-95) Determining contract value.</p>
+      <p id="MTtzGl" outputclass="Text Body">Proposed out-of-scope contract modifications and new task/delivery orders require a new OTFAOC J&amp;A. The estimated value of the proposed out-of-scope contract modification or new task/delivery order J&amp;A shall be based on the value of the modification or new task/delivery order requirement alone, and not a cumulative contract value, except if processed within six (6) months of an awarded contract action, which shall then be the cumulative dollar amount.</p>
+      <p id="tzXoRJ" outputclass="Text Body">If the cumulative value requires a higher approving official’s signature, a new signature page will be routed through the initial approving official to the new approving official.</p>
    </conbody>
 </concept>
