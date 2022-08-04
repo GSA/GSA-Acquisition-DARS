@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="DARS_15.304"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">15.304</ph> Evaluation factors and significant sub factors.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="oEVSxc" outputclass="Text Body" class="- topic/p ">(d)(S-90) Small Business Participation Evaluation:</p>
+      <p id="lXkMzQ" outputclass="Text Body" class="- topic/p ">In acquisitions that require the use of FAR Clause 52.219-9, Small Business Subcontracting Plan, other than those based on the lowest price technically acceptable source selection process, the extent of participation of small business, including those in socioeconomic categories, shall be addressed through the submission of a Small Business Participation Plan. The contracting officer shall coordinate with the OSBP before issuing a solicitation when the evaluation assesses the extent of small business participation. The DoD Source Selection Procedures provides additional information regarding the evaluation of small business participation and it may be accessed at: <xref format="pdf"
+               href="https://www.acq.osd.mil/dpap/policy/policyvault/USA004370-14-DPAP.pdf"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">https://www.acq.osd.mil/dpap/policy/policyvault/USA004370-14-DPAP.pdf</u>
+         </xref>
+      </p>
+      <p id="XpdjVQ" outputclass="Text Body" class="- topic/p ">Small Business Participation Plan Post Award Responsibilities:</p>
+      <p id="xTLFxg" outputclass="Normal" class="- topic/p ">The Small Business Participation Plan shall be incorporated into the contract (as an attachment). Twice a year (every six months), the contractor shall report to the Contracting Officer’s Representative and the Contracting Officer with a copy to the OSBP information concerning their performance under the Plan. This reporting requirement is separate from the eSRS Subcontracting Plan report submission requirements. The contracting officer will determine reporting period dates that are consistent with the contract award date.</p>
+   </conbody>
+</concept>

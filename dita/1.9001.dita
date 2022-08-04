@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="DARS_1.9001"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">1.9001</ph> Procurement management reviews (PMR) and special interest reviews.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="hMqEkt" outputclass="List1" class="- topic/p ">(a) Chief, Contract Operations Branch (PL22) will establish and maintain DISA’s Procurement Management Review (PMR) program, conduct Special Interest Reviews, and assist the Agency with other reviews as appropriate. PMRs assist the Head of the Contracting Activity (HCA) and the DISA Senior Procurement Executive, in evaluating DISA’s procurement processes, including the DISA Purchase Card Program. PMRs also assist the CoCO and the HCO to improve the operational efficiency and effectiveness of their contracting organizations. This is accomplished through the assessment of internal management controls and acquisition policies and procedures. Additionally, the results of the PMRs are used to assess the Agency’s ability to sustain external scrutiny such as DoD Inspector General (DoDIG) Audits, General Accountability Office (GAO) Audits, external PMRs, and other independent reviews.</p>
+      <p id="HaRRcg" outputclass="List1" class="- topic/p ">(b)(i) PMRs are conducted at the four Defense Information Technology Contracting Organizations (DITCO):</p>
+      <p id="orDXee" outputclass="List1" class="- topic/p ">(1) DITCO-National Capital Region (NCR)</p>
+      <p id="FtKuxm" outputclass="List1" class="- topic/p ">(2) DITCO-Europe</p>
+      <p id="TjHjcW" outputclass="List1" class="- topic/p ">(3) DITCO-Pacific</p>
+      <p id="OedAzn" outputclass="List1" class="- topic/p ">(4) DITCO-Scott</p>
+      <p id="SYMxQj" outputclass="Normal" class="- topic/p ">(ii) Contract Management Reviews (CMR) are conducted at two external organizations:</p>
+      <p id="HQPyFo" outputclass="List1" class="- topic/p ">(1) WHCA (White House Communications Agency)</p>
+      <p id="HChQHS" outputclass="List1" class="- topic/p ">(2) CMCA (Communications Management and Control Activity)</p>
+      <p id="xaFfZF" outputclass="Text Body" class="- topic/p ">(c) PMRs and CMRs will be conducted IAW the PSD PMR Standard Operating Procedure. The HCA is the final decision authority for PMR/CMR observations, findings and recommendations.</p>
+      <p id="kNAgkl" outputclass="Normal" class="- topic/p ">(d) Special Interest Reviews are conducted at the request of the HCA or the SPE. These reviews assess specific aspects of the procurement process and/or operations, as requested.</p>
+      <p id="p__bookmark27" outputclass="Text Body" class="- topic/p "/>
+   </conbody>
+</concept>

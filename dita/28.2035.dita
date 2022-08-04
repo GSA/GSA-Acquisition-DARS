@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="DARS_28.2035"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">28.203-5</ph> Exclusion of individual sureties.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="JibTSr" outputclass="Text Body" class="- topic/p ">(a) The HCA is the designee.</p>
+   </conbody>
+</concept>

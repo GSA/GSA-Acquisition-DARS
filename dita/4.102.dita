@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="DARS_4.102"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">4.102</ph> Contractors signature.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="WBtXvQ" outputclass="Text Body" class="- topic/p ">(S-90) All negotiated contract awards, both sole source and competitive, shall include the contractor’s signature on the award form.</p>
+      <p id="p__bookmark60" outputclass="Text Body" class="- topic/p "/>
+   </conbody>
+</concept>

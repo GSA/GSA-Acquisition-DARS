@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="DARS_17.20290"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">17.202-90</ph> Use of surge options.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="YGrLnR" outputclass="List1" class="- topic/p ">(a) Definition. Optional CLIN that can be exercised unilaterally for an increase in quantity of support for the task areas previously defined in the PWS/SOO/SOW.</p>
+      <p id="UJoTJg" outputclass="List1" class="- topic/p ">(b) General.</p>
+      <p id="iEvdqV" outputclass="List1" class="- topic/p ">(1) When the surge option amount is equal to or greater than 50% of the total value of the non- surge CLINs, the contracting officer shall prepare a determination for the surge amount prior to releasing the RFP or RFQ. The determination can be added to the Determination for Use of Options template.</p>
+      <p id="QtxVZG" outputclass="List1" class="- topic/p ">(i) Approval up to 50% is the contracting officer.</p>
+      <p id="GVjqCm" outputclass="List1" class="- topic/p ">(ii) Approval over 50% is the CoCO.</p>
+      <p id="SLDMUa" outputclass="List1" class="- topic/p ">(2) The surge CLIN shall be numbered as 9999 with a contract type of cost reimbursement not- to-exceed. The following language may be used as the description for CLIN 9999:</p>
+      <p id="XgVysF" outputclass="Text Body" class="- topic/p ">“Optional surge support in accordance with DITCO Special Contract Requirement H6 – OPTION TO EXERCISE SURGE SUPPORT.”</p>
+      <p id="sHdnto" outputclass="List1" class="- topic/p ">(3) The surge option should be exercised unilaterally to the maximum extent possible; however, can be exercised bilaterally if negotiations are required.</p>
+      <p id="FHvrxW" outputclass="List1" class="- topic/p ">(4) The amount of any new CLIN or amount added to an existing CLIN that implements surge will be equal to the decrement of the not-to-exceed amount of CLIN 9999. Description for the surge CLIN should state “Surge of Task Area # with a period of performance from __________________<u class="+ topic/ph hi-d/u "/>
+         <u class="+ topic/ph hi-d/u "/> to _________________<u class="+ topic/ph hi-d/u "/>
+         <u class="+ topic/ph hi-d/u "/>
+         <u class="+ topic/ph hi-d/u "/>
+         <u class="+ topic/ph hi-d/u "/>.”.</p>
+   </conbody>
+</concept>

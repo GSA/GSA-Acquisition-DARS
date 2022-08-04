@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="DARS_27.9001"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">27.9001</ph> Trademark rights under government contracts.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="MXTepl" outputclass="Text Body" class="- topic/p ">The FAR and DFARS do not address trademark or service mark rights, nor is there an official DoD policy on ownership of trademarks or service marks first used in performance of a government contract in connection with goods or services delivered to the Government. Under federal trademark law, trademark rights generally reside with the entity that controls the nature and quality of the goods or services that are identified by the trademark.</p>
+      <p id="NJZSsG" outputclass="Text Body" class="- topic/p ">However, in certain cases, it may be in the Government’s best interest for DISA to own a trademark or service mark first created under a contract. For example, Government ownership may be desired for a mark that is to be used exclusively in connection with a government-controlled service that the contractor manages for DISA. DISA’s Office of the General Counsel should be consulted to determine if there is a need to negotiate trademark ownership rights with the contractor and seek federal trademark protection on DISA’s behalf by filing an application to register the trademark or service mark with the U.S. Patent and Trademark Office.</p>
+   </conbody>
+</concept>

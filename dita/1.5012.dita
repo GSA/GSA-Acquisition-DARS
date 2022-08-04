@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="DARS_1.5012"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">1.501-2</ph> Opportunity for public comments.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="mazOyu" outputclass="Text Body" class="- topic/p ">(S-90) Comments on proposed or interim rules published for public comment in the Federal Register shall be submitted through DISA PL21, disa.meade.PLD.mbx.pl21-policy-branch@mail.mil to the Head of the Contracting Activity (HCA).</p>
+   </conbody>
+</concept>

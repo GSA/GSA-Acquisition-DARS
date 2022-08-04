@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="DARS_201.170"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">201.170</ph> Peer reviews.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="OnVNAY" outputclass="List1" class="- topic/p ">
+         <i class="+ topic/ph hi-d/i ">(a) DoD peer reviews.</i>
+      </p>
+      <p id="VbEsGY" outputclass="Normal" class="- topic/p ">(1)(i) <i class="+ topic/ph hi-d/i ">Preaward</i>
+         <i class="+ topic/ph hi-d/i ">peer reviews for competitive procurements</i>. Per <xref format="pdf"
+               href="https://www.acq.osd.mil/dpap/policy/policyvault/USA001283-21-DPC.pdf"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">Class Deviation 2021-O00107</u>
+         </xref>, Defense Pricing and Contracting (DPC) will conduct preaward peer reviews for competitive procurements with an estimated value of $1 billion or more for all procurements under major defense acquisition programs for which the Under Secretary of Defense for Acquisition and Sustainment (USD(A&amp;S)) is the milestone decision authority. Additionally, preaward peer reviews of competitive procurements will be conducted for procurements designated by USD(A&amp;S) as requiring a peer review, regardless of value. DPC-led peer reviews may be requested for acquisitions valued below the $1 billion threshold and will be conducted upon approval by the Director, Contract Policy. DoD policy for peer reviews was established by the memorandum “Peer Reviews of Contracts for Supplies and Services,” dated September 29, 2008, available at <xref format="pdf"
+               href="https://www.acq.osd.mil/dpap/policy/policyvault/USA000820-08-DPAP.pdf"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">https://www.acq.osd.mil/dpap/policy/policyvault/USA000820-08-DPAP.pdf</u>
+         </xref>.</p>
+      <p id="ywFOhT" outputclass="Normal" class="- topic/p ">(ii) <i class="+ topic/ph hi-d/i ">Preaward</i>
+         <i class="+ topic/ph hi-d/i ">peer reviews for</i>
+         <i class="+ topic/ph hi-d/i ">noncompetitive procurements.</i> Per Class Deviation 2021-O0007, Preaward Peer Reviews will be conducted for DISA noncompetitive procurements valued at $1 billion or more or for any other contract action designated by the USD(A&amp;S) as requiring a peer review, regardless of value. DPC-led peer reviews may be requested for contract actions valued below the $1 billion threshold and will be conducted upon approval by the Director, Price, Cost and Finance.</p>
+      <p id="p__Hlk77618520" outputclass="Normal" class="- topic/p ">(iii) <i class="+ topic/ph hi-d/i ">Postaward</i>
+         <i class="+ topic/ph hi-d/i ">peer reviews for</i>
+         <i class="+ topic/ph hi-d/i ">acquisition of services valued at $1 billion or more</i>. Per Class Deviation 2021-O0007, DPC will not conduct postaward peer reviews for acquisitions of services with a total estimated value greater than $1 billion as required by DFARS 201.170(a)(1)(iii).</p>
+      <p id="xavuyd" outputclass="List1" class="- topic/p ">
+         <i class="+ topic/ph hi-d/i ">(b) Component (DISA) peer reviews (if a DPC Peer Review is not conducted).</i>
+      </p>
+      <p id="sAxwit" outputclass="Normal" class="- topic/p ">(1) <i class="+ topic/ph hi-d/i ">Preaward peer reviews for competitive procurements valued at $500 million or more and noncompetitive procurements valued at $500 million or more but less than $1 billion</i>. The DISA Contracting Peer Review/Independent Management Review Program establishes policy and procedures for conducting peer reviews of all solicitations with a total estimated contract value (including options) of $500 million or more.</p>
+      <p id="fKduPU" outputclass="Normal" class="- topic/p ">(2) <i class="+ topic/ph hi-d/i ">Preaward peer reviews for procurements valued below $500 million.</i> CoCOs are encouraged to request inter-DITCO and intra-DITCO pre-solicitation peer reviews below $500M. Inter-DITCO peer reviews will be managed by PL22. Intra-DITCO peer reviews will be managed by the respective CoCO and results will be provided to PL22 (for tracking the conduct of the review and trends).</p>
+      <p id="tEYfHN" outputclass="Normal" class="- topic/p ">(3) <i class="+ topic/ph hi-d/i ">Postaward peer reviews of all contracts for services valued at less than $1 billion.</i>
+      </p>
+      <p id="qOPEBq" outputclass="Normal" class="- topic/p ">(S-90) <i class="+ topic/ph hi-d/i ">Independent management reviews</i>
+         <i class="+ topic/ph hi-d/i ">for</i>
+         <i class="+ topic/ph hi-d/i ">contracts for services valued at $500 million or more</i>. The DISA Contracting Peer Review/Independent Management Review Program establishes policy and procedures for conducting independent management reviews of all contracts for services with a total estimated contract value (including options) of $500 million or more in accordance with section 808 of the National Defense Authorization Act for Fiscal Year 2008 (Pub. L. 110-181).</p>
+      <p id="bfjpvz" outputclass="Normal" class="- topic/p ">(1) <i class="+ topic/ph hi-d/i ">Objective.</i> The objective of the DISA Contracting Peer Review/Independent Management Review Program is to (1) ensure that contracting officer across the Procurement Services Directorate (PSD) are implementing law, policy and regulations in a consistent and accurate manner; (2) improve the quality of acquisition and contracting processes across DISA; and (3) share best practices and lessons learned. The findings and recommendations of the peer reviews/independent management reviews are advisory in nature, providing supplemental information to the contracting officer regarding acquisition strategy, contract structure, format, content, and compliance. The procedures are established in accordance with <xref format="pdf"
+               href="https://www.acq.osd.mil/dpap/policy/policyvault/USA001283-21-DPC.pdf"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">Class Deviation 2021-O0007 - Peer Reviews of Acquisitions for Supplies and Services</u>
+         </xref> dated June 25, 2021.</p>
+      <p id="pzZYDF" outputclass="Normal" class="- topic/p ">(i) Pre-award Peer Reviews of solicitations shall be conducted for procurements ($500M or above, but less than $1B) prior to issuance of the solicitation (pre-solicitation).</p>
+      <p id="QsClzC" outputclass="Normal" class="- topic/p ">(ii) Independent Management Reviewsof contracts for services shall be conducted at the following decision points:</p>
+      <p id="oEnhyQ" outputclass="Normal" class="- topic/p ">(A) Mid-point of the initial (base) performance period if in excess of three years; and</p>
+      <p id="UZlhSs" outputclass="Normal" class="- topic/p ">(B) Prior to exercising the first option period of performance and every other option period thereafter (e.g., OP1, OP3, OP5).</p>
+      <p id="lrUfeL" outputclass="Normal" class="- topic/p ">All peer review/independent management review documentation shall be marked as “Source Selection Information – see FAR 2.101 and 3.104”.</p>
+      <p id="p__Hlk80003093" outputclass="Ctr normal" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">Table 1-1</b>
+         <b class="+ topic/ph hi-d/b ">Peer Review/Independent Management Review</b>
+         <b class="+ topic/ph hi-d/b ">Thresholds</b>
+      </p>
+      <table colsep="1" rowsep="1" class="- topic/table ">
+         <tgroup cols="3" colsep="1" class="- topic/tgroup ">
+            <colspec colname="1"
+                     colnum="1"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="2"
+                     colnum="2"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="3"
+                     colnum="3"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <tbody class="- topic/tbody ">
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="hPZNnE" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Procurement</b>
+                        <b class="+ topic/ph hi-d/b ">Type</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="MYByPc" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Dollar Threshold</b>
+                        <b class="+ topic/ph hi-d/b ">*</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="jEEAiQ" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Reviewer</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="iHRwUx" class="- topic/p ">Preaward Competitive</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="CVuuGR" class="- topic/p ">≥$500M</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="GpMTmA" class="- topic/p ">DISA</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="uLYHxl" class="- topic/p ">Preaward Competitive under major defense acquisition programs when USD(A&amp;S) is MDA</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="hykEeO" class="- topic/p ">≥$1B</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="mfkWoY" class="- topic/p ">DPC</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="LYWCqy" class="- topic/p ">Preaward Noncompetitive</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="NvBjtB" class="- topic/p ">≥$1B</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="QCtJYZ" class="- topic/p ">DPC</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="DqkpDw" class="- topic/p ">Preaward Noncompetitive</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="xnIAuk" class="- topic/p ">≥$500M to $1B</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="pNmnqx" class="- topic/p ">DISA</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="JFhcJJ" class="- topic/p ">Independent management reviews for contracts for services</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="ZKsxrT" class="- topic/p ">≥$500M</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="XYkEbM" class="- topic/p ">DISA</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p id="kzgbaJ" class="- topic/p ">*Note: See DARS 201.170 for additional reviews that may be accomplished under these dollar thresholds.</p>
+      <p id="dZXTSu" outputclass="Text Body" class="- topic/p ">(S-91) <i class="+ topic/ph hi-d/i ">Peer Review Timelines/Procurement Action Lead Times (PALT)</i>. See DARS PGI.</p>
+      <p id="FVWqLH" outputclass="Text Body" class="- topic/p ">(S-92) <i class="+ topic/ph hi-d/i ">Waivers.</i> If critical mission performance circumstances necessitate the request of a waiver, a “Request for Peer Review/Independent Management Review Waiver” can be found at <xref format="asp"
+               href="https://www.ditco.disa.mil/hq/peerreview.asp"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">https://www.ditco.disa.mil/hq/peerreview.asp</u>
+         </xref>
+         <ph class="- topic/ph ">
+            <u class="+ topic/ph hi-d/u ">.</u>
+         </ph>
+      </p>
+      <p id="VbkCXD" outputclass="Normal" class="- topic/p ">
+         <ph class="- topic/ph ">(S-93) <i class="+ topic/ph hi-d/i ">Procedures.</i> See DARS PGI.</ph>
+      </p>
+   </conbody>
+</concept>

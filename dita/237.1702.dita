@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="DARS_237.1702"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">237.170-2</ph> Approval requirements</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="pBaldi" outputclass="List1" class="- topic/p ">
+         <i class="+ topic/ph hi-d/i ">(a) Acquisition of services through a contract or task order that is not performance based.</i>
+      </p>
+      <p id="nEzdBR" outputclass="List1" class="- topic/p ">(1) For acquisitions at or below $50 million, obtain the review and approval of the CoCO.</p>
+      <p id="wnYjIp" outputclass="List1" class="- topic/p ">(2) For acquisitions over $50 million up to $100 million, obtain the review and approval of the HCO.</p>
+      <p id="TXBADM" outputclass="List1" class="- topic/p ">(3) For acquisitions exceeding $100 million, obtain the review and approval of the Senior Procurement Executive (SPE).</p>
+      <p id="LqNhkW" outputclass="Text Body" class="- topic/p ">(S-90) For each acquisition that is non-performance based, the contracting officer shall prepare a D&amp;F for approval in accordance with paragraph 237.170-2(a). The D&amp;F must be approved prior to release of the solicitation.</p>
+      <p id="hopqLF" outputclass="Text Body" class="- topic/p ">(S-91) The review and approval thresholds are based upon the total estimated cost of the acquisition.</p>
+      <p id="IejVdL" outputclass="Text Body" class="- topic/p ">(S-92) Technical and requirements personnel are responsible for providing accurate and complete data to the contracting officer to support their recommendation for other than a performance based acquisition.</p>
+   </conbody>
+</concept>

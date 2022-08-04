@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="DARS_204.804"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">204.804</ph> Closeout of contract files.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="KYaIUl" outputclass="Text Body" class="- topic/p ">(S-90) Responsibilities</p>
+      <p id="jHWWoY" outputclass="List1" class="- topic/p ">(1) Contract Closeout Team is responsible for the financial portion of the closeout process, (e.g final payment, modification deobligations, reporting to RMC).</p>
+      <p id="oyfHdO" outputclass="List1" class="- topic/p ">(2) The Procuring/Administrative contracting officer is responsible for all other contract administration issues (e.g., property, CORs, terminations, data rights).</p>
+      <p id="vgcABT" outputclass="Text Body" class="- topic/p ">(S-91) The contract closeout process shall begin upon contract expiration.</p>
+   </conbody>
+</concept>

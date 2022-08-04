@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="DARS_1.9002"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">1.9002</ph> Contract document approval signature routing procedures.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="ADLmzu" outputclass="Text Body" class="- topic/p ">Procedures are located in <xref format="aspx"
+               href="https://disa.deps.mil/org/PL2/Pages/DITCORefs.aspx"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">DARS PGI</u>
+         </xref> 1.9002.</p>
+      <p id="PUqJuM" outputclass="Text Body" class="- topic/p ">
+         <image height="2.65mm"
+                href="Graphics/image1.png"
+                width="158.75mm"
+                placement="inline"
+                class="- topic/image "/>
+      </p>
+   </conbody>
+</concept>

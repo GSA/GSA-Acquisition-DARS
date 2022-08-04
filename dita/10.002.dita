@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="DARS_10.002"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 2" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">10.002</ph> Procedures.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="yhIztU" outputclass="Text Body" class="- topic/p ">(b)(2)</p>
+      <p id="DxqdPN" outputclass="Text Body" class="- topic/p ">(ix) The contracting officer shall document and attach the results of the SBA Dynamic Small Business Search tool at <xref format="cfm"
+               href="http://dsbs.sba.gov/dsbs/search/dsp_dsbs.cfm"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">http://dsbs.sba.gov/dsbs/search/dsp_dsbs.cfm</u>
+         </xref> to the Market Research Report and forward with the DD Form 2579 to OSBP for review. Assistance is available from the OSBP when seeking potential sources.</p>
+      <p id="paqEpW" outputclass="List1" class="- topic/p ">(x) Post procurement notices to Contract Opportunities including SSNs or RFIs. (See DARS 19.202 (S-93)(2)(3)).</p>
+      <p id="OqnrYQ" outputclass="List1" class="- topic/p ">(A) A RFI is used to develop requirements and make decisions regarding acquisition strategies when limited or no acquisition history is available and when industry input is required. When an RFI is planned, allow for the following:</p>
+      <p id="NfioAv" outputclass="Normal" class="- topic/p ">(1) Posted on Contract Opportunities for at least 21 business days to ensure maximum participation by small business concerns.</p>
+      <p id="TVAnMn" outputclass="List1" class="- topic/p ">(2) Use the approved DISA RFI template at <xref format="html"
+               href="https://disa.deps.mil/org/PL2/Pages/DITCORefs.aspx"
+               scope="external"
+               class="- topic/xref ">DARS PGI</xref> 10.001(b).</p>
+      <p id="DMjaQh" outputclass="Normal" class="- topic/p ">(B) A SSN is used when there is a known requirement with a previous procurement history, or a well-defined new requirement. When a SSN is planned, allow for the following:</p>
+      <p id="mAYsSA" outputclass="Normal" class="- topic/p ">(1) Posted on Contract Opportunities for a minimum of 14 calendar days to ensure maximum feedback.</p>
+      <p id="p__bookmark126" outputclass="Text Body" class="- topic/p ">(2) Use the approved DISA SSN template at <xref format="html"
+               href="https://disa.deps.mil/org/PL2/Pages/DITCORefs.aspx"
+               scope="external"
+               class="- topic/xref ">DARS PGI</xref> 10.001(b).</p>
+      <p id="ruMrgT" outputclass="Text Body" class="- topic/p ">(S-90) Except for the issuance of a SSN or RFI, market research is primarily the responsibility of the program office or the requiring activity. Market research documentation must be complete, unbiased, and supported by facts, not more than 12 months old (for award of contracts other than task or delivery orders) and provided as part of the requirements package. Include the market research report in the contract file.</p>
+      <p id="oGqKlR" outputclass="Text Body" class="- topic/p ">(S-91) Market Research Report (MRR) templates are located in <xref format="html"
+               href="https://disa.deps.mil/org/PL2/Pages/DITCORefs.aspx"
+               scope="external"
+               class="- topic/xref ">DARS PGI</xref> 10.002(S-91).</p>
+      <p id="NTaWgX" outputclass="normal Ctr" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">Table 10-1 MRR Template Type</b>
+      </p>
+      <table colsep="1" rowsep="1" class="- topic/table ">
+         <tgroup cols="3" colsep="1" class="- topic/tgroup ">
+            <colspec colname="1"
+                     colnum="1"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="2"
+                     colnum="2"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="3"
+                     colnum="3"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <tbody class="- topic/tbody ">
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="AhCYry" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Dollar Threshold</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="UxMmAJ" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Procurement Action</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="DKxhEQ" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Template Type</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="QAtyAl" class="- topic/p ">&lt;SAT</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="lJiCQu" class="- topic/p ">Competitive Procurements equal to or under SAT</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="DiIsOt" class="- topic/p ">Market Research Report (Equal to or Under SAT)</p>
+                     <p id="xYBvZc" class="- topic/p ">(Enclosure 14d)</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="TFkfpn" class="- topic/p ">&gt;SAT</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="eCoNfp" class="- topic/p ">Competitive Service Procurements over SAT</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="dWMKbp" class="- topic/p ">Market Research Report (Services)</p>
+                     <p id="jbMlwS" class="- topic/p ">(Enclosure 14a)</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="lHapLS" class="- topic/p ">&gt;SAT</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="LzNFkP" class="- topic/p ">One-time Competitive Product Purchase over SAT</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="RbJwUJ" class="- topic/p ">Market Research Report (Product Purchases only)</p>
+                     <p id="IuLsdW" class="- topic/p ">(Enclosure 14b)</p>
+                     <p id="ZMMoWo" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">Note: If requirement covers multiple years of</i>
+                        <i class="+ topic/ph hi-d/i ">product buys, use Encl 14a</i>)</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="ZhRvKE" class="- topic/p ">Any Amount</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="snPnrP" class="- topic/p ">Exercise 52.217-9 Options</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="dFILYr" class="- topic/p ">Market Research Report (Option Exercise)</p>
+                     <p id="PeXxYR" class="- topic/p ">(Enclosure 14c)</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="oSvYqv" class="- topic/p ">Any Amount</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="WNtaKh" class="- topic/p ">Sole Source</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="jQInVU" class="- topic/p ">Market Research Report (Sole Source)</p>
+                     <p id="KAqUgM" class="- topic/p ">(Enclosure 14e)</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="zkARIq" class="- topic/p ">Any Amount</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="XrvtBl" class="- topic/p ">Sole Source Direct 8(a)</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="kuRXvL" class="- topic/p ">Market Research Report (Sole Source 8(a))</p>
+                     <p id="eAlOpJ" class="- topic/p ">(Enclosure 14f)</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p id="ghJIAP" outputclass="Text Body" class="- topic/p ">(S-92) <i class="+ topic/ph hi-d/i ">Exceptions to Market Research Report.</i>
+      </p>
+      <p id="cGfOoy" outputclass="List1" class="- topic/p ">(1) Undefinitized Contract Actions (UCA)</p>
+      <p id="TBEdSi" outputclass="List1" class="- topic/p ">(2) Bridge Contract Actions</p>
+      <p id="vdYkME" outputclass="Text Body" class="- topic/p ">(3) 52.217-8 Options</p>
+      <p id="olpIdG" outputclass="Normal" class="- topic/p ">(S-93) <ph class="- topic/ph ">
+            <u class="+ topic/ph hi-d/u ">F</u>
+         </ph>or DISA-only requirements, the contracting officer shall email the final, signed, and redacted Market Research Report to the Market Research Repository mailbox at <xref format="mailto"
+               href="mailto:disa.meade.bd.mbx.mrr@mail.mil"
+               scope="external"
+               class="- topic/xref ">DISA Ft Meade BD Mailbox MRR</xref>.</p>
+      <p id="ZSjoOA" outputclass="Text Body" class="- topic/p ">
+         <image height="2.65mm"
+                href="Graphics/image1.png"
+                width="158.75mm"
+                placement="inline"
+                class="- topic/image "/>
+      </p>
+   </conbody>
+</concept>

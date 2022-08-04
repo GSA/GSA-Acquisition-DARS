@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="DARS_219.201"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">219.201</ph> General policy.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="CtELFm" outputclass="Text Body" class="- topic/p ">(c)(10) The Office of Small Business Programs (OSBP) is
+         required to:</p>
+      <p id="StLnfJ" outputclass="List1" class="- topic/p ">(i) Conduct the review of, and concur with, the DD Form
+         2579 prior to any public announcement or release of information regarding the acquisition
+         strategy, issuance of the solicitation, or communicating with the Small Business
+         Administration (SBA) 8(a) Program regarding a requirement.</p>
+      <p id="oHWQnw" outputclass="List1" class="- topic/p ">(ii) Review all written consolidation D&amp;Fs, acquisition
+         plans, and/or acquisition strategies;</p>
+      <p id="YlmjaU" outputclass="List1" class="- topic/p ">(iii) Assist in market research efforts;</p>
+      <p id="vEEOGL" outputclass="List1" class="- topic/p ">(iv) (S-90) The <xref format="mailto"
+               href="mailto:disa.meade.osbp.mbx.ditco-small-business-office@mail.mil"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">disa.meade.osbp.mbx.ditco-small-business-office@mail.mil</u>
+         </xref>
+         <u class="+ topic/ph hi-d/u "/> email address shall be used by DISA personnel to communicate with the DISA OSBP.</p>
+   </conbody>
+</concept>

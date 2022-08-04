@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="DARS_15.4063"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">15.406-3</ph> Documenting the negotiation.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="xSznLq" outputclass="Text Body" class="- topic/p ">(S-90) <i class="+ topic/ph hi-d/i ">Price Negotiation Memorandum</i>. A Price Negotiation Memorandum (PNM) shall be prepared for contracting actions as described below and included in the official contract file.</p>
+      <p id="etWwCh" outputclass="Text Body" class="- topic/p ">A PNM is not required for orders for pre-priced supplies or services placed against established single award indefinite delivery contracts, nor and actions at or below the micro-purchase threshold. The PNM fulfills the documentation requirements in FAR 15.406-3 and provides the determination of fair and reasonable pricing. The PNM templates are located in <xref format="html"
+               href="https://disa.deps.mil/org/PL2/Pages/DITCORefs.aspx"
+               scope="external"
+               class="- topic/xref ">DARS PGI</xref> 15.406-3(S-90). See DARS 13.106-3 (S-90) for PNM requirements for the I/Q/O process or the North Atlantic Treaty Organization (NATO) Allied Long Lines Agency (ALLA)/National Allied Long Lines Agency (NALLA) circuit demand process under the threshold for certain commercial items identified at FAR 13.500(a).</p>
+      <p id="BoRuZi" outputclass="Normal" class="- topic/p ">(S-91) <i class="+ topic/ph hi-d/i ">DITCO Cost/Price Analyst Involvement</i>
+      </p>
+      <p id="dHeFql" outputclass="List1" class="- topic/p ">(1) Pre-PNMs, Post-PNMs, and IDIQ Order PNMs valued over $10M shall be routed electronically to the Cost and Pricing Branch for review/coordination prior to approval (See<xref format="html"
+               href="https://www.ditco.disa.mil/DITCOContractingTemplates/"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u "/>
+            <ph class="- topic/ph ">
+               <u class="+ topic/ph hi-d/u ">Contract Document Approval Signature Routing Procedures</u>
+            </ph>
+         </xref>). Routing to the Cost and Pricing Branch or assigned Contract Price/Cost Analyst is not required when pricing is based on prices/rates are established in base contracts/agreements, when prices are set by law or regulation, or a fair and reasonable price determination can be made by the contracting officer by comparing prices or rates against an existing or previous Government contract where prices are recent and based on an adequately supported fair and reasonable determination.</p>
+      <p id="agqdXa" outputclass="List1" class="- topic/p ">(2) Pre-PNMs valued over $10M, shall be prepared in conjunction with the DITCO Cost/Price Analyst. The Cost/Price Analyst shall assist the contracting officer in evaluation of the pricing proposal and aid in the development of the pre-negotiation objective and Pre-PNM; The Contract Price/Cost Analyst shall also support negotiations and review the Post-PNM, prior to approval, as requested by the contracting officer.</p>
+      <p id="QmigXT" outputclass="List1" class="- topic/p ">(3) In all instances where the Cost and Pricing Branch has provided assistance to the contracting officer in the development of the PNM—including but not limited to, the evaluation of cost proposals, calculation of the Government negotiation position and input to the relevant PNM documents—a copy of the signed and approved Post-PNM shall be routed to the Cost and Pricing Branch Chief via the <xref format="mailto"
+               href="mailto:disa.scott.ditco.mbx.cost-and-pricing-branch-pl42@mail.mil"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">DITCO Scott - Cost and Pricing Branch Mailbox</u>
+         </xref>
+         <ph class="- topic/ph ">
+            <u class="+ topic/ph hi-d/u ">.</u>
+         </ph> In situations where the recommendations provided by the C/P Branch and the negotiation objectives are not achieved during negotiations, the contracting officer shall include justification within the Post- PNM. The justification shall contain a detailed explanation on recommended items not achieved and the alternative rationale utilized in the contractor officer’s determination of fair and reasonable pricing.</p>
+      <p id="UCXCrv" outputclass="Text Body" class="- topic/p ">(S-92) <i class="+ topic/ph hi-d/i ">PNM Approval Authority</i>. The approval authority for Pre/Post PNMs negotiation objectives and modification PNMs negotiation objectives is the contracting officer.</p>
+      <p id="jMlbxG" outputclass="Ctr normal" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">Table 15-2 Competitive Acquisitions PNM</b>
+         <b class="+ topic/ph hi-d/b ">Format</b>
+      </p>
+      <table colsep="1" rowsep="1" class="- topic/table ">
+         <tgroup cols="2" colsep="1" class="- topic/tgroup ">
+            <colspec colname="1"
+                     colnum="1"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="2"
+                     colnum="2"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <tbody class="- topic/tbody ">
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="moaMhN" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">ACQUISITION TYPE</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="HGGSQt" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">FORMAT</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="MwnNqL" class="- topic/p ">Open Market (when the Contracting</p>
+                     <p id="vITtHx" class="- topic/p ">Officer is the SSA)</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="KBdZbm" class="- topic/p ">Competitive PNM</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="lLeXsi" class="- topic/p ">GSA Schedule orders</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="RwERmf" class="- topic/p ">Competitive PNM</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="ItrgMD" class="- topic/p ">8(a)</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="GUkwRu" class="- topic/p ">Competitive PNM</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="BOFyRG" class="- topic/p ">IDIQ orders with Pre-established labor rates</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="ToNlVq" class="- topic/p ">IDIQ PNM</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="LBqfaH" class="- topic/p ">Open Market (when the SSA is not the Contracting Officer)</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="XfnTsz" class="- topic/p ">Source Selection Decision Document (SSDD)</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="XiVAle" class="- topic/p ">Part 8/16 Competitive Supply Acquisitions &lt; or equal to the SAT</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="EHzuyb" class="- topic/p ">Template for Part 8/16 Competitive Supply Acquisitions &lt; or equal to SAT</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="gDKana" class="- topic/p ">Competitive, only 1 offer received</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="Ytnfjw" class="- topic/p ">Sole Source PNM</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p id="iFJotU" outputclass="Ctr normal" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">Table 15-3 Sole Source Acquisitions PNM</b>
+         <b class="+ topic/ph hi-d/b ">Format</b>
+      </p>
+      <table colsep="1" rowsep="1" class="- topic/table ">
+         <tgroup cols="2" colsep="1" class="- topic/tgroup ">
+            <colspec colname="1"
+                     colnum="1"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="2"
+                     colnum="2"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <tbody class="- topic/tbody ">
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="TBbTcP" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">ACQUISITION TYPE</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="jUMgTO" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">FORMAT</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="fVTFSl" class="- topic/p ">Open Market or 8(a) at or below SAT</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="yFpkSc" class="- topic/p ">Sole Source PNM</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="SJtxbC" class="- topic/p ">GSA Schedule orders</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="oaslpw" class="- topic/p ">Sole Source PNM</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="lvEEGk" class="- topic/p ">IDIQ orders</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="Emcpcw" class="- topic/p ">Sole Source PNM</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="AjlggK" class="- topic/p ">Open Market or 8(a) above SAT</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="iqaCnA" class="- topic/p ">Pre-PNM and Post-PNM</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p id="vsgPfP" outputclass="Ctr normal" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">Table 15-4 Modifications PNM Format</b>
+      </p>
+      <table colsep="1" rowsep="1" class="- topic/table ">
+         <tgroup cols="2" colsep="1" class="- topic/tgroup ">
+            <colspec colname="1"
+                     colnum="1"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="2"
+                     colnum="2"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <tbody class="- topic/tbody ">
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="jHaFZL" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">MODIFICATION TYPE</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="KVqwwC" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">FORMAT</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="ixJivY" class="- topic/p ">Pricing Modifications against previously competed actions w/</p>
+                     <p id="pEtixH" class="- topic/p ">Pre-established rates (e.g., labor rates)</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="nnCSdf" class="- topic/p ">Modifications PNM</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="LCUaNV" class="- topic/p ">Pricing Modifications w/ Pre-</p>
+                     <p id="qNpCNF" class="- topic/p ">established rates (e.g., labor rates) – sole source</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="oLjVmg" class="- topic/p ">Modifications PNM</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="mrKRQz" class="- topic/p ">Other Pricing Modifications (e.g.,</p>
+                     <p id="JYUiYb" class="- topic/p ">cost type)</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="ADzoZG" class="- topic/p ">Pre-PNM and Post-PNM</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p id="p__bookmark159" outputclass="Normal" class="- topic/p "/>
+   </conbody>
+</concept>

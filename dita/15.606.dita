@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="DARS_15.606"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">15.606</ph> Agency procedures.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="kvqezQ" outputclass="Text Body" class="- topic/p ">(a) Unless the contractor specifies within the proposal; no reproduction of material is allowed beyond the copies needed for PL22, Contract Operations Branch, contracting officer, technical and legal reviews. All copies shall be properly disposed (shredding hard copies, permanently deleting electronic copies). PL22 shall maintain an electronic copy of the proposal with the PSD decision authority’s letter.</p>
+      <p id="gdaaum" outputclass="Text Body" class="- topic/p ">(b) PL22, Contract Operations Branch is the agency point of contact to coordinate the receipt and handling of unsolicited proposals.</p>
+   </conbody>
+</concept>

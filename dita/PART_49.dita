@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="DARS_PART_49"
+          ditaarch:DITAArchVersion="1.3"
+          class="- topic/topic ">
+      <title class="- topic/title " outputclass="1 heading Ctr">
+         <ph class="- topic/ph " props="autonumber">Part 49</ph> - TERMINATION OF CONTRACTS</title>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_49.1.dita#DARS_SUBPART_49.1"
+                        class="- topic/xref ">Subpart 49.1 - GENERAL PRINCIPLES</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="49.101.dita#DARS_49.101"
+                              class="- topic/xref ">49.101 Authorities and responsibilities.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="49.102.dita#DARS_49.102"
+                              class="- topic/xref ">49.102 Notice of termination.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="49.107.dita#DARS_49.107"
+                              class="- topic/xref ">49.107 Audit of prime contract settlement proposals and subcontract settlements.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="49.108.dita#DARS_49.108"
+                              class="- topic/xref ">49.108 Settlement of subcontract settlement proposals.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="49.1088.dita#DARS_49.1088"
+                              class="- topic/xref ">49.108-8 Assignment of rights under subcontracts.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="49.109.dita#DARS_49.109"
+                              class="- topic/xref ">49.109 Settlement agreements.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="49.1091.dita#DARS_49.1091"
+                              class="- topic/xref ">49.109-1 General.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_49.2.dita#DARS_SUBPART_49.2"
+                        class="- topic/xref ">Subpart 49.2 - ADDITIONAL PRINCIPLES FOR FIXED-PRICE CONTRACTS TERMINATED FOR CONVENIENCE</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="49.202.dita#DARS_49.202"
+                              class="- topic/xref ">49.202 Profit.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="49.206.dita#DARS_49.206"
+                              class="- topic/xref ">49.206 Settlement proposals.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="49.2061.dita#DARS_49.2061"
+                              class="- topic/xref ">49.206-1 Submission of settlement proposals.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_49.3.dita#DARS_SUBPART_49.3"
+                        class="- topic/xref ">Subpart 49.3 - ADDITIONAL PRINCIPLES FOR COST-REIMBURSEMENT CONTRACTS TERMINATED FOR CONVENIENCE</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="49.303.dita#DARS_49.303"
+                              class="- topic/xref ">49.303 Procedure after discontinuing vouchers.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="49.3034.dita#DARS_49.3034"
+                              class="- topic/xref ">49.303-4 Adjustment of indirect costs.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="49.3035.dita#DARS_49.3035"
+                              class="- topic/xref ">49.303-5 Final settlement.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="49.305.dita#DARS_49.305"
+                              class="- topic/xref ">49.305 Adjustment of fee.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="49.3051.dita#DARS_49.3051"
+                              class="- topic/xref ">49.305-1 General.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_49.4.dita#DARS_SUBPART_49.4"
+                        class="- topic/xref ">Subpart 49.4 - TERMINATION FOR DEFAULT</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="49.402.dita#DARS_49.402"
+                              class="- topic/xref ">49.402 Termination of Fixed-Price Contracts for Default.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="49.4023.dita#DARS_49.4023"
+                              class="- topic/xref ">49.402-3 Procedure for default.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_249.70.dita#DARS_SUBPART_249.70"
+                        class="- topic/xref ">Subpart 249.70 - SPECIAL TERMINATION REQUIREMENTS</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="249.7001.dita#DARS_249.7001"
+                              class="- topic/xref ">249.7001 Congressional notification on significant contract terminations.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

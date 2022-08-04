@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="DARS_15.300"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">15.300</ph> Scope of subpart.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="IsmJhm" outputclass="Text Body" class="- topic/p ">(S-90) Procedures, guidance, and templates for this section are located at the <xref format="asp"
+               href="https://www.ditco.disa.mil/DITCOContractingTemplates/Default.asp"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">DISA Procurement - Contracting Procedures, Guides and Templates</u>
+         </xref> webpage.</p>
+      <p id="fqedAX" outputclass="Text Body" class="- topic/p ">Past performance guidance can be found in the <xref format="pdf"
+               href="https://www.acq.osd.mil/dpap/Docs/PPI_Guide_2003_final.pdf"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">OSD Guide to Collection and Use of Past Performance Information</u>
+         </xref>
+      </p>
+      <p id="MiZBMX" outputclass="Text Body" class="- topic/p ">Source selection guidance can be found in the <xref format="pdf"
+               href="https://www.acq.osd.mil/dpap/policy/policyvault/USA004370-14-DPAP.pdf"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">DoD Source Selection Procedures</u>
+         </xref> and <xref format="html"
+               href="https://www.ditco.disa.mil/DITCOContractingTemplates/"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">DISA Source Selection Procedures</u>
+         </xref>
+      </p>
+   </conbody>
+</concept>

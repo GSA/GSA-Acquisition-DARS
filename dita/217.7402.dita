@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="DARS_217.7402"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">217.7402</ph> Exceptions.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="XEkGcx" outputclass="Normal" class="- topic/p ">(a)The following Undefinitized Contract Actions (UCA) are not subject to this subpart.</p>
+      <p id="SvMXYp" outputclass="List1" class="- topic/p ">(1) Telecommunications contract actions at or below the simplified acquisition threshold for:</p>
+      <p id="hrHogV" outputclass="List1" class="- topic/p ">(i) Temporary circuits associated with presidential travel or in support of the US Secret Service, the Office of the Secretary of Defense, and Office of Special Events ordered via the Basic Agreements; and,</p>
+      <p id="YRcqXt" outputclass="List1" class="- topic/p ">(ii) CLINs associated with travel on the White House Communications Agency Travel Contract</p>
+   </conbody>
+</concept>

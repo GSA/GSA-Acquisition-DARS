@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="DARS_22.1013"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 2" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">22.101-3</ph> Reporting labor disputes.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="AEIJhm" outputclass="Text Body" class="- topic/p ">(S-90) After becoming aware of labor disputes (actual or potential) involving a contractor, the contracting officer shall take prompt action consistent with the following instructions:</p>
+      <p id="rOIhzy" outputclass="List1" class="- topic/p ">(1) Notify local legal counsel and the HCO by the most expeditious means. When possible, the HCO should be given an in-depth briefing regarding the actual or potential labor disputes by the contracting officer.</p>
+      <p id="aLWXUb" outputclass="List1" class="- topic/p ">(2) Notify the affected customers by message or letter of the actual or potential labor disputes that could delay, or threaten to delay the timely contract performance.</p>
+      <p id="EfLYtG" outputclass="Text Body" class="- topic/p ">(S-91) Legal counsel, ICW the HCO, will furnish all pertinent information relating to actual or potential labor disputes promptly to the HCA and the DISA Labor Advisor. The Labor Advisor for DISA is the Associate General Counsel, Personnel and Employment Law.</p>
+   </conbody>
+</concept>

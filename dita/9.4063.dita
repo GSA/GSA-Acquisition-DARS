@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="DARS_9.4063"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">9.406-3</ph> Procedures.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="Body Text" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Investigation and referral. </i>Refer any matter that may be a cause for debarment to the HCA and the GC IAW DFARS PGI 209.406-3.</p>
+   </conbody>
+</concept>

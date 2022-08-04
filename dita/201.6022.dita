@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="DARS_201.6022"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">201.602-2</ph> Responsibilities.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="aFjgJN" outputclass="Text Body" class="- topic/p ">(d)(S-90) <i class="+ topic/ph hi-d/i ">Policy.</i> The contracting officer shall designate and manage Contracting Officer’s Representatives (CORs) in accordance with the DoD and DISA COR Handbooks located at <xref format="asp"
+               href="https://www.ditco.disa.mil/hq/deskbooks.asp"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">https://www.ditco.disa.mil/hq/deskbooks.asp</u>
+         </xref>. The authority to designate CORs shall not be further delegated.</p>
+      <p id="KTWnwB" outputclass="Text Body" class="- topic/p ">(S-91) The contracting officer must designate the COR in the <ph class="- topic/ph ">
+            <u class="+ topic/ph hi-d/u ">Joint Appointment Module (</u>
+         </ph>JAM) as part of the award process, inserting DISA specific instructions as applicable<ph class="- topic/ph ">.</ph>
+         <ph class="- topic/ph ">The JAM module is located at</ph>
+         <xref format="html"
+               href="https://piee.eb.mil/"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">https://piee.eb.mil/</u>
+         </xref>
+         <ph class="- topic/ph ">. Within JAM, a COR may self-nominate or the contracting officer may appoint a COR.</ph>
+      </p>
+      <p id="IJxKXL" class="- topic/p ">(S-92) The mission partner may indicate on Enclosure 1, Requirements Checklist that a COR appointment is not necessary because it meets the exemption criteria in DFARS PGI 201.602-2(d)(v)(A) (1) and (2). The contracting officer shall review the requirement to confirm the criteria are met. The contracting officer may request additional information to support the exemption, as necessary. Filing Enclosure 1, Requirements Checklist in the contract file meets the requirement in DFARS PGI 201.602-2(d)(v)(A)(3) to document the file in writing.</p>
+      <p id="PovDCd" outputclass="Normal" class="- topic/p ">(S-93) <i class="+ topic/ph hi-d/i ">Contracting Officer</i> responsibilities:</p>
+      <p id="IaxMpJ" outputclass="List1" class="- topic/p ">Electronic Document Management System (EDMS) Tab 52 shall contain a copy of the approved designation letter from the JAM module.</p>
+      <p id="YiUoJM" outputclass="List1" class="- topic/p ">A <i class="+ topic/ph hi-d/i ">Technical Representative</i> (TR) is distinctly different from a COR. A TR is not authorized to perform contract administration functions and is generally located at a contractor’s facility to provide program technical oversight. The program manager (see DARS Part 7 for definition) appoints the TR. See DFARS 242.74 for TR procedures.</p>
+   </conbody>
+</concept>

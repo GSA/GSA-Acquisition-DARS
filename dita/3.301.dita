@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="DARS_3.301"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">3.301</ph> General.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="p__bookmark45" outputclass="Text Body" class="- topic/p ">(b)(2) The DISA GC is the designee.</p>
+      <p id="p__bookmark46" outputclass="Text Body" class="- topic/p "/>
+   </conbody>
+</concept>
