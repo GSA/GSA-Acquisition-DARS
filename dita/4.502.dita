@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="DARS_4.502">
-   <title outputclass="Heading 3">
-      <ph props="autonumber">4.502</ph> Policy.</title>
-   <conbody>
-      <p id="gCPtWV" outputclass="Text Body">(d) Electronic signatures are created using an individual's PKI certificate or signed scanned documents. If a document is not PKI enabled, utilize software (AdobePro) to sign the document. The documents should be scanned into .pdf format to file in EDMS.</p>
-   </conbody>
-</concept>

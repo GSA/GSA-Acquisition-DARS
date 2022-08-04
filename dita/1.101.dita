@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="DARS_1.101">
-   <title outputclass="Heading 3">
-      <ph props="autonumber">1.101</ph> Purpose.</title>
-   <conbody>
-      <p id="lMAqPV" outputclass="Text Body">The Defense Information Systems Agency (DISA) Acquisition Regulation Supplement (DARS) establishes uniform DISA policies implementing and supplementing the Federal Acquisition Regulation (FAR), the Defense FAR Supplement (DFARS), Title 10 of the United States Code and other statutory authority, and applicable Department of Defense (DoD) directives and instructions. The DARS is not a “stand alone” document and must be read in conjunction with the preceding guidance.</p>
-   </conbody>
-</concept>

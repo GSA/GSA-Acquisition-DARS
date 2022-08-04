@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="DARS_8.404">
-   <title outputclass="Heading 3">
-      <ph props="autonumber">8.404</ph> Use of Federal Supply Schedules.</title>
-   <conbody>
-      <p id="SdWwke">(h)(3)(ii)(A) A determination and findings is not required for time-and-materials or labor-hour CLINS utilizing Order Level Materials (OLM) under GSA Schedules. The cumulative value of the OLM CLIN/SLINs shall not exceed 33.33% of the total value of the order or BPA, not including travel.</p>
-   </conbody>
-</concept>

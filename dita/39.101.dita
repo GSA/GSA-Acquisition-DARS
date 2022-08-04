@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="DARS_39.101">
-   <title outputclass="Heading 3">
-      <ph props="autonumber">39.101</ph> Policy.</title>
-   <conbody>
-      <p id="oEykoL" outputclass="Text Body">(S-90) Unless there is an associated service being offered with a software subscription or softwaremaintenance agreement, and that associated service is billed separately, the acquisition of software subscriptions or software maintenance agreements will be acquired as a product. Further, IT Value Added Reseller (ITVAR) excepted acquisitions with the NAICS code 541519 will be acquired as a product.</p>
-   </conbody>
-</concept>

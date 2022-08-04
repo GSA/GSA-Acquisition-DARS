@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="DARS_201.403">
-   <title outputclass="Heading 3">
-      <ph props="autonumber">201.403</ph> Individual deviations.</title>
-   <conbody>
-      <p id="NedowT" outputclass="Text Body">(S-90) Appendix B contains the approved DISA Clause Control Plan and shall be followed for approval of deviations and clauses other than those prescribed in the FAR and DFARS.</p>
-   </conbody>
-</concept>

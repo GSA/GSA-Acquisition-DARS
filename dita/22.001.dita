@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="DARS_22.001">
-   <title outputclass="Heading 2">
-      <ph props="autonumber">22.001</ph> Definitions.</title>
-   <conbody>
-      <p id="NAJmZy" outputclass="Text Body">(S-90) Unless there is an associated service being offered with the telecommunications and that associated service is billed separately, the leasing/provisioning of the telecommunications circuit (commoditized bandwidth) is not a “service contract.” IAW FAR 22.001, a “service contract means any Government contract, or subcontract thereunder, the principal purpose of which is to furnish services in the United States through the use of service employees…”</p>
-   </conbody>
-</concept>

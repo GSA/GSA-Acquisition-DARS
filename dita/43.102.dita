@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="DARS_43.102">
-   <title outputclass="Heading 3">
-      <ph props="autonumber">43.102</ph> Policy.</title>
-   <conbody>
-      <p id="jNxGet" outputclass="Text Body">(S-90) Telecommunications contracts/orders that are issued in Integrated Defense Enterprise Acquisition System (IDEAS) with CLINs that are intended to track usage, shall report usage expended monthly through automatic modifications. Automatic modifications will include an IDEAS Generated Auto-Modification signature block. IDEAS will automatically generate the modifications that account for usage by using the monthly usage expenditures received by the DISA Financial Management System. The usage amounts will also be reported via a contract action report in FPDS-NG and auto-filed in IDEAS. A CLIN will be used for usage charges in telecommunications contracts/orders. SLINs will be added under the usage CLIN via the automatic modifications each month to report obligation amounts.</p>
-   </conbody>
-</concept>
