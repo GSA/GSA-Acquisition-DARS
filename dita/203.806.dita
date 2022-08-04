@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="DARS_203.806">
-   <title outputclass="Heading 3">
-      <ph props="autonumber">203.806</ph> Processing suspected violations.</title>
-   <conbody>
-      <p id="fxpoOS" outputclass="Text Body">(S-90) Forward suspected violations to DISA GC. PL2 will coordinate submittal to Defense Pricing and Contracting/Contract Policy and International Contracting.</p>
-   </conbody>
-</concept>
