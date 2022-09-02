@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="DARS_13.301">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DARS_13.301" ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
-      <ph props="autonumber">13.301</ph> Government–wide commercial purchase card.</title>
+      <ph props="autonumber">13.301</ph> Government-wide commercial purchase card.</title>
    <conbody>
       <p id="IqbPxd" outputclass="Text Body">(b) References: <xref format="asp" href="https://www.ditco.disa.mil/hq/deskbooks.asp" scope="external">
             <u>Government-wide Commercial Purchase Card Policy and Procedures</u>

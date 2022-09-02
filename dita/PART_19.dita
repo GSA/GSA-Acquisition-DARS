@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="DARS_PART_19">
-      <title outputclass="1 heading Ctr" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 19</ph> — SMALL BUSINESS PROGRAMS</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="DARS_PART_19" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="1 heading Ctr">
+         <ph props="autonumber">Part 19</ph> - SMALL BUSINESS PROGRAMS</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_19.2.dita#DARS_SUBPART_19.2">SUBPART 19.2 – POLICIES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_19.2.dita#DARS_SUBPART_19.2">Subpart 19.2 - POLICIES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -31,7 +30,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_19.3.dita#DARS_SUBPART_19.3">SUBPART 19.3 – DETERMINATION OF SMALL BUSINESS STATUS FOR SMALL BUSINESS PROGRAMS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_19.3.dita#DARS_SUBPART_19.3">Subpart 19.3 - DETERMINATION OF SMALL BUSINESS STATUS FOR SMALL BUSINESS PROGRAMS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -43,19 +42,19 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_19.5.dita#DARS_SUBPART_19.5">SUBPART 19.5 –– SET –ASIDES FOR SMALL BUSINESS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_19.5.dita#DARS_SUBPART_19.5">Subpart 19.5 - SET -ASIDES FOR SMALL BUSINESS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="19.5022.dita#DARS_19.5022">19.502-2 Total small business set–asides.</xref>
+                        <xref outputclass="fm:TOC" href="19.5022.dita#DARS_19.5022">19.502-2 Total small business set-asides.</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_19.7.dita#DARS_SUBPART_19.7">SUBPART 19.7 — THE SMALL BUSINESS SUBCONTRACTING PROGRAM</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_19.7.dita#DARS_SUBPART_19.7">Subpart 19.7 - THE SMALL BUSINESS SUBCONTRACTING PROGRAM</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -82,7 +81,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_19.8.dita#DARS_SUBPART_19.8">SUBPART 19.8 – CONTRACTING WITH THE SMALL BUSINESS ADMINISTRATION (THE 8(a) PROGRAM)</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_19.8.dita#DARS_SUBPART_19.8">Subpart 19.8 - CONTRACTING WITH THE SMALL BUSINESS ADMINISTRATION (THE 8(a) PROGRAM)</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

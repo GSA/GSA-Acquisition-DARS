@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="DARS_45.105">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DARS_45.105" ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
-      <ph props="autonumber">45.105</ph> Contractors’ property management system compliance.</title>
+      <ph props="autonumber">45.105</ph> Contractors property management system compliance.</title>
    <conbody>
       <p id="ENdAFQ" outputclass="Normal">(a) Contracting Officers shall insert DITCO Additional Text H9, Government Furnished Property Contract Management, in all contracts/orders that include GFP to establish a post award Property Management Plan and a Contractor Property Manager (CPM) Point of Contact (POC). The Property Administrator (or the COR in the absence of an appointed Property Administrator) shall review the contractor’s Property Management Plan IAW DITCO Additional Text H9, and notify the contractor of any deficiencies within 10 business days of receipt. A final Property Management Plan will be placed in the official contract file.</p>
    </conbody>

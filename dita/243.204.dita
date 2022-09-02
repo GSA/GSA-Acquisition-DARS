@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="DARS_243.204">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DARS_243.204" ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
-      <ph props="autonumber">243.204</ph> –70–7 Plans and reports.</title>
+      <ph props="autonumber">243.204</ph> -70-7 Plans and reports.</title>
    <conbody>
       <p id="mWfYiR" outputclass="Normal">(S-90) <i>Authorization</i>. The contracting officer shall obtain approval from the Head of the Contracting Activity (HCA) before entering into an Unpriced Change Order (UCO) or modifying the scope of a UCO when performance has already begun. The Request for HCA approval of a UCO is located in <xref format="aspx" href="https://disa.deps.mil/org/PL2/Pages/DITCORefs.aspx" scope="external">DARS PGI</xref> 217.7404-1(S-90) and must be maintained in the contract file.</p>
       <p id="CJafaX" outputclass="Normal">(S-91) <i>Processing.</i> The PL2 Contract Policy &amp; Operations Division will track the processing of UCOs (see <xref format="html" href="https://www.acquisition.gov/dfars" scope="external">

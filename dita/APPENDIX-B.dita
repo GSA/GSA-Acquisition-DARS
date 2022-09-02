@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="DARS_APPENDIX-B">
-      <title outputclass="Ctr 1 heading" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">APPENDIX B</ph> — DISA PLAN FOR CONTROL OF
-         CLAUSES</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="DARS_APPENDIX-B" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Ctr 1 heading">
+         <ph props="autonumber">APPENDIX B - DISA PLAN FOR CONTROL OF CLAUSES</ph> Table Of Contents</title>
       <body>
          <p id="jNXbfH" outputclass="Ctr text body">Defense Information Systems Agency</p>
          <p id="pqoinq" outputclass="Ctr text body">Procurement Services Directorate (PSD)/Defense
@@ -31,276 +29,25 @@
             instrument. b. <u>Clause</u>. Includes provisions and means a term or condition of the
             type set forth in FAR Part 52/DFARS Part 252. c. <u>Other Key Terms</u>. The following
             matrix reflects additional key terms along with related FAR and DFARS references.</p>
-         <table colsep="1" rowsep="1">
-            <tgroup cols="2" colsep="1">
-               <colspec colname="1" colnum="1"/>
-               <colspec colname="2" colnum="2"/>
-               <tbody>
-                  <row rowsep="1">
-                     <entry>
-                        <p id="elPcID">Deviation</p>
-                     </entry>
-                     <entry>
-                        <p id="cqkMFF">FAR Subpart 1.4; DFARS Subpart 201.4</p>
-                     </entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry>
-                        <p id="aCRWcO">Substantially-as-follows, or</p>
-                        <p id="xObQtc">Substantially-the-same-as</p>
-                     </entry>
-                     <entry>
-                        <p id="jXoecP">FAR 2.101</p>
-                     </entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry>
-                        <p id="rGTlWF">Modification</p>
-                     </entry>
-                     <entry>
-                        <p id="Qlyqcc">FAR 52.101 and 52.104</p>
-                     </entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry>
-                        <p id="Yftehz">Alternate</p>
-                     </entry>
-                     <entry>
-                        <p id="oKAcbE">FAR 52.105</p>
-                     </entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry>
-                        <p id="tlqYmg">Solicitation</p>
-                     </entry>
-                     <entry>
-                        <p id="gciRDp">FAR 2.101</p>
-                     </entry>
-                  </row>
-               </tbody>
-            </tgroup>
-         </table>
          <p id="OVulqk" outputclass="Normal">3. <u>Table of Approval Authorities</u>
          </p>
-         <table colsep="1" rowsep="1">
-            <tgroup cols="3" colsep="1">
-               <colspec colname="1" colnum="1"/>
-               <colspec colname="2" colnum="2"/>
-               <colspec colname="3" colnum="3"/>
-               <tbody>
-                  <row rowsep="1">
-                     <entry>
-                        <p id="foqCPm">Type</p>
-                     </entry>
-                     <entry>
-                        <p id="uTNPsV">Reference</p>
-                     </entry>
-                     <entry>
-                        <p id="PElBPz">Approval Authority</p>
-                     </entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry>
-                        <p id="YMitep">Any new requirement for acertification by a contractor or
-                           offeror unless imposed by statute.</p>
-                     </entry>
-                     <entry>
-                        <p id="WBNqoJ">DFARS 201.304(2)</p>
-                     </entry>
-                     <entry>
-                        <p id="UzTyXd">Secretary of Defense (without delegation)</p>
-                     </entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry>
-                        <p id="bGFXSp">Any policy letter, clause book, policy, procedure, clause, or
-                           form that has a significant effect beyond internal operating procedures
-                           or poses asignificant cost or administrative impact on contractors or
-                           offerors.</p>
-                     </entry>
-                     <entry>
-                        <p id="yQSQmf">DFARS 201.304(1)(i)(A) &amp; (B)</p>
-                     </entry>
-                     <entry>
-                        <p id="UiRprV">OUSD(A&amp;S)DPC</p>
-                     </entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry>
-                        <p id="wJQipo">Clause Control Plan</p>
-                     </entry>
-                     <entry>
-                        <p id="jWLfjQ">DFARS 201.304(4)</p>
-                     </entry>
-                     <entry>
-                        <p id="ZNBnOb">OUSD(A&amp;S)DPC</p>
-                     </entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry>
-                        <p id="uxkUOi">Individual or class deviations from FAR/DFARS cited in
-                           201.402(1):</p>
-                        <p id="jAmkFA" outputclass="List2">(1) FAR 3.104/DFARS 203.104,</p>
-                        <p id="uVdsqy">Procurement Integrity;</p>
-                        <p id="MxiRkT" outputclass="List2">(2) FAR Subpart 27.4/DFARS Subpart 227.4,
-                           Rights in Data and</p>
-                        <p id="DGbmYp">Copyrights;</p>
-                        <p id="wRRTcV">FAR Part 30/DFARS Part 230, CAS</p>
-                        <p id="BuQGQZ">Administration;</p>
-                        <p id="bULcsR" outputclass="List2">(4) FAR Subpart 31.1/DFARS Subpart 231.1,
-                           Applicability (contract cost Principles);</p>
-                        <p id="FJqSDQ" outputclass="List2">(5) FAR Subpart 31.2/DFARS Part 231,
-                           Contracts with Commercial Organizations; or</p>
-                        <p id="bgwWgs" outputclass="List2">(6) FAR Part 32/DFARS 232, Contract
-                           Financing (with two exceptions).</p>
-                     </entry>
-                     <entry>
-                        <p id="seLUBn">FAR Subpart 1.4</p>
-                        <p id="XywDRR">DFARS 201.402(1)</p>
-                     </entry>
-                     <entry>
-                        <p id="iGPmft">OUSD(A&amp;S)DPC</p>
-                     </entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry>
-                        <p id="SrqmPc">Individual deviations from FAR/DFARS other than those cited
-                           in 201.402(1).</p>
-                     </entry>
-                     <entry>
-                        <p id="UMjwUc">FAR 1.403</p>
-                        <p id="PXKERX">DFARS 201.403(1)</p>
-                     </entry>
-                     <entry>
-                        <p id="lMposL">Head of the Contracting Activity</p>
-                     </entry>
-                  </row>
-               </tbody>
-            </tgroup>
-         </table>
-         <table colsep="1" rowsep="1">
-            <tgroup cols="3" colsep="1">
-               <colspec colname="1" colnum="1"/>
-               <colspec colname="2" colnum="2"/>
-               <colspec colname="3" colnum="3"/>
-               <tbody>
-                  <row rowsep="1">
-                     <entry>
-                        <p id="VpJmCN">Class deviations other than those described in 201.402(1)
-                           that do not –</p>
-                        <p id="CyuAHM" outputclass="List2">(1) Have a significant effect beyond the
-                           internal operating procedures of the department or agency;</p>
-                        <p id="dDnxoA" outputclass="List2">(2) Have a significant cost or
-                           administrative impact on contractors or offerors;</p>
-                        <p id="UynyDy" outputclass="List2">(3) Diminish any preference given small
-                           business concerns by the FAR or DFARS; or</p>
-                        <p id="rUjqWl" outputclass="List2">(4) Extend to requirements imposed by
-                           statute or by regulations of other agencies such as the Small Business
-                           Administration and the Department of Labor.</p>
-                     </entry>
-                     <entry>
-                        <p id="cvbGpE">FAR 1.404 DFARS 201.404(b)(ii)</p>
-                     </entry>
-                     <entry>
-                        <p id="wGxdvG">OUSD(A&amp;S)DPC approves all class deviations</p>
-                     </entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry>
-                        <p id="JMiBoA">Provisions and clauses developed to fulfill a specific and
-                           unique requirement of the acquisition, or are a result of negotiations.
-                           They do not constitute a deviation from FAR or DFARS or require
-                           OUSD(A&amp;S)DPC approval.</p>
-                     </entry>
-                     <entry>
-                        <p id="cQcuKu">DFARS 201.304</p>
-                     </entry>
-                     <entry>
-                        <p id="bgaCob">Head of the Contracting Activity</p>
-                        <p id="ppJiku">Policy, Quality Assurance &amp; Procedures Division (PL2)</p>
-                     </entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry>
-                        <p id="XStakc">Proposed new repetitive use or "substantially the same as"
-                           local clauses. They do not constitute a deviation from FAR or DFARS or
-                           require OUSD(A&amp;S)DPC approval.</p>
-                     </entry>
-                     <entry>
-                        <p id="nLJDzT">FAR 1.401</p>
-                        <p id="aAiQtQ">DFARS 201.304</p>
-                     </entry>
-                     <entry>
-                        <p id="CPtune">Head of the Contracting Activity</p>
-                        <p id="ZOsIgc">OUSD(A&amp;S)DPC</p>
-                        <p id="DvTqKR">(for rule-making process)</p>
-                     </entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry>
-                        <p id="PXjyia">Proposed use of modifications, alternates, and authorized
-                           deviations.</p>
-                     </entry>
-                     <entry>
-                        <p id="CELBEE">FAR 1.401</p>
-                     </entry>
-                     <entry>
-                        <p id="hAdnGk">Contracting Officer</p>
-                     </entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry>
-                        <p id="bOOOld">Proposed tailoring by the contracting officer of the
-                           commercial item provision at FAR 52.212-1, Instructions to Offerors -
-                           Commercial Items and the clause at FAR 52.212-4</p>
-                        <p id="lQfVDy">Contract Terms and Conditions- Commercial Items (with certain
-                           limitations) consistent with commercial practice.</p>
-                     </entry>
-                     <entry>
-                        <p id="lGYznJ">FAR 12.302</p>
-                     </entry>
-                     <entry>
-                        <p id="AyzphY">Contracting Officer</p>
-                     </entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry>
-                        <p id="XGcMNP">Proposed tailoring (inconsistent with customary practice) by
-                           the contracting officer of the commercial item provision at FAR 52.212-1,
-                           Instructions to</p>
-                        <p id="AmuRgX">Offerors - Commercial</p>
-                     </entry>
-                     <entry>
-                        <p id="ywVuaX">DFARS 212.302</p>
-                     </entry>
-                     <entry>
-                        <p id="WNiacu">Head of the Contracting Activity</p>
-                     </entry>
-                  </row>
-               </tbody>
-            </tgroup>
-         </table>
          <p id="VHUYUA" outputclass="Normal">4. <u>Deviation Review Procedures</u>
          </p>
          <p id="qaxxKy" outputclass="List2">a. Written justification for a new certification by a
             contractor or offeror that requires approval by the Secretary of Defense shall be
-            processed by routing (See <xref format="html"
-               href="https://www.ditco.disa.mil/DITCOContractingTemplates/" scope="external">
+            processed by routing (See <xref format="html" href="https://www.ditco.disa.mil/DITCOContractingTemplates/" scope="external">
                <u>Contract Document</u>
             </xref>
-            <xref format="html" href="https://www.ditco.disa.mil/DITCOContractingTemplates/"
-               scope="external">
+            <xref format="html" href="https://www.ditco.disa.mil/DITCOContractingTemplates/" scope="external">
                <u>Approval Signature Routing Procedures</u>.</xref>) from the Contracting Officer
             through the cognizant HCO, PL21 Policy Branch, the Office of General Counsel, and HCA
             prior to approval by the SPE and submission to the DAR Council Director for processing
             to USD (A&amp;S) via OUSD (A&amp;S) DPC.</p>
          <p id="xHqXLl" outputclass="List2">b. Proposed deviations from FAR or DFARS that require
-            approval by OUSD (A&amp;S) DPC shall be processed by routing (See <xref format="html"
-               href="https://www.ditco.disa.mil/DITCOContractingTemplates/" scope="external">
+            approval by OUSD (A&amp;S) DPC shall be processed by routing (See <xref format="html" href="https://www.ditco.disa.mil/DITCOContractingTemplates/" scope="external">
                <u>Contract Document Approval Signature Routing</u>
             </xref>
-            <xref format="html" href="https://www.ditco.disa.mil/DITCOContractingTemplates/"
-               scope="external">
+            <xref format="html" href="https://www.ditco.disa.mil/DITCOContractingTemplates/" scope="external">
                <u>Procedures</u>.</xref>) from the contracting officer through the cognizant HCO,
             PL21 Policy Branch, the Office of General Counsel, and HCA prior to approval by the SPE
             and submission to the DAR Council Director for processing. The PL21 Policy Branch will
@@ -313,18 +60,15 @@
          <p id="vPhRNw" outputclass="List2">e. All deviation requests for approval shall include, at
             a minimum, the information required by DFARS 201.402(2).</p>
          <p id="XCZiSq" outputclass="Normal">5. <u>Unique or Special Requirements Review</u>
-            <u/>
+            <u></u>
             <u>Procedures</u>
          </p>
          <p id="zRcMEC" outputclass="List2">a. Proposed supplemental clauses which fulfill a
             specific and unique requirement of the acquisition and are not for repetitive use, or
             are the result of negotiations, do not constitute a deviation from the FAR or DFARS, and
             which do not require the approval of OUSD (A&amp;S) DPC will be submitted for review by
-            the PL21 Policy Branch and the Office of General Counsel for approval by the <xref
-               format="html" href="http://www.disa.mil/about/offices/ditco/pl2.html"
-               scope="external">Policy, Quality Assurance &amp; Procedures Division Chief</xref>
-            <xref format="html" href="http://www.disa.mil/about/offices/ditco/pl2.html"
-               scope="external">(PL2),</xref> Defense Information Technology Contracting
+            the PL21 Policy Branch and the Office of General Counsel for approval by the <xref format="html" href="http://www.disa.mil/about/offices/ditco/pl2.html" scope="external">Policy, Quality Assurance &amp; Procedures Division Chief</xref>
+            <xref format="html" href="http://www.disa.mil/about/offices/ditco/pl2.html" scope="external">(PL2),</xref> Defense Information Technology Contracting
             Organization. These requirements are not required to be included in agency or
             suborganization acquisition regulations:</p>
          <p id="RTpWFB" outputclass="Text Body">G1. Points of Contact</p>
@@ -368,7 +112,7 @@
             governments or organizations will not agree to the standard clauses. The Head of the
             Contracting Office (HCO) shall maintain a record of all such deviations.</p>
          <p id="RKqdLl" outputclass="Normal">6. <u>Clause</u>
-            <u/>
+            <u></u>
             <u>Numbering</u>
          </p>
          <p id="ZsHzrX" outputclass="List2">a. All clauses included in solicitations and contracts
@@ -387,7 +131,7 @@
             provided to the PL21 Policy Branch for review and consideration for inclusion in
             agency-level acquisition regulations for use on an agency-wide basis.</p>
          <p id="MopSjm" outputclass="Normal">8. <u>Focal</u>
-            <u/>
+            <u></u>
             <u>Point</u>
          </p>
          <p id="sWGzJD" outputclass="Text Body">The HCA is the focal point for resolution of

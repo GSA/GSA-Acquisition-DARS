@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="DARS_PART_1">
-      <title outputclass=" 1 heading Ctr" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 1</ph> –– FEDERAL ACQUISITION REGULATIONS SYSTEM</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="DARS_PART_1" ditaarch:DITAArchVersion="1.3">
+      <title outputclass=" 1 heading Ctr">
+         <ph props="autonumber">Part 1</ph> - FEDERAL ACQUISITION REGULATIONS SYSTEM</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_1.1.dita#DARS_SUBPART_1.1">SUBPART 1.1 –– PURPOSE, AUTHORITY, ISSUANCE</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_1.1.dita#DARS_SUBPART_1.1">Subpart 1.1 - PURPOSE, AUTHORITY, ISSUANCE</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -36,7 +35,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_1.2.dita#DARS_SUBPART_1.2">SUBPART 1.2 — ADMINISTRATION</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_1.2.dita#DARS_SUBPART_1.2">Subpart 1.2 - ADMINISTRATION</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -53,7 +52,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_1.3.dita#DARS_SUBPART_1.3">SUBPART 1.3 — AGENCY ACQUISITION REGULATIONS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_1.3.dita#DARS_SUBPART_1.3">Subpart 1.3 - AGENCY ACQUISITION REGULATIONS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -75,7 +74,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_1.4.dita#DARS_SUBPART_1.4">SUBPART 1.4 –– DEVIATIONS FROM THE FAR</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_1.4.dita#DARS_SUBPART_1.4">Subpart 1.4 - DEVIATIONS FROM THE FAR</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -87,7 +86,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_1.5.dita#DARS_SUBPART_1.5">SUBPART 1.5 — AGENCY AND PUBLIC PARTICIPATION</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_1.5.dita#DARS_SUBPART_1.5">Subpart 1.5 - AGENCY AND PUBLIC PARTICIPATION</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -99,7 +98,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_1.6.dita#DARS_SUBPART_1.6">SUBPART 1.6 — CAREER DEVELOPMENT, CONTRACTING AUTHORITY, AND RESPONSIBILITIES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_1.6.dita#DARS_SUBPART_1.6">Subpart 1.6 - CAREER DEVELOPMENT, CONTRACTING AUTHORITY, AND RESPONSIBILITIES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -129,14 +128,14 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="1.604.dita#DARS_1.604">1.604 Contracting Officer’s Representative (COR).</xref>
+                        <xref outputclass="fm:TOC" href="1.604.dita#DARS_1.604">1.604 Contracting Officers Representative (COR).</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_1.90.dita#DARS_SUBPART_1.90">SUBPART 1.90 — PROCUREMENT OVERSIGHT</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_1.90.dita#DARS_SUBPART_1.90">Subpart 1.90 - PROCUREMENT OVERSIGHT</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

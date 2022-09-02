@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="DARS_PART_15">
-      <title outputclass="1 heading Ctr" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 15</ph> –– CONTRACTING BY NEGOTIATION</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="DARS_PART_15" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="1 heading Ctr">
+         <ph props="autonumber">Part 15</ph> - CONTRACTING BY NEGOTIATION</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_15.2.dita#DARS_SUBPART_15.2">SUBPART 15.2 — SOLICITATION AND RECEIPT OF PROPOSALS AND INFORMATION</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_15.2.dita#DARS_SUBPART_15.2">Subpart 15.2 - SOLICITATION AND RECEIPT OF PROPOSALS AND INFORMATION</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -26,7 +25,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_15.3.dita#DARS_SUBPART_15.3">SUBPART 15.3 — SOURCE SELECTION</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_15.3.dita#DARS_SUBPART_15.3">Subpart 15.3 - SOURCE SELECTION</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -58,7 +57,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_15.4.dita#DARS_SUBPART_15.4">SUBPART 15.4 –– CONTRACT PRICING</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_15.4.dita#DARS_SUBPART_15.4">Subpart 15.4 - CONTRACT PRICING</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -90,7 +89,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_15.5.dita#DARS_SUBPART_15.5">SUBPART 15.5 –– PREAWARD, AWARD, AND POSTAWARD NOTIFICATIONS, PROTESTS, AND MISTAKES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_15.5.dita#DARS_SUBPART_15.5">Subpart 15.5 - PREAWARD, AWARD, AND POSTAWARD NOTIFICATIONS, PROTESTS, AND MISTAKES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -102,7 +101,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_15.6.dita#DARS_SUBPART_15.6">SUBPART 15.6 — UNSOLICITED PROPOSALS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_15.6.dita#DARS_SUBPART_15.6">Subpart 15.6 - UNSOLICITED PROPOSALS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

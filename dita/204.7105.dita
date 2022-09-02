@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="DARS_204.7105">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DARS_204.7105" ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
       <ph props="autonumber">204.7105</ph> Contract exhibits and attachments.</title>
    <conbody>
       <p id="qgRJsd">The contracting officer shall use separate Contract Line Item Numbers (CLIN) for hardware requirements of less than 10 line items. The contracting officer may use an exhibit (the CLIN must reference the exhibit) when hardware requirements exceed 10 line items (generally, listed on an electronic products list). During the fourth quarter of the fiscal year, the HCO may determine to reduce the 10-CLIN threshold to a number that is reasonably needed for efficiency. The contracting officer must also adhere to DFARS PGI 204-7105 policy on the use of exhibits.</p>
       <p id="nSalds" outputclass="Text Body">
-         <image height="2.65mm" href="Graphics/image1.png" width="158.75mm" />
+         <image height="2.65mm" href="Graphics/image1.png" width="158.75mm" placement="inline" />
       </p>
    </conbody>
 </concept>

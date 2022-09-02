@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="DARS_50.1022">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DARS_50.1022" ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
       <ph props="autonumber">50.102-2</ph> Contract adjustment boards.</title>
    <conbody>
       <p id="NPyozr" outputclass="Text Body">The DISA Contract Adjustment Board shall be composed of the following members:</p>
       <table colsep="0" rowsep="0">
          <tgroup cols="2">
-            <colspec colname="1" colnum="1" />
-            <colspec colname="2" colnum="2" />
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
             <tbody>
                <row>
                   <entry>

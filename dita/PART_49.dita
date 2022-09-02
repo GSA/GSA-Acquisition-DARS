@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="DARS_PART_49">
-      <title outputclass="1 heading Ctr" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 49</ph> –– TERMINATION OF CONTRACTS</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="DARS_PART_49" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="1 heading Ctr">
+         <ph props="autonumber">Part 49</ph> - TERMINATION OF CONTRACTS</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_49.1.dita#DARS_SUBPART_49.1">SUBPART 49.1 — GENERAL PRINCIPLES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_49.1.dita#DARS_SUBPART_49.1">Subpart 49.1 - GENERAL PRINCIPLES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -51,7 +50,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_49.2.dita#DARS_SUBPART_49.2">SUBPART 49.2 — ADDITIONAL PRINCIPLES FOR FIXED–PRICE CONTRACTS TERMINATED FOR CONVENIENCE</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_49.2.dita#DARS_SUBPART_49.2">Subpart 49.2 - ADDITIONAL PRINCIPLES FOR FIXED-PRICE CONTRACTS TERMINATED FOR CONVENIENCE</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -73,7 +72,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_49.3.dita#DARS_SUBPART_49.3">SUBPART 49.3 — ADDITIONAL PRINCIPLES FOR COST–REIMBURSEMENT CONTRACTS TERMINATED FOR CONVENIENCE</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_49.3.dita#DARS_SUBPART_49.3">Subpart 49.3 - ADDITIONAL PRINCIPLES FOR COST-REIMBURSEMENT CONTRACTS TERMINATED FOR CONVENIENCE</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -105,12 +104,12 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_49.4.dita#DARS_SUBPART_49.4">SUBPART 49.4 — TERMINATION FOR DEFAULT</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_49.4.dita#DARS_SUBPART_49.4">Subpart 49.4 - TERMINATION FOR DEFAULT</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="49.402.dita#DARS_49.402">49.402 Termination of Fixed–Price Contracts for Default.</xref>
+                        <xref outputclass="fm:TOC" href="49.402.dita#DARS_49.402">49.402 Termination of Fixed-Price Contracts for Default.</xref>
                      </p>
                   </li>
                   <li>
@@ -122,7 +121,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_249.70.dita#DARS_SUBPART_249.70">SUBPART 249.70 — SPECIAL TERMINATION REQUIREMENTS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_249.70.dita#DARS_SUBPART_249.70">Subpart 249.70 - SPECIAL TERMINATION REQUIREMENTS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

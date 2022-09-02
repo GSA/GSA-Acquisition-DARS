@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="DARS_PART_39">
-      <title outputclass="1 heading Ctr" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 39</ph> — ACQUISITION OF INFORMATION TECHNOLOGY</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="DARS_PART_39" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="1 heading Ctr">
+         <ph props="autonumber">Part 39</ph> - ACQUISITION OF INFORMATION TECHNOLOGY</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_39.1.dita#DARS_SUBPART_39.1">SUBPART 39.1 – GENERAL</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_39.1.dita#DARS_SUBPART_39.1">Subpart 39.1 - GENERAL</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -21,7 +20,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_39.2.dita#DARS_SUBPART_39.2">SUBPART 39.2 —INFORMATION AND COMMUNICATION TECHNOLOGY</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_39.2.dita#DARS_SUBPART_39.2">Subpart 39.2 - INFORMATION AND COMMUNICATION TECHNOLOGY</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -33,7 +32,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_239.74.dita#DARS_SUBPART_239.74">SUBPART 239.74 —TELECOMMUNICATIONS SERVICES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_239.74.dita#DARS_SUBPART_239.74">Subpart 239.74 - TELECOMMUNICATIONS SERVICES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

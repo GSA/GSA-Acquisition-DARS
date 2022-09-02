@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="DARS_9.508">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DARS_9.508" ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
       <ph props="autonumber">9.508</ph> Examples.</title>
    <conbody>
@@ -12,7 +12,7 @@
       <p id="OfCMPD" outputclass="List1">(3) <i>Obtaining access to proprietary information</i>. When a contractor requires proprietary information from others to perform on a Government contract and can use the leverage of the contract to obtain it, the contractor may gain an unfair competitive advantage unless restrictions are imposed. These restrictions protect the information and require companies to provide it</p>
       <p id="TGmrdF" outputclass="Text Body">when appropriate and necessary for contract performance. For example, services which, by their very nature, give the contractor or subcontractor access to extensive data about the contracts and business operations of competitor contractors. Such an advantage could be perceived as being unfair by a competing contractor who is not given similar access to the same relevant information.</p>
       <p id="nUZHzl" outputclass="Text Body">
-         <image href="Graphics/image1.png" />
+         <image href="Graphics/image1.png" placement="inline" />
       </p>
    </conbody>
 </concept>

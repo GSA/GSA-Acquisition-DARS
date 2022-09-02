@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="DARS_2.101">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DARS_2.101" ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
       <ph props="autonumber">2.101</ph> Definitions.</title>
    <conbody>
@@ -46,7 +46,7 @@
       <p id="vBbTqR" outputclass="Normal">
          <i>Senior Procurement Executive (SPE).</i> The DISA Senior Procurement Executive (SPE) is the Assistant to the Director, DISA. The HCA is designated by the DISA Director to serve as the SPE in limited circumstances where the Assistant to the Director is unavailable due to temporary duty travel, leave or similar circumstances where the SPE does not have communication capability with the Agency. The authority shall not be further re-delegated.</p>
       <p id="GMSCfF" outputclass="Text Body">
-         <image height="2.65mm" href="Graphics/image1.png" width="158.75mm" />
+         <image height="2.65mm" href="Graphics/image1.png" width="158.75mm" placement="inline" />
       </p>
    </conbody>
 </concept>
