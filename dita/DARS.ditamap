@@ -2586,9 +2586,9 @@ xtrc="Cover_1.html"/></topicref>
    </topicref><topicref
 href="Appendix_A.dita"
 navtitle="Appendix A - Approval and Delegation Matrix"
-outputclass="subtopic"
+outputclass="Part"
 audience="Appendix_A-Approval_and_Delegation_Matrix"
-xtrf="subtopic"
+xtrf="Part"
 base="NoTitle"
 otherprops="NoProp"
 props=""/>
