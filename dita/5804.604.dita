@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DARS_5804_604">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5804.604</ph> Responsibilities</title>
+      <conbody>
+        <p id="Toc45291378">(S-90) The
+Contract Action Report (CAR) will be completed and executed at time
+of award or modification issuance unless FPDS system issues prevent
+execution. At no time, should the inability to execute a CAR
+prevent a timely award or modification issuance. In these events,
+the CAR should be executed as soon as possible within three
+business days.</p>
+        <p>(S-91) For telecommunication contracts/orders, an automatic CAR
+may be used for recurring price changes associated with usage for
+contracts/orders in the Integrated Defense Enterprise Acquisition
+System (IDEAS). IDEAS will create an automatic CAR to report the
+obligation in the FPDS-NG reporting system after the automatic
+modification is executed. Monthly CARs based on each modification
+will be reported to FPDS-NG automatically against the individual
+contracts/orders. Each automatic CAR will increase the obligation
+and the lifecycle cost of the contract/order each month that usage
+is recorded.</p>
+      </conbody>
+    </concept>
+</dita>

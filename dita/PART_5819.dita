@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DARS_PART_5819">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">PART 5819</ph> - SMALL BUSINESS PROGRAMS</title>
+      <body>
+         <p class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Revised: April 2024</i>
+         </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5819.2.dita#DARS_SUBPART_5819_2">SUBPART 5819.2 – POLICIES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5819.201.dita#DARS_5819_201">5819.201 General Policy</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5819.202.dita#DARS_5819_202">5819.202 Specific Policies</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5819.203.dita#DARS_5819_203">5819.203 Relationship Among Small Business Programs</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5819.3.dita#DARS_SUBPART_5819_3">SUBPART 5819.3 – DETERMINATION OF SMALL BUSINESS STATUS FOR SMALL BUSINESS PROGRAMS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5819.302.dita#DARS_5819_302">5819.302 Protesting a Small Business Representation</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5819.5.dita#DARS_SUBPART_5819_5">SUBPART 5819.5 – SET -ASIDES FOR SMALL BUSINESS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5819.502-2.dita#DARS_5819_502_2">5819.502-2 Total Small Business Set-Asides</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5819.7.dita#DARS_SUBPART_5819_7">SUBPART 5819.7 – THE SMALL BUSINESS SUBCONTRACTING PROGRAM</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5819.705-2.dita#DARS_5819_705_2">5819.705-2 Determining the Need for a Subcontracting Plan</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5819.705-4.dita#DARS_5819_705_4">5819.705-4 Reviewing the Subcontracting Plan</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5819.705-6.dita#DARS_5819_705_6">5819.705-6 Postaward Responsibilities of the Contracting Officer</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5819.8.dita#DARS_SUBPART_5819_8">SUBPART 5819.8 – CONTRACTING WITH THE SMALL BUSINESS ADMINISTRATION (THE 8(a) PROGRAM)</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5819.804.dita#DARS_5819_804">5819.804 SBA Acceptance</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5819.804-2.dita#DARS_5819_804_2">5819.804-2 Agency Offering</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5819.805-1.dita#DARS_5819_805_1">5819.805-1 General</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5819.808-1.dita#DARS_5819_808_1">5819.808-1 Sole Source</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DARS_5801_108">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5801.108</ph> FAR Conventions</title>
+      <conbody>
+        <p outputclass="List1">(b) Delegations of certain common
+procurement authorities are identified throughout the DARS. All
+delegations of authority can be found in DARS Appendix A, Approval
+and Delegation Matrix. The DISA level of authority identified in
+the matrix is the lowest level of delegation.</p>
+      </conbody>
+    </concept>
+</dita>

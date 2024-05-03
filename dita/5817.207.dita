@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DARS_5817_207">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5817.207</ph> Exercise of Options</title>
+      <conbody>
+        <p>(S-90) For current contracts that include FAR Clause 52.217-8,
+Option to Extend Services, and the option was evaluated prior to
+award, the contracting officer shall prepare a determination and
+findings document in accordance with FAR Subpart 17.207 Exercise of
+options prior to exercising the option.</p>
+        <p>(S-91) The approval authority for DISA mission partner requests
+to exercise 52.217-8, Option to Extend Services, is the HCA. The
+approval authority for non-DISA mission partner requests to
+exercise 52.217-8, Option to Extend Services, is the HCO.</p>
+      </conbody>
+    </concept>
+</dita>

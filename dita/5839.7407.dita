@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DARS_5839_7407">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5839.7407</ph> Type of Contract</title>
+      <conbody>
+
+        <p>(S-90) When acquiring telecommunications services using the
+Inquiry/Quote/Order (IQO) process or Communication Service
+Authorizations (CSAs), refer to the Procurement Guide for
+Telecommunications and the IQO Acquisition Deskbook located at <xref format="html" href="https://www.ditco.disa.mil/" scope="external">
+               <u>https://www.ditco.disa.mil/</u>
+            </xref>.</p>
+        <p>(S-91) A CSA modification may be issued unilaterally if an
+equitable adjustment in contract/order price or delivery terms has
+been agreed upon and documented in advance (e.g., quotation,
+completion notice/report, bilateral modification to IDIQ contract).
+If an equitable adjustment in contract/order price or delivery
+terms has been agreed upon and documented in advance, only the
+unilateral CSA modification is required. The contractor shall
+acknowledge the modification as required by the contract.</p>
+      </conbody>
+    </concept>
+</dita>

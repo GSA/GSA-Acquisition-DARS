@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DARS_4.1005" ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 3">
-      <ph props="autonumber">4.1005</ph> Data elements for line items and subline items.</title>
-   <conbody>
-      <p id="TBUSqm"></p>
-   </conbody>
-</concept>

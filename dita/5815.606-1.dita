@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DARS_5815_606_1">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5815.606-1</ph> Receipt and Initial Review</title>
+      <conbody>
+         <p>(S-90) PS22 shall maintain an unsolicited proposal log which
+includes, at a minimum, the company name, proposal title, DITCO
+Contracting Office, Technical POC, date unsolicited proposal was
+received, final disposition of the unsolicited proposal.</p>
+         <p>(S-91) PS22 will perform the initial review within 10 business
+days of receipt of the unsolicited proposal. Before initiating a
+comprehensive evaluation, PS22 shall make the determination the
+unsolicited proposal meets the criteria defined in FAR 15.606-1(a)
+(1) through (7). If the proposal meets these requirements, the PS22
+shall promptly acknowledge receipt and process the proposal for
+further evaluation. If the proposal does not meet the requirements
+of FAR 15.606-1(a) and should be rejected, the PS22 shall inform
+the offeror the reasons for rejection.</p>
+      </conbody>
+   </concept>
+</dita>

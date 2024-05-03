@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"><concept id="DARS_5815_406_3" class="- topic/topic concept/concept "><title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5815.406-3</ph> Documenting the
+Negotiation</title><conbody class="- topic/body  concept/conbody "><p class="- topic/p ">The Standard Operating Procedure for Obtaining Access to the
+Contract Business Analysis Repository (CBAR) is located in DARS PGI
+5815.406-3(S-90).</p><p class="- topic/p ">(S-90) <i class="+ topic/ph hi-d/i ">Price Negotiation Memorandum</i>. A Price
+Negotiation Memorandum (PNM) shall be prepared for contracting
+actions as described below and included in the official contract
+file.</p><p class="- topic/p ">A PNM is not required for any actions at or below the
+micro-purchase threshold, nor is a PNM required for orders under
+single award indefinite delivery contracts, when established priced
+line items are being ordered and the established pricing was deemed
+fair and reasonable in the base contract. The PNM fulfills the
+documentation requirements in FAR 15.406-3 and provides the
+determination of fair and reasonable pricing. The PNM templates are
+located in <xref format="html" href="https://disa.deps.mil/org/PL2/Pages/DITCORefs.aspx?RootFolder=%2Forg%2FPL2%2FOther%2FPROCEDURES%20GUIDES%20AND%20INSTRUCTIONS%20%28PGI%29&amp;FolderCTID=0x012000175D246D4A108E42B091C3F17BE4BDFE&amp;View=%7B998EB6D7%2DDD02%2D4224%2D9626%2D13F9934F7F4C%7D" scope="external" class="- topic/xref "/>
+            <xref format="html" href="https://dod365.sharepoint-mil.us/sites/disa-PL2/SitePages/Corporate-Library.aspx" scope="external" class="- topic/xref ">DARS
+PGI</xref> 5815.406-3(S-90). See DARS 5813.106-3 (S-90) for PNM
+requirements for the I/Q/O process or the North Atlantic Treaty
+Organization (NATO) Allied Long Lines Agency (ALLA)/National Allied
+Long Lines Agency (NALLA) circuit demand process under the
+threshold for certain commercial items identified at FAR
+13.500(a).</p><p class="- topic/p ">(S-91) <i class="+ topic/ph hi-d/i ">DITCO Cost/Price Analyst Involvement</i>
+        </p><p outputclass="List2" class="- topic/p ">(1) PNMs for actions valued over $10M shall be routed electronically to the Cost and Pricing Branch for review/coordination prior to approval (See <xref format="html" href="https://www.ditco.disa.mil/DitcoContractingTemplates" scope="external" class="- topic/xref "> <u class="+ topic/ph hi-d/u ">Contract Document Approval Signature Routing Procedures</u> </xref>). Routing to the Cost and Pricing Branch or assigned Contract Price/Cost Analyst is not required when pricing is based on prices/rates are established in base contracts/agreements, when prices are set by law or regulation, or a fair and reasonable price determination can be made by the contracting officer by comparing prices or rates against an existing or previous Government contract where prices are recent and based on an adequately supported fair and reasonable price determination.</p><p outputclass="List2" class="- topic/p ">(2) ENs for actions valued over $10M, shall be prepared in collaboration with a DITCO Cost/Price Analyst. The Cost/Price Analyst shall assist the contracting officer in evaluation of the pricing proposal and aid in the development of the pre-negotiation objectives issued as ENs; the Contract Price/Cost Analyst shall also support negotiations and review of the PNM, prior to approval, as requested by the contracting officer.</p><p outputclass="List2" class="- topic/p ">(3) In all instances where the Cost and Pricing Branch has provided assistance in development of the PNM—including but not limited to, the evaluation of cost/price proposals and calculation of the Government negotiation position, a copy of the signed/approved PNM shall be provided to the Cost and Pricing Branch Chief via <xref format="html" href="mailto:disa.scott.ditco.mbx.cost-and-pricing-branch-ps42@mail.mil" scope="external" class="- topic/xref "> <u class="+ topic/ph hi-d/u ">DITCO Scott - Cost and Pricing Branch Mailbox</u> </xref> <u class="+ topic/ph hi-d/u ">.</u> In situations where the recommendations provided by the C/P Branch and the negotiation objectives are not achieved during negotiations, the contracting officer shall include an explanation in the PNM. The explanation shall contain detailed information on recommendations not achieved and the alternative rationale utilized in the contractor officer’s determination of fair and reasonable pricing.</p><p class="- topic/p ">(S-92) <i class="+ topic/ph hi-d/i ">PNM Approval Authority</i>. The approval authority
+for all PNMs and negotiation objectives is the contracting
+officer.</p><p class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">Table 15-2 Competitive Acquisitions PNM
+Format</b>
+        </p><table class="- topic/table "><tgroup cols="2" class="- topic/tgroup "><colspec colname="col1" colnum="1" colwidth="1.2*" rowheader="headers" class="- topic/colspec "/><colspec colname="col2" colnum="2" colwidth="0.8*" rowheader="headers" class="- topic/colspec "/><tbody class="- topic/tbody "><row class="- topic/row "><entry class="- topic/entry ">
+                        <b class="+ topic/ph hi-d/b ">ACQUISITION TYPE</b>
+                     </entry><entry class="- topic/entry ">
+                        <b class="+ topic/ph hi-d/b ">FORMAT</b>
+                     </entry></row><row class="- topic/row "><entry class="- topic/entry ">FAR Part 13 Competitive ≤ SAT</entry><entry class="- topic/entry ">SAT PNM</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                        <p class="- topic/p ">Open Market (when the Contracting</p>
+                        <p class="- topic/p ">Officer is the SSA)</p>
+                     </entry><entry class="- topic/entry ">Competitive PNM</entry></row><row class="- topic/row "><entry class="- topic/entry ">GSA Schedule orders</entry><entry class="- topic/entry ">IDIQ PNM</entry></row><row class="- topic/row "><entry class="- topic/entry ">8(a)</entry><entry class="- topic/entry ">Competitive PNM</entry></row><row class="- topic/row "><entry class="- topic/entry ">IDIQ orders with Pre-established labor rates</entry><entry class="- topic/entry ">IDIQ PNM</entry></row><row class="- topic/row "><entry class="- topic/entry ">Open Market (when the SSA is not the Contracting Officer)</entry><entry class="- topic/entry ">Source Selection Decision Document (SSDD) and Competitive
+PNM</entry></row><row class="- topic/row "><entry class="- topic/entry ">FAR Part 8/13/16 Competitive LPTA Supply or Service up to
+$10M</entry><entry class="- topic/entry ">Abstract PNM</entry></row><row class="- topic/row "><entry class="- topic/entry ">FAR Part 15 Competitive, only 1 offer received</entry><entry class="- topic/entry ">Sole Source PNM</entry></row></tbody></tgroup></table><p class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">Table 15-3 Sole Source Acquisitions PNM
+Format</b>
+        </p><table class="- topic/table "><tgroup cols="2" class="- topic/tgroup "><colspec colname="col1" colnum="1" colwidth="1.2*" rowheader="headers" class="- topic/colspec "/><colspec colname="col2" colnum="2" colwidth="0.8*" rowheader="headers" class="- topic/colspec "/><tbody class="- topic/tbody "><row class="- topic/row "><entry class="- topic/entry ">
+                        <b class="+ topic/ph hi-d/b ">ACQUISITION TYPE</b>
+                     </entry><entry class="- topic/entry ">
+                        <b class="+ topic/ph hi-d/b ">FORMAT</b>
+                     </entry></row><row class="- topic/row "><entry class="- topic/entry ">Open Market or 8(a) at or below SAT</entry><entry class="- topic/entry ">Sole Source PNM</entry></row><row class="- topic/row "><entry class="- topic/entry ">GSA Schedule orders</entry><entry class="- topic/entry ">Sole Source PNM</entry></row><row class="- topic/row "><entry class="- topic/entry ">IDIQ orders</entry><entry class="- topic/entry ">Sole Source PNM</entry></row><row class="- topic/row "><entry class="- topic/entry ">Open Market or 8(a) above SAT</entry><entry class="- topic/entry ">Sole Source PNM</entry></row><row class="- topic/row "><entry class="- topic/entry ">Unilateral orders for priced CLINS at established contract price
+(no proposed labor categories or hours)</entry><entry class="- topic/entry ">PNM not required</entry></row></tbody></tgroup></table><p class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">Table 15-4 Modifications PNM Format</b>
+        </p><table class="- topic/table "><tgroup cols="2" class="- topic/tgroup "><colspec colname="col1" colnum="1" colwidth="1.2*" rowheader="headers" class="- topic/colspec "/><colspec colname="col2" colnum="2" colwidth="0.8*" rowheader="headers" class="- topic/colspec "/><tbody class="- topic/tbody "><row class="- topic/row "><entry class="- topic/entry ">
+                        <b class="+ topic/ph hi-d/b ">MODIFICATION TYPE</b>
+                     </entry><entry class="- topic/entry ">
+                        <b class="+ topic/ph hi-d/b ">FORMAT</b>
+                     </entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                        <p class="- topic/p ">Pricing Modifications against previously competed actions w/</p>
+                        <p class="- topic/p ">Pre-established rates (e.g., labor rates)</p>
+                     </entry><entry class="- topic/entry ">Modifications PNM</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                        <p class="- topic/p ">Pricing Modifications w/ Pre-</p>
+                        <p class="- topic/p ">established rates (e.g., labor rates) – sole source</p>
+                     </entry><entry class="- topic/entry ">Modifications PNM</entry></row><row class="- topic/row "><entry class="- topic/entry ">
+                        <p class="- topic/p ">Other Pricing Modifications (e.g.,</p>
+                        <p class="- topic/p ">cost type)</p>
+                     </entry><entry class="- topic/entry ">Modifications PNM or Sole Source PNM</entry></row></tbody></tgroup></table></conbody></concept></dita>
