@@ -2587,9 +2587,8 @@ xtrf="subtopic"/></topicref>
 href="Appendix_A.dita"
 navtitle="Appendix A - Approval and Delegation Matrix"
 outputclass="Part"
-audience="DARS_Appendix_A"
+audience="DARS_Appendix-A"
 xtrf="Part"
 base="NoTitle"
-otherprops="NoProp"
-props=""/>
+props="APPENDIX A"/>
 </map>
