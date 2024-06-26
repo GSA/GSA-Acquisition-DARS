@@ -2286,23 +2286,23 @@ xtrf="subtopic"/></topicref>
                    outputclass="subtopic"
                    xtrf="subtopic"/>
       </topicref>
-      <topicref href="SUBPART_5843.90.dita"
-                props="SUBPART 5843.9000"
-                navtitle="SUBPART 5843.9000 – SCOPE DETERMINATION"
-                base="NoTitle"
-                outputclass="SubPart"
-                xtrf="SubPart"
-                audience="DARS_SUBPART_5843_90"
-                xtrc="DARS_SUBPART_5843_90.html">
-         <topicref href="5843.9000.dita"
-                   props="5843.9000"
-                   navtitle="5843.9000 Policy"
-                   base="concept"
-                   audience="DARS_5843_9000"
-                   xtrc=""
-                   outputclass="subtopic"
-                   xtrf="subtopic"/>
-      </topicref>
+      <topicref
+href="SUBPART_5843.90.dita"
+props="SUBPART 5843.90"
+navtitle="SUBPART 5843.90 – SCOPE DETERMINATION"
+base="NoTitle"
+outputclass="SubPart"
+xtrf="SubPart"
+audience="DARS_SUBPART_5843_90"
+xtrc="DARS_SUBPART_5843_90.html"><topicref
+href="5843.9000.dita"
+props="5843.9000"
+navtitle="5843.9000 Policy"
+base="concept"
+audience="DARS_5843_9000"
+xtrc=""
+outputclass="subtopic"
+xtrf="subtopic"/></topicref>
    </topicref>
    <topicref href="PART_5845.dita"
              props="PART 5845"
