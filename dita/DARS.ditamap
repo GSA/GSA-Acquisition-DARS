@@ -1789,31 +1789,30 @@ xtrf="subtopic"/></topicref>
                    xtrf="subtopic"/>
       </topicref>
    </topicref>
-   <topicref href="PART_5824.dita"
-             props="PART 5822"
-             navtitle="PART 5822 - PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION"
-             base="NoTitle"
-             outputclass="Part"
-             xtrf="Part"
-             audience="DARS_PART_5824">
-      <topicref href="SUBPART_5824.2.dita"
-                props="SUBPART 5824.2"
-                navtitle="SUBPART 5824.2 – FREEDOM OF INFORMATION ACT"
-                base="NoTitle"
-                outputclass="SubPart"
-                xtrf="SubPart"
-                audience="DARS_SUBPART_5824_2"
-                xtrc="DARS_SUBPART_5824_2.html">
-         <topicref href="5824.203.dita"
-                   props="5824.203"
-                   navtitle="5824.203 Policy"
-                   base="concept"
-                   audience="DARS_5824_203"
-                   xtrc=""
-                   outputclass="subtopic"
-                   xtrf="subtopic"/>
-      </topicref>
-   </topicref>
+   <topicref
+href="PART_5824.dita"
+props="PART 5824"
+navtitle="PART 5824 - PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION"
+base="NoTitle"
+outputclass="Part"
+xtrf="Part"
+audience="DARS_PART_5824"><topicref
+href="SUBPART_5824.2.dita"
+props="SUBPART 5824.2"
+navtitle="SUBPART 5824.2 – FREEDOM OF INFORMATION ACT"
+base="NoTitle"
+outputclass="SubPart"
+xtrf="SubPart"
+audience="DARS_SUBPART_5824_2"
+xtrc="DARS_SUBPART_5824_2.html"><topicref
+href="5824.203.dita"
+props="5824.203"
+navtitle="5824.203 Policy"
+base="concept"
+audience="DARS_5824_203"
+xtrc=""
+outputclass="subtopic"
+xtrf="subtopic"/></topicref></topicref>
    <topicref href="PART_5827.dita"
              props="PART 5827"
              navtitle="PART 5827 - PATENTS, DATA, AND COPYRIGHTS"
