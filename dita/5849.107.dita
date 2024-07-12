@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DARS_5849_107">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5849.107</ph> Audit of Prime Contract
+Settlement Proposals and Subcontract Settlements</title>
+      <conbody>
+        <p outputclass="List1">(a) The contracting officer shall ensure that each prime
+contract settlement proposal is reviewed by a DITCO Cost/Price
+Analyst for the purpose of evaluating the reasonableness prior to
+negotiating the final settlement. The Cost/Price Analyst will
+assist the KO in the development of a settlement negotiation
+position, as necessary</p>
+        <p outputclass="List1">(c) Requests to an Audit agency to perform an accounting review
+will be prepared by the Cost/Price Analyst, for signature by the
+KO. An audit request is not required for commercial item contracts
+awarded under Part 12 procedures, in accordance with FAR
+49.002(a)(2). See FAR subpart 12.403 for termination policies for
+commercial item contracts.</p>
+      </conbody>
+    </concept>
+</dita>

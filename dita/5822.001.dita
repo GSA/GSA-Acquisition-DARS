@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DARS_5822_001">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5822.001</ph> 
+Definitions</title>
+      <conbody>
+         <p>(S-90) Unless there is an associated service being offered with
+the telecommunications and that associated service is billed
+separately, the leasing/provisioning of the telecommunications
+circuit (commoditized bandwidth) is not a “service
+contract.” IAW FAR 22.001, a “service contract means
+any Government contract, or subcontract thereunder, the principal
+purpose of which is to furnish services in the United States
+through the use of service employees…”</p>
+         <p>(S-91) Unless there are services that
+are determined to be the principal purpose under the cloud
+contract, the purchase of cloud offerings is not a "service
+contract."  IAW FAR 22.001, a “service contract means
+any Government contract, or subcontract thereunder, the principal
+purpose of which is to furnish services in the United States
+through the use of service employees…”</p>
+      </conbody>
+  </concept>
+</dita>

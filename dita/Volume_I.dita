@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-	<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-		<CoverVolume id="Volume_I" ditaarch:DITAArchVersion="1.2">
-			<CTitle>Volume X - Parts xxxx to xxxx</CTitle>
-		</CoverVolume>
-	</dita>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"><CoverVolume id="Volume_I" class="- topic/topic "><CTitle class="- topic/title ">Volume I - Parts 5801 to 5850</CTitle></CoverVolume></dita>

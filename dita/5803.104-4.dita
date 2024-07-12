@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DARS_5803_104_4">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5803.104-4</ph> Disclosure, Protection,
+and Marking of Contractor Bid or Proposal Information and Source
+Selection Information</title>
+      <conbody>
+        <p outputclass="List1">(a) The HCA is delegated the authority to authorize access to
+contractor bid or proposal or source selection information.</p>
+        <p>(S-90) All DISA personnel who have access to sensitive
+acquisition information must ensure proper handling of such
+information in order to maintain the integrity of the acquisition
+process. Unclassified sensitive acquisition information shall only
+be distributed on a “need to know” basis.</p>
+        <p>(S-91) All emails containing source selection sensitive info
+shall be sent encrypted and/or password protected. Include the
+following text in the subject line and at the beginning and end of
+the e-mail text:</p>
+        <p>“SOURCE SELECTION INFORMATION – SEE FAR 2.101 &amp;
+3.104”.</p>
+      </conbody>
+    </concept>
+</dita>

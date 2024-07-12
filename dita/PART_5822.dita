@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DARS_PART_5822">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">PART 5822</ph> - APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITIONS</title>
+      <body>
+         <p class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Revised: April 2024</i>
+         </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="5822.001.dita#DARS_5822_001">5822.001 Definitions</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5822.1.dita#DARS_SUBPART_5822_1">SUBPART 5822.1 – BASIC LABOR POLICIES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5822.101-3.dita#DARS_5822_101_3">5822.101-3 Reporting Labor Disputes.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

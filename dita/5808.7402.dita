@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DARS_5808_7402">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5808.7402</ph> General</title>
+      <conbody>
+        <p>(S-90) All DoD Joint Enterprise License Agreements and DISA ELAs
+(JELA) executed through the DISA J/ELA Program Management Office
+(PMO) are mandatory use if the requirement is within scope of the
+J/ELAs. This mandatory requirement includes purchases made with a
+Government Purchase Card. All requirements packages are required to
+be staffed through the JELA PMO, prior to submission to PSD for
+processing. The Development and Business Center is responsible for
+the oversight of the JELA PMO.</p>
+
+        <p>(S-91) To assist with the JELA scope determination, requirements
+officials may view the description for each JELA located at <xref format="html"
+                  href="https://www.ditco.disa.mil/contracts/"
+                  scope="external">https://www.ditco.disa.mil/
+under ‘Premier Contracts’.</xref>
+        </p>
+      </conbody>
+    </concept>
+</dita>

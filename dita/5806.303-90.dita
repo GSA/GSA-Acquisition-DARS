@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DARS_5806_303_90">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5806.303-90</ph> Amendment/Modification
+Justification Format</title>
+      <conbody>
+        <p outputclass="List1">(a) The J&amp;A shall clearly reflect the amendment/modification
+changes in bold text and separate from the original approved
+J&amp;A text.</p>
+        <p outputclass="List1">(b) The title of the Justification should read: If prior to
+award “Amendment Justification”; if after award
+“Modification Justification”.</p>
+        <p outputclass="List1">(c) The Justification posting requirements remain unchanged from
+the original Justification posting requirements.</p>
+      </conbody>
+    </concept>
+</dita>

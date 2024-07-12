@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DARS_5824_203">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5824.203</ph> Policy</title>
+      <conbody>
+        <p>(S-90) Upon receipt of a request under this subpart, the DISA
+employee shall inform the requester that they must file a Freedom
+of Information Act request to the address below. Requests can be
+sent via USPS, fax or e-mail. Advise requester(s) that the FOIA
+Office is the focal point of all such information and that official
+information may only be released through the FOIA Office or their
+authorized designee.</p>
+        <p>Defense Information Systems Agency</p>
+        <p>ATTN: Headquarters FOIA Requester Service Center</p>
+        <p>P.O. Box 549</p>
+        <p>Ft Meade, MD 20755-0549 FAX: (301) 225-0510</p>
+        <p>
+            <xref format="html"
+                  href="mailto:disa.meade.gc.mbx.foia@mail.mil"
+                  scope="external">
+               <u>disa.meade.gc.mbx.foia@mail.mil</u>
+            </xref>
+        </p>
+      </conbody>
+    </concept>
+</dita>
