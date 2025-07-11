@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"><concept id="DARS_5819_705_2" class="- topic/topic concept/concept "><title class="- topic/title ">
+<dita>
+   <concept id="DARS_5819_705_2" class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">5819.705-2</ph> Determining the Need for a
-Subcontracting Plan</title><conbody class="- topic/body  concept/conbody "><p outputclass="List1" class="- topic/p ">(b) The OSBP shall review and concur, in writing, on any determination made by the contracting officer that no subcontracting possibilities exist. A Determination and Findings (D&amp;F) shall be prepared in accordance with the format titled “Non-inclusion of SB Subcontracting Plan” located at DARS PGI 5819.705-2(c).</p><p outputclass="List1" class="- topic/p ">(c) See DARS 5815.304(S-90) for guidance/requirements of a Small Business Participation/Utilization Plan or Commitment Document.</p></conbody></concept></dita>
+Subcontracting Plan</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(b) The OSBP shall review and concur, in writing, on any determination made by the contracting officer that no subcontracting possibilities exist. A Determination and Findings (D&amp;F) shall be prepared in accordance with the format titled “Non-inclusion of SB Subcontracting Plan” located at DARS PGI 5819.705-2(c).</p>
+         <p outputclass="List1" class="- topic/p ">(c) See DARS 5815.304(S-90) for guidance/requirements of a Small Business Participation/Utilization Plan or Commitment Document.</p>
+      </conbody>
+   </concept>
+</dita>

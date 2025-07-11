@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"><concept id="DARS_SUBPART_5803_1" class="- topic/topic concept/concept "><title class="- topic/title "> <ph class="- topic/ph " props="autonumber">SUBPART 5803.1</ph> – SAFEGUARDS</title><conbody class="- topic/body  concept/conbody "/></concept></dita>
+<dita>
+   <concept id="DARS_SUBPART_5803_1" class="- topic/topic concept/concept ">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">SUBPART 5803.1</ph> – SAFEGUARDS</title>
+      <conbody class="- topic/body  concept/conbody "/>
+   </concept>
+</dita>

@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"><concept id="DARS_5819_705_6" class="- topic/topic concept/concept "><title class="- topic/title ">
+<dita>
+   <concept id="DARS_5819_705_6" class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">5819.705-6</ph> Postaward Responsibilities
-of the Contracting Officer</title><conbody class="- topic/body  concept/conbody "><p outputclass="List1" class="- topic/p ">(a) Email a signed copy of the subcontracting plan to the relevant Area SBA PCR and the SBA Area Director, Office of Government Contracting where the contract will be performed, with a copy to: <xref format="html" href="mailto:disa.meade.osbp.mbx.ditco-small-business-office@mail.mil" scope="external" class="- topic/xref "> <u class="+ topic/ph hi-d/u ">disa.meade.osbp.mbx.ditco-small-business-office@mail.mil</u> </xref>. (Note: For assistance in determining the SBA Area Director, see https://www.sba.gov/federal-contracting/counseling-help/contracting-area-directors.)</p></conbody></concept></dita>
+of the Contracting Officer</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(a) Email a signed copy of the subcontracting plan to the relevant Area SBA PCR and the SBA Area Director, Office of Government Contracting where the contract will be performed, with a copy to: <xref format="html"
+                  href="mailto:disa.meade.osbp.mbx.ditco-small-business-office@mail.mil"
+                  scope="external"
+                  class="- topic/xref "> 
+               <u class="+ topic/ph hi-d/u ">disa.meade.osbp.mbx.ditco-small-business-office@mail.mil</u> 
+            </xref>. (Note: For assistance in determining the SBA Area Director, see https://www.sba.gov/federal-contracting/counseling-help/contracting-area-directors.)</p>
+      </conbody>
+   </concept>
+</dita>

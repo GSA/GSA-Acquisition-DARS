@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"><concept id="DARS_5819_502_2" class="- topic/topic concept/concept "><title class="- topic/title ">
+<dita>
+   <concept id="DARS_5819_502_2" class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">5819.502-2</ph> Total Small Business
-Set-Asides</title><conbody class="- topic/body  concept/conbody "><p outputclass="List1" class="- topic/p ">(b) When determining a “reasonable expectation,” a lack of responses to a SSN and/or RFI is not adequate justification to rule out a small business set-aside. Additional market research is required prior to making that determination.</p></conbody></concept></dita>
+Set-Asides</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(b) When determining a “reasonable expectation,” a lack of responses to a SSN and/or RFI is not adequate justification to rule out a small business set-aside. Additional market research is required prior to making that determination.</p>
+      </conbody>
+   </concept>
+</dita>

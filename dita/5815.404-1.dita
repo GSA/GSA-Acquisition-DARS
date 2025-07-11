@@ -1,10 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"><concept id="DARS_5815_404_1" class="- topic/topic concept/concept "><title class="- topic/title ">
+<dita>
+   <concept id="DARS_5815_404_1" class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">5815.404-1</ph> Proposal Analysis
-Techniques</title><conbody class="- topic/body  concept/conbody "><p class="- topic/p ">(S-90) <i class="+ topic/ph hi-d/i ">Policy.</i>
-        </p><p outputclass="List2" class="- topic/p ">(1) Independent Government Cost Estimates (IGCE) are part of the required documentation for a complete requirements package for procurement actions expected to meet or exceed the Simplified Acquisition Threshold (SAT). An IGCE is also required for Economy Act Determination and Findings requests above $2,500. The DISA IGCE Deskbook located at <xref format="html" href="https://www.ditco.disa.mil/hq/Deskbooks" scope="external" class="- topic/xref "> <u class="+ topic/ph hi-d/u ">https://www.ditco.disa.mil/hq/Deskbooks</u> </xref> contains procedures/guidance for developing IGCEs.</p><p outputclass="List2" class="- topic/p ">(2) IGCEs must contain a written narrative to demonstrate how the estimates were developed. Assistance with developing IGCEs, including incorporation of current cost and pricing information should be requested, as needed, from PS842.</p><p outputclass="List2" class="- topic/p ">(3) The use of “fully burdened” labor (hour) rates is recommended. Rates must be recent and relevant to the labor categories contemplated. PS842 can provide advice regarding sources of fully loaded labor rates, as well as their applicability and limitations for use in developing the IGCE.</p><p outputclass="List2" class="- topic/p ">(4) Resource Managers shall coordinate on IGCEs prior to submission of the requirements package.</p><p outputclass="List2" class="- topic/p ">(5) Contracting officers shall fully document in the PNM variances in the total evaluated cost/price and the IGCE. Significant deviations may be cause for formal discussions or RFP/RFQ amendment or cancellation. Total evaluated cost/price exceeding the IGCE should be discussed with the PMO to determine if additional funds may be secured.</p><p class="- topic/p " outputclass="List1">(S-91) Cost and Price Analysis. Contracting officers shall initiate action to obtain cost and price analyses in accordance with the following procedures.</p><p class="- topic/p ">The contracting officer, exercising sole responsibility for the
+Techniques</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">(S-90) <i class="+ topic/ph hi-d/i ">Policy.</i>
+        </p>
+         <p outputclass="List2" class="- topic/p ">(1) Independent Government Cost Estimates (IGCE) are part of the required documentation for a complete requirements package for procurement actions expected to meet or exceed the Simplified Acquisition Threshold (SAT). An IGCE is also required for Economy Act Determination and Findings requests above $2,500. The DISA IGCE Deskbook located at <xref format="html"
+                  href="https://www.ditco.disa.mil/hq/Deskbooks"
+                  scope="external"
+                  class="- topic/xref "> 
+               <u class="+ topic/ph hi-d/u ">https://www.ditco.disa.mil/hq/Deskbooks</u> 
+            </xref> contains procedures/guidance for developing IGCEs.</p>
+         <p outputclass="List2" class="- topic/p ">(2) IGCEs must contain a written narrative to demonstrate how the estimates were developed. Assistance with developing IGCEs, including incorporation of current cost and pricing information should be requested, as needed, from PS842.</p>
+         <p outputclass="List2" class="- topic/p ">(3) The use of “fully burdened” labor (hour) rates is recommended. Rates must be recent and relevant to the labor categories contemplated. PS842 can provide advice regarding sources of fully loaded labor rates, as well as their applicability and limitations for use in developing the IGCE.</p>
+         <p outputclass="List2" class="- topic/p ">(4) Resource Managers shall coordinate on IGCEs prior to submission of the requirements package.</p>
+         <p outputclass="List2" class="- topic/p ">(5) Contracting officers shall fully document in the PNM variances in the total evaluated cost/price and the IGCE. Significant deviations may be cause for formal discussions or RFP/RFQ amendment or cancellation. Total evaluated cost/price exceeding the IGCE should be discussed with the PMO to determine if additional funds may be secured.</p>
+         <p class="- topic/p " outputclass="List1">(S-91) Cost and Price Analysis. Contracting officers shall initiate action to obtain cost and price analyses in accordance with the following procedures.</p>
+         <p class="- topic/p ">The contracting officer, exercising sole responsibility for the
 final pricing decision shall, in accordance with FAR 15.404-1,
 coordinate with, request, and evaluate the advice of the Cost/Price
 (C/P) Analyst (PS842) and/or Tariff Specialists (DITCO-Scott, PS82,
@@ -18,43 +34,68 @@ a contract value in excess of the threshold for obtaining certified
 cost or pricing data (FAR 15.403-4(a)(1)), to determine price
 reasonableness. A list of services offered by the Cost/Price Branch
 can be found in the “Cost and Pricing Request Form”
-located at <xref format="html" href="https://dod365.sharepoint-mil.us/sites/disa-PL2/SitePages/Corporate-Library.aspx" scope="external" class="- topic/xref ">DARS
-PGI</xref> 5815.404-1(S-91).</p><p class="- topic/p ">The following exceptions apply:</p><p outputclass="List3" class="- topic/p ">(i) Orders priced in accordance with prices/rates established in
+located at <xref format="html"
+                  href="https://dod365.sharepoint-mil.us/sites/disa-PL2/SitePages/Corporate-Library.aspx"
+                  scope="external"
+                  class="- topic/xref ">DARS
+PGI</xref> 5815.404-1(S-91).</p>
+         <p class="- topic/p ">The following exceptions apply:</p>
+         <p outputclass="List3" class="- topic/p ">(i) Orders priced in accordance with prices/rates established in
 base contracts/agreements. Modifications priced in accordance with
 prices/rates established within the base
-contract/order/agreement.</p><p outputclass="List3" class="- topic/p ">(ii) Modifications for funding actions</p><p outputclass="List3" class="- topic/p ">(iii) Modifications to exercise priced options; or</p><p outputclass="List3" class="- topic/p ">(iv) Any other contract or order award, or modification meeting
+contract/order/agreement.</p>
+         <p outputclass="List3" class="- topic/p ">(ii) Modifications for funding actions</p>
+         <p outputclass="List3" class="- topic/p ">(iii) Modifications to exercise priced options; or</p>
+         <p outputclass="List3" class="- topic/p ">(iv) Any other contract or order award, or modification meeting
 the thresholds above where the Cost and Pricing Branch Chief and at
 least one level above the contracting officer waive in advance the
 requirement to obtain cost or pricing assistance. This agreement
-must be documented in writing in the official contract file.</p><p outputclass="List2" class="- topic/p ">(2) PS82 Tariff Specialist assistance related to tariff
+must be documented in writing in the official contract file.</p>
+         <p outputclass="List2" class="- topic/p ">(2) PS82 Tariff Specialist assistance related to tariff
 interpretation, tariff rate establishment/update and other tariff
-issues shall be requested as required.</p><p outputclass="List2" class="- topic/p ">(3) PS842 or PS82 Tariff Specialist, with the concurrence of the
-contracting officer, shall be responsible for:</p><p outputclass="List3" class="- topic/p ">(i) Obtaining cost or pricing data or information other than
-cost or pricing data and auditing contractor's records.</p><p outputclass="List3" class="- topic/p ">(ii) Performing contract audit follow-up reporting tasks.</p><p outputclass="List3" class="- topic/p ">(iii) Conducting cost or price analyses and tariff reviews in
+issues shall be requested as required.</p>
+         <p outputclass="List2" class="- topic/p ">(3) PS842 or PS82 Tariff Specialist, with the concurrence of the
+contracting officer, shall be responsible for:</p>
+         <p outputclass="List3" class="- topic/p ">(i) Obtaining cost or pricing data or information other than
+cost or pricing data and auditing contractor's records.</p>
+         <p outputclass="List3" class="- topic/p ">(ii) Performing contract audit follow-up reporting tasks.</p>
+         <p outputclass="List3" class="- topic/p ">(iii) Conducting cost or price analyses and tariff reviews in
 accordance with FAR 15.404-1, as appropriate. Cost analyses shall
 incorporate audit findings, technical analysis and tariff review
-results, and all relevant cost driver information.</p><p outputclass="List3" class="- topic/p ">(iv) Consolidating cost or pricing data, information other than
+results, and all relevant cost driver information.</p>
+         <p outputclass="List3" class="- topic/p ">(iv) Consolidating cost or pricing data, information other than
 cost or pricing data, audit results, tariff reviews and other
 pertinent information; and developing pre-negotiation
-objectives.</p><p outputclass="List3" class="- topic/p ">(v) Participating in negotiations with contractors which require
+objectives.</p>
+         <p outputclass="List3" class="- topic/p ">(v) Participating in negotiations with contractors which require
 the use of information, computations, or data developed during the
-cost or price analysis.</p><p outputclass="List3" class="- topic/p ">(vi) Reviewing all solicitations for actions which require PS842
+cost or price analysis.</p>
+         <p outputclass="List3" class="- topic/p ">(vi) Reviewing all solicitations for actions which require PS842
 or PS82 Tariff Specialists in accordance with (S-92)(1) prior to
 issuance for competitive or noncompetitive services and supplies to
 ensure adequate cost or pricing data and tariff provisions are
 included and that detailed evaluation criteria are developed and
-tailored for each acquisition.</p><p outputclass="List3" class="- topic/p ">(vii) Assisting contracting officers in documenting the contract
+tailored for each acquisition.</p>
+         <p outputclass="List3" class="- topic/p ">(vii) Assisting contracting officers in documenting the contract
 files by providing detailed cost/price analysis memoranda,
 supporting schedules, automated spreadsheets, discussion items,
 pre- and post-negotiation memorandums input, DD Forms 1547, Tariff
 Change Notices, Tariff Contract File Conflict Notices, and other
-items, as required.</p><p outputclass="List3" class="- topic/p ">(viii) Participating in conferences, briefings, debriefings, and
-other meetings where pricing and/or tariff support is required.</p><p class="- topic/p ">(S-92) <i class="+ topic/ph hi-d/i ">Request Cost and Price Analysis Support</i>. To
+items, as required.</p>
+         <p outputclass="List3" class="- topic/p ">(viii) Participating in conferences, briefings, debriefings, and
+other meetings where pricing and/or tariff support is required.</p>
+         <p class="- topic/p ">(S-92) <i class="+ topic/ph hi-d/i ">Request Cost and Price Analysis Support</i>. To
 request cost/price analysis support, the contracting officer shall
 submit a completed “Cost and Pricing Request Form”
-located at <xref format="html" href="https://dod365.sharepoint-mil.us/sites/disa-PL2/SitePages/Corporate-Library.aspx" scope="external" class="- topic/xref ">DARS
+located at <xref format="html"
+                  href="https://dod365.sharepoint-mil.us/sites/disa-PL2/SitePages/Corporate-Library.aspx"
+                  scope="external"
+                  class="- topic/xref ">DARS
 PGI</xref> 5815.404-1(S-91) to the Cost and Pricing Branch Chief via
-<xref format="html" href="mailto:disa.scott.ditco.mbx.cost-and-pricing-branch-ps42@mail.mil" scope="external" class="- topic/xref ">
+<xref format="html"
+                  href="mailto:disa.scott.ditco.mbx.cost-and-pricing-branch-ps42@mail.mil"
+                  scope="external"
+                  class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">DITCO-Scott
 Cost and Pricing Branch Mailbox</u>
             </xref>, containing details related
@@ -64,4 +105,7 @@ accomplished prior to issuing the RFP. Acquisition plans and
 timelines must recognize the need for effective pricing/tariff
 reviews and analysis and must contain reasonable periods for
 conducting these tasks. C/P analyst pre-solicitation reviews shall
-be requested concurrent with policy and legal reviews.</p></conbody></concept></dita>
+be requested concurrent with policy and legal reviews.</p>
+      </conbody>
+   </concept>
+</dita>

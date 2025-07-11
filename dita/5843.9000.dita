@@ -1,18 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"><concept id="DARS_5843_9000" class="- topic/topic concept/concept "><title class="- topic/title ">
-         <ph class="- topic/ph " props="autonumber">5843.9000</ph> Policy</title><conbody class="- topic/body  concept/conbody "><p class="- topic/p ">(S-90) When issuing a modification to an existing contract,
+<dita>
+   <concept id="DARS_5843_9000" class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5843.9000</ph> Policy</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">(S-90) When issuing a modification to an existing contract,
 order, or task order that requires a change to the scope of work to
 be performed, the contracting officer shall complete the Memorandum
-for the Record (MFR) Scope Determination located at <xref format="html" href="https://dod365.sharepoint-mil.us/sites/disa-PL2/SitePages/Corporate-Library.aspx" scope="external" class="- topic/xref ">DARS
+for the Record (MFR) Scope Determination located at <xref format="html"
+                  href="https://dod365.sharepoint-mil.us/sites/disa-PL2/SitePages/Corporate-Library.aspx"
+                  scope="external"
+                  class="- topic/xref ">DARS
 PGI</xref> 5843.9000(S-90). Further guidance on determining when a
 modification is within scope of an existing contract is contained
-within the Scope Determination Guide at <xref format="html" href="https://dod365.sharepoint-mil.us/sites/disa-PL2/SitePages/Corporate-Library.aspx" scope="external" class="- topic/xref ">DARS
-PGI</xref> 5843.9000(S-90).</p><p class="- topic/p ">(S-91) Scope determinations are not required for:</p><p outputclass="List4" class="- topic/p ">(i) Administrative changes issued as modifications that do not impact the substantive rights of the parties (e.g., a change in the paying office or the appropriation data (FAR 43.101)</p><p outputclass="List4" class="- topic/p ">(ii) Unilateral modifications that are authorized by clauses other than the Changes clause (e.g., Property clause, Options clause, or Suspension of Work clause (FAR 43.103(b)(3)).</p><p class="- topic/p ">(S-92) General Counsel shall be consulted in cases where the
+within the Scope Determination Guide at <xref format="html"
+                  href="https://dod365.sharepoint-mil.us/sites/disa-PL2/SitePages/Corporate-Library.aspx"
+                  scope="external"
+                  class="- topic/xref ">DARS
+PGI</xref> 5843.9000(S-90).</p>
+         <p class="- topic/p ">(S-91) Scope determinations are not required for:</p>
+         <p outputclass="List4" class="- topic/p ">(i) Administrative changes issued as modifications that do not impact the substantive rights of the parties (e.g., a change in the paying office or the appropriation data (FAR 43.101)</p>
+         <p outputclass="List4" class="- topic/p ">(ii) Unilateral modifications that are authorized by clauses other than the Changes clause (e.g., Property clause, Options clause, or Suspension of Work clause (FAR 43.103(b)(3)).</p>
+         <p class="- topic/p ">(S-92) General Counsel shall be consulted in cases where the
 contracting officer cannot make a clear determination whether the
 proposed modification is within scope of the existing contract or
-task order.</p><p class="- topic/p ">(S-93) In-scope changes to an existing contract shall be issued
+task order.</p>
+         <p class="- topic/p ">(S-93) In-scope changes to an existing contract shall be issued
 in accordance with FAR 43.2. When a proposed change requires a
 modification outside of the general scope of a contract the
-contracting officer must either:</p><p outputclass="List3" class="- topic/p ">(i) Competitively solicit the requirement; or,</p><p outputclass="List3" class="- topic/p ">(ii) Issue the modification in accordance with the non-competitive procedures at FAR 6.303, 8.405-6, or 16.505(b)(2).</p></conbody></concept></dita>
+contracting officer must either:</p>
+         <p outputclass="List3" class="- topic/p ">(i) Competitively solicit the requirement; or,</p>
+         <p outputclass="List3" class="- topic/p ">(ii) Issue the modification in accordance with the non-competitive procedures at FAR 6.303, 8.405-6, or 16.505(b)(2).</p>
+      </conbody>
+   </concept>
+</dita>

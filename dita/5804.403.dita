@@ -2,22 +2,17 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <concept id="DARS_5804_403">
+   <concept id="DARS_5804_403" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">5804.403</ph> 
 Responsibilities of Contracting Officers</title>
-      <conbody>
-        <p id="Toc351646717" outputclass="List1">(c)(1) Instructions for filling out DD Forms
-254 can be found on the <xref format="html"
-                  href="https://dod365.sharepoint-mil.us/:w:/r/Sites/DISA-Security/_layouts/15/Doc.aspx?sourcedoc=%7B9E7C4C13-8139-4E69-B128-9E027C814300%7D&amp;file=DD%20Form%20254%20Guide_updated%2025%20May%2022.docx&amp;action=default&amp;mobileredirect=true&amp;DefaultItemOpen=1"
-                  scope="external">
-               <u>Industrial
-Security SharePoint</u>
-            </xref> site.</p>
-        <p>(S-90) Solicitations shall not be released without an
-approved/signed DD Form 254. The HCO can waive this
-requirement.</p>
-        <p>(S-91) After the source selection recommendation has been made
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(c)(1) Instructions for filling out DD Forms 254 can be found on the <xref href="https://dod365.sharepoint-mil.us/Sites/DISA-Security/SitePages/Industrial-Security.aspx"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">Industrial Security SharePoint</xref>.</p>
+         <p class="- topic/p ">(S-90) Solicitations shall not be released without an approved/signed DD Form 254. The HCO can waive this requirement.</p>
+         <p class="- topic/p ">(S-91) After the source selection recommendation has been made
 and the contracting officer intends to process the award
 documentation, the contracting officer shall provide the PMO with
 the successful offeror’s DD Form 254, which includes the
@@ -27,5 +22,5 @@ requirements) to MP6 Industrial Security for review/approval; allow
 5 business days. The mission partner Security Manager will forward
 the approved DD Form 254 to PSD.</p>
       </conbody>
-    </concept>
+   </concept>
 </dita>

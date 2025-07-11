@@ -3,7 +3,7 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <map title="DARS" outputclass="dod">
    <title outputclass="Title">DARS</title>
-   <topicref navtitle="Volume X - Parts xxxx to xxxx"
+   <topicref navtitle="Volume I - Parts 5801 to 5850"
              href="Volume_I.dita"
              outputclass="subtopic"
              props=""
@@ -18,7 +18,7 @@
                 otherprops="NoProp"
                 base="NoTitle"
                 outputclass="SubPart"
-                xtrf="subtopic"
+                xtrf="SubPart"
                 xtrc="Cover_1.html"/>
    </topicref>
    <topicref href="PART_5801.dita"
@@ -324,6 +324,7 @@
                 outputclass="subtopic"
                 xtrf="subtopic"
                 audience="DARS_5802_000"
+                xtrc="DARS_5802_000.html"
                 tables="0"
                 figures="0"/>
       <topicref href="SUBPART_5802.1.dita"
@@ -341,7 +342,7 @@
                    navtitle="5802.101 Definitions"
                    base="concept"
                    audience="DARS_5802_101"
-                   xtrc=""
+                   xtrc="DARS_5802_101.html"
                    outputclass="subtopic"
                    xtrf="subtopic"
                    tables="0"
@@ -358,8 +359,8 @@
              tables="0"
              figures="0">
       <topicref href="SUBPART_5803.1.dita"
-                props="SUBPART 5801.1"
-                navtitle="SUBPART 5801.1 – SAFEGUARDS"
+                props="SUBPART 5803.1"
+                navtitle="SUBPART 5803.1 – SAFEGUARDS"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
@@ -1270,6 +1271,7 @@
                 outputclass="subtopic"
                 xtrf="subtopic"
                 audience="DARS_5810_001"
+                xtrc="DARS_5810_001.html"
                 tables="0"
                 figures="0"/>
       <topicref href="5810.002.dita"
@@ -1279,6 +1281,7 @@
                 outputclass="subtopic"
                 xtrf="subtopic"
                 audience="DARS_5810_002"
+                xtrc="DARS_5810_002.html"
                 tables="1"
                 figures="0"/>
    </topicref>
@@ -1773,6 +1776,7 @@
                 outputclass="subtopic"
                 xtrf="subtopic"
                 audience="DARS_5817_000"
+                xtrc="DARS_5817_000.html"
                 tables="0"
                 figures="0"/>
       <topicref href="SUBPART_5817.1.dita"
@@ -2144,17 +2148,18 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    tables="0"
-                   figures="0"/>
-         <topicref href="5819.804-2.dita"
-                   props="5819.804-2"
-                   navtitle="5819.804-2 Agency Offering"
-                   base="concept"
-                   audience="DARS_5819_804_2"
-                   xtrc=""
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   tables="0"
-                   figures="0"/>
+                   figures="0">
+            <topicref href="5819.804-2.dita"
+                      props="5819.804-2"
+                      navtitle="5819.804-2 Agency Offering"
+                      base="concept"
+                      audience="DARS_5819_804_2"
+                      xtrc=""
+                      outputclass="subtopic"
+                      xtrf="subtopic"
+                      tables="0"
+                      figures="0"/>
+         </topicref>
          <topicref href="5819.805-1.dita"
                    props="5819.805-1"
                    navtitle="5819.805-1 General"
@@ -2193,6 +2198,7 @@
                 outputclass="subtopic"
                 xtrf="subtopic"
                 audience="DARS_5822_001"
+                xtrc="DARS_5822_001.html"
                 tables="0"
                 figures="0"/>
       <topicref href="SUBPART_5822.1.dita"
@@ -2218,8 +2224,8 @@
       </topicref>
    </topicref>
    <topicref href="PART_5824.dita"
-             props="PART 5822"
-             navtitle="PART 5822 - PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION"
+             props="PART 5824"
+             navtitle="PART 5824 - PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION"
              base="NoTitle"
              outputclass="Part"
              xtrf="Part"
@@ -2615,6 +2621,7 @@
                 outputclass="subtopic"
                 xtrf="subtopic"
                 audience="DARS_5834_003"
+                xtrc="DARS_5834_003.html"
                 tables="0"
                 figures="0"/>
    </topicref>
@@ -2835,8 +2842,8 @@
                    figures="0"/>
       </topicref>
       <topicref href="SUBPART_5843.90.dita"
-                props="SUBPART 5843.9000"
-                navtitle="SUBPART 5843.9000 – SCOPE DETERMINATION"
+                props="SUBPART 5843.90"
+                navtitle="SUBPART 5843.90 – SCOPE DETERMINATION"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
@@ -2872,6 +2879,7 @@
                 outputclass="subtopic"
                 xtrf="subtopic"
                 audience="DARS_5845_000"
+                xtrc="DARS_5845_000.html"
                 tables="0"
                 figures="0"/>
       <topicref href="SUBPART_5845.1.dita"
@@ -3204,4 +3212,13 @@
                    figures="0"/>
       </topicref>
    </topicref>
+   <topicref href="Appendix_A.dita"
+             navtitle="Appendix A - Approval and Delegation Matrix"
+             outputclass="Part"
+             audience="DARS_Appendix-A"
+             xtrf="Part"
+             base="NoTitle"
+             props="Appendix A"
+             tables="0"
+             figures="0"/>
 </map>

@@ -87,11 +87,13 @@
                      <p>
                         <xref outputclass="fm:TOC" href="5819.804.dita#DARS_5819_804">5819.804 SBA Acceptance</xref>
                      </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5819.804-2.dita#DARS_5819_804_2">5819.804-2 Agency Offering</xref>
-                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5819.804-2.dita#DARS_5819_804_2">5819.804-2 Agency Offering</xref>
+                           </p>
+                        </li>
+                     </ul>
                   </li>
                   <li>
                      <p>

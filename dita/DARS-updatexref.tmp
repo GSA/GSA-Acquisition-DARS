@@ -3,7 +3,7 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <map title="DARS" outputclass="dod">
    <title outputclass="Title">DARS</title>
-   <topicref navtitle="Volume X - Parts xxxx to xxxx"
+   <topicref navtitle="Volume I - Parts 5801 to 5850"
              href="Volume_I.dita"
              outputclass="subtopic"
              props=""
@@ -18,7 +18,7 @@
                 otherprops="NoProp"
                 base="NoTitle"
                 outputclass="SubPart"
-                xtrf="subtopic"
+                xtrf="SubPart"
                 xtrc="Cover_1.html"/>
    </topicref>
    
@@ -303,6 +303,7 @@
       
       
          
+            
          
          
          
@@ -453,5 +454,6 @@
       
          
       
+   
    
 </map>

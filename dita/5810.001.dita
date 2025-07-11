@@ -1,21 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"><concept id="DARS_5810_001" class="- topic/topic concept/concept "><title class="- topic/title ">
-         <ph class="- topic/ph " props="autonumber">5810.001</ph> Policy</title><conbody class="- topic/body  concept/conbody "><p outputclass="List1" class="- topic/p ">(a)(2)(ii) The program office or the requiring activity must
+<dita>
+   <concept id="DARS_5810_001" class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5810.001</ph> Policy</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(a)(2)(ii) The program office or the requiring activity must
 address whether the acquisition can or cannot be set-aside for
-small businesses in the market research report.</p><p outputclass="List1" class="- topic/p ">(b) All Sources Sought Notices (SSN) and Requests for
+small businesses in the market research report.</p>
+         <p outputclass="List1" class="- topic/p ">(b) All Sources Sought Notices (SSN) and Requests for
 Information (RFI) for acquisitions with an estimated value
 exceeding $5M, with the exception of the Sole Source Notice of
-Intent, shall be forwarded to <xref format="html" href="mailto:disa.meade.osbp.mbx.ditco-small-business-office@mail.mil" scope="external" class="- topic/xref ">the
+Intent, shall be forwarded to <xref format="html"
+                  href="mailto:disa.meade.osbp.mbx.ditco-small-business-office@mail.mil"
+                  scope="external"
+                  class="- topic/xref ">the
 <u class="+ topic/ph hi-d/u ">DISA Office of Small Business Programs (OSBP)</u>
             </xref> for review
 to ensure, for example, potential sources are not requested to
 submit more than the minimum information necessary. OSBP has 5
-business days to complete the review.</p><p class="- topic/p ">(S-90) The contracting officer will thoroughly review and
-validate as appropriate the market research report.</p><p outputclass="List2" class="- topic/p ">(1) The program office or requiring activity and the contracting officer must fully document and detail market research with respect to small business participation. Market research must document to what extent the small business community, as a whole, has or does not have the ability to support the requirement. If the resulting acquisition strategy does not include a small business set-aside, market research documentation should explicitly explain why a set-aside is not appropriate. The contracting officer will certify by signature on the market research report whether or not the results support or do not support setting aside the acquisition.</p><p outputclass="List2" class="- topic/p ">(2) When market research indicates that the small business community, as a whole, does not possess the required capability or capacity to perform as a prime contractor, consideration must be given to small business subcontracting. The market research report should address subcontracting opportunities for small businesses.</p><p class="- topic/p ">(S-91) The contracting officer shall notify the OSBP via e-mail
+business days to complete the review.</p>
+         <p class="- topic/p ">(S-90) The contracting officer will thoroughly review and
+validate as appropriate the market research report.</p>
+         <p outputclass="List2" class="- topic/p ">(1) The program office or requiring activity and the contracting officer must fully document and detail market research with respect to small business participation. Market research must document to what extent the small business community, as a whole, has or does not have the ability to support the requirement. If the resulting acquisition strategy does not include a small business set-aside, market research documentation should explicitly explain why a set-aside is not appropriate. The contracting officer will certify by signature on the market research report whether or not the results support or do not support setting aside the acquisition.</p>
+         <p outputclass="List2" class="- topic/p ">(2) When market research indicates that the small business community, as a whole, does not possess the required capability or capacity to perform as a prime contractor, consideration must be given to small business subcontracting. The market research report should address subcontracting opportunities for small businesses.</p>
+         <p class="- topic/p ">(S-91) The contracting officer shall notify the OSBP via e-mail
 of all industry days, including date, time and location of event,
 in sufficient time for OSBP participation using the title
-“Industry Day Notification” to the OSBP email: <xref format="html" href="mailto:disa.meade.osbp.mbx.ditco-small-business-office@mail.mil" scope="external" class="- topic/xref ">
+“Industry Day Notification” to the OSBP email: <xref format="html"
+                  href="mailto:disa.meade.osbp.mbx.ditco-small-business-office@mail.mil"
+                  scope="external"
+                  class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">disa.meade.osbp.mbx.ditco-small-business-office@mail.mil</u>
-            </xref>.</p></conbody></concept></dita>
+            </xref>.</p>
+      </conbody>
+   </concept>
+</dita>

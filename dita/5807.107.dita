@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"><concept id="DARS_5807_107" class="- topic/topic concept/concept "><title class="- topic/title ">
-         <ph class="- topic/ph " props="autonumber">5807.107</ph> Consolidation</title><conbody class="- topic/body  concept/conbody "><p outputclass="List1" class="- topic/p ">(a) The HCA is delegated as the approval authority for consolidation determination and findings (D&amp;F). This authority may not be re-delegated. The DISA Office of Small Business Programs (OSBP) shall review the D&amp;F prior to being routed to the HCA for signature.</p></conbody></concept></dita>
+<dita>
+   <concept id="DARS_5807_107" class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5807.107</ph> Consolidation</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(a) The HCA is delegated as the approval authority for consolidation determination and findings (D&amp;F). This authority may not be re-delegated. The DISA Office of Small Business Programs (OSBP) shall review the D&amp;F prior to being routed to the HCA for signature.</p>
+      </conbody>
+   </concept>
+</dita>
