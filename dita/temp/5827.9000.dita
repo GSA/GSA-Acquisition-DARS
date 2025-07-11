@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DARS_5827_9000">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5827.9000</ph> Definitions</title>
+      <conbody>
+        <p>
+            <i>Trademark</i> is a word, phrase, symbol or design, or a
+combination that identifies your goods or services, distinguishes
+them from the goods or services of others, and indicates the source
+of your goods or services.</p>
+        <p>
+            <i>Service Mark</i> is a word, phrase, symbol or design, or a
+combination of words, phrases, symbols or designs, that identifies
+and distinguishes the source of a service of one party from that of
+other parties.</p>
+      </conbody>
+    </concept>
+</dita>

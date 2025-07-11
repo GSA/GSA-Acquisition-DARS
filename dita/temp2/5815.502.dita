@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DARS_5815_502">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5815.502</ph> Applicability</title>
+      <conbody>
+
+        <p>The DoD Source Selection Procedures and the Outline for
+Debriefings are located at the <xref format="html"
+                  href="https://www.ditco.disa.mil/DitcoContractingTemplates"
+                  scope="external">
+               <u>DISA
+Procurement – Contracting Procedures, Guides and
+Templates</u>
+            </xref> website.</p>
+      </conbody>
+    </concept>
+</dita>

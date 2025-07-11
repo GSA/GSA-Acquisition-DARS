@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DARS_5832_703_2">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5832.703-2</ph> Contracts Conditioned Upon
+Availability of Funds</title>
+      <conbody>
+        <p>(S-90) The standard DISA practice for awarding a contract action
+Subject to Availability of Funds (SAF) is based upon receipt of a
+SAF funding document from the mission partner. In the event an
+external mission partner cannot provide a SAF funding document, the
+Contracting Officer may accept a “Notice of Subject to
+Availability of Funds” memorandum in accordance with template
+provided at DARS PGI 5832.</p>
+      </conbody>
+    </concept>
+</dita>

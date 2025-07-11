@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DARS_5801_301">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5801.301</ph> Policy</title>
+      <conbody>
+        <p id="Toc351646719">The DARS will be numbered in accordance with
+the method prescribed in DFARS Subpart 201.3 Agency Acquisition
+Regulations.</p>
+      </conbody>
+    </concept>
+</dita>

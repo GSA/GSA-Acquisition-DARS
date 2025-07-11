@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DARS_PART_5827">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">PART 5827</ph> - PATENTS, DATA, AND COPYRIGHTS</title>
+      <body>
+         <p class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Revised: April 2024</i>
+         </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5827.90.dita#DARS_SUBPART_5827_90">SUBPART 5827.90 
+– TRADEMARK RIGHTS UNDER GOVERNMENT CONTRACTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5827.9000.dita#DARS_5827_9000">5827.9000 Definitions</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5827.9001.dita#DARS_5827_9001">5827.9001 Trademark Rights Under
+Government Contracts</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

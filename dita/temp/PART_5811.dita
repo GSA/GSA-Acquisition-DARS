@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DARS_PART_5811">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">PART 5811</ph> - DESCRIBING AGENCY NEEDS</title>
+      <body>
+         <p class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Revised: April 2024</i>
+         </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5811.1.dita#DARS_SUBPART_5811_1">SUBPART 5811.1 
+– SELECTING AND DEVELOPING REQUIREMENTS DOCUMENTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5811.101.dita#DARS_5811_101">5811.101 Order of
+Precedence for Requirements Documents</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5811.2.dita#DARS_SUBPART_5811_2">SUBPART 5811.2 – USING AND
+MAINTAINING REQUIREMENTS DOCUMENTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5811.274-6.dita#DARS_5811_274_6">5811.274-6 Contract Clauses</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5811.6.dita#DARS_SUBPART_5811_6">SUBPART 5811.6 – PRIORITIES AND
+ALLOCATIONS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5811.602.dita#DARS_5811_602">5811.602 General</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

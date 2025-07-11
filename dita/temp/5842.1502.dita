@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DARS_5842_1502">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5842.1502</ph> Policy</title>
+      <conbody>
+
+        <p outputclass="List1">(a) Documents to assist with Contractor Performance Assessment
+Reporting System (CPARS) to include the DISA CPARS Procedures are
+located at
+https://dod365.sharepoint-mil.us/sites/disa-PL2/SitePages/PL2-CPARS.aspx.
+Current Guidance for CPARS and the User Manual are available at <xref format="html"
+                  href="https://www.cpars.gov/help.htm"
+                  scope="external">
+               <u>https://www.cpars.gov/help.htm</u>
+            </xref>.</p>
+      </conbody>
+    </concept>
+</dita>

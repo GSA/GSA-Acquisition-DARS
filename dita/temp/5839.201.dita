@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DARS_5839_201">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5839.201</ph> Scope of Subpart</title>
+      <conbody>
+
+        <p>(S-90) <i>Section 508 Compliance.</i> The DoD Section 508
+policies are located at <xref format="html"
+                  href="http://dodcio.defense.gov/DoDSection508.aspx"
+                  scope="external">
+               <u>http://dodcio.defense.gov/DoDSection508.aspx</u>
+            </xref>.</p>
+      </conbody>
+    </concept>
+</dita>

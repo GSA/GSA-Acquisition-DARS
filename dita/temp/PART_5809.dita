@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DARS_PART_5809">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">PART 5809</ph> - CONTRACTOR QUALIFICATIONS</title>
+      <body>
+         <p class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Revised: April 2024</i>
+         </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5809.1.dita#DARS_SUBPART_5809_1">SUBPART 5809.1 
+– RESPONSIBLE PROSPECTIVE CONTRACTORS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5809.104-1.dita#DARS_5809_104_1">5809.104-1 General
+Standards</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5809.2.dita#DARS_SUBPART_5809_2">SUBPART 5809.2 – QUALIFICATIONS
+REQUIREMENTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5809.202.dita#DARS_5809_202">5809.202 Policy</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5809.206-1.dita#DARS_5809_206_1">5809.206-1 General</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5809.4.dita#DARS_SUBPART_5809_4">SUBPART 5809.4 – DEBARMENT,
+SUSPENSION, AND INELIGIBILITY</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5809.405.dita#DARS_5809_405">5809.405 Effect of Listing</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5809.406-3.dita#DARS_5809_406_3">5809.406-3 Procedures</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5809.5.dita#DARS_SUBPART_5809_5">SUBPART 5809.5 – ORGANIZATIONAL
+AND CONSULTANT CONFLICTS OF INTEREST</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5809.502.dita#DARS_5809_502">5809.502 Applicability</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5809.503.dita#DARS_5809_503">5809.503 Waiver</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5809.504.dita#DARS_5809_504">5809.504 Contracting officer
+responsibilities</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5809.506.dita#DARS_5809_506">5809.506 Procedures</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5809.508.dita#DARS_5809_508">5809.508 Examples</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

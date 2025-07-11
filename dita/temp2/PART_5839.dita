@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DARS_PART_5839">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">PART 5839</ph> - ACQUISITION OF INFORMATION TECHNOLOGY</title>
+      <body>
+         <p class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Revised: April 2024</i>
+         </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5839.1.dita#DARS_SUBPART_5839_1">SUBPART 5839.1 – GENERAL</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5839.101.dita#DARS_5839_101">5839.101 Policy</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5839.2.dita#DARS_SUBPART_5839_2">SUBPART 5839.2 – INFORMATION AND COMMUNICATION TECHNOLOGY</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5839.201.dita#DARS_5839_201">5839.201 Scope of Subpart</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5839.74.dita#DARS_SUBPART_5839_74">SUBPART 5839.74 – TELECOMMUNICATIONS SERVICES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5839.7401.dita#DARS_5839_7401">5839.7401 Definitions</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5839.7407.dita#DARS_5839_7407">5839.7407 Type of Contract</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DARS_5804_7103_2">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5804.7103-2</ph> Numbering procedures</title>
+      <conbody>
+        <p id="_5301.9001">(S-90) Contract line
+items for the base period are to be numbered 000x.</p>
+        <p>(S-91) Contract line items for the option periods are to be
+numbered sequentially: 100x for the first option year line items,
+200x for the second option year line items, 300x for the third
+option year line items, 400x for the fourth option year line items,
+etc.</p>
+        <p>(S-92) Line Item structure shall be accomplished in accordance
+with this DFARS subpart. In accordance with Defense Pricing and
+Contracting (DPC)/ memorandum, Line Item Structure, dated 14 Nov
+2014 “line item quantity and unit of measure must match the
+actual deliveries that are required of the contractor”. 1 LOT
+or 1 EA shall not be used if there are multiple items/systems
+required to be delivered by the contractor.</p>
+        <p>Each item/system shall be identified individually on a separate
+Contract Line Item with the appropriate quantity and unit of
+measure for the item/system. For further guidance, see DFARS PGI
+204.7103 and 7105.</p>
+      </conbody>
+    </concept>
+</dita>

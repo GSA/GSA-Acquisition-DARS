@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DARS_PART_5816">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">PART 5816</ph> - TYPES OF CONTRACTS</title>
+      <body>
+         <p class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Revised: April 2024</i>
+         </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5816.5.dita#DARS_SUBPART_5816_5">SUBPART 5816.5 
+– INDEFINITE-DELIVERY CONTRACTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5816.504.dita#DARS_5816_504">5816.504 
+Indefinite-Quantity Contracts</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5816.505.dita#DARS_5816_505">5816.505 Ordering</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5816.6.dita#DARS_SUBPART_5816_6">SUBPART 5816.6 – RESERVED</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5816.601.dita#DARS_5816_601">5816.601 Time-and-Materials
+Contracts</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

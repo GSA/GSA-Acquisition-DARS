@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DARS_5801_201_1">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5801.201-1</ph> The Two
+Councils</title>
+      <conbody>
+        <p id="Toc45291371">(S-90) All
+FAR, DFARS, and DARS policy and procedures change requests to
+include template, checklist, and corporate library shall be
+requested through the PS21 Policy and Procedures Mailbox, <xref format="html"
+                  href="mailto:disa.meade.PLD.mbx.pl21-policy-branch@mail.mil"
+                  scope="external">
+               <u>disa.meade.PLD.mbx.pl21-policy-branch@mail.mil</u>.</xref>
+The subject of the email shall provide the FAR, DFARS, or DARS
+section, Template Name, Checklist Name, or Corporate Library and
+identify if the change is Critical or Administrative.</p>
+      </conbody>
+    </concept>
+</dita>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DARS_5804_802">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5804.802</ph> Contract files</title>
+      <conbody>
+        <p id="Toc351646725">(S-90) The contracting officer shall use the
+contract file checklist applicable to the procurement and file the
+completed contract file checklist and any required supporting
+documents in the Electronic Document Management System (EDMS)
+contract file. The required checklists for procurements
+accomplished in accordance with FAR Part 8.4/Federal Supply
+Schedules and FAR Part 16.5/Indefinite Delivery Contracts, FAR Part
+12/Acquisition of Commercial Items, FAR Part 13/Simplified
+Acquisition Procedures, FAR Part 15/Contracting by Negotiation,
+IDIQ CSA Orders, and Inquiry/Quote/Order (IQO) Contracts are
+located in <xref format="html"
+                  href="https://dod365.sharepoint-mil.us/sites/disa-PL2/SitePages/Corporate-Library.aspx"
+                  scope="external">DARS
+PGI</xref> 5804.802(S-90). A new contract file checklist is required
+for each new procurement action.</p>
+        <p>(S-91) When using the Integrated Defense Enterprise Acquisition
+System (IDEAS), the system is the checklist and leads the user
+through the process by issuing various tasks when required.
+Therefore, (S-90) is not applicable when using IDEAS.</p>
+      </conbody>
+    </concept>
+</dita>

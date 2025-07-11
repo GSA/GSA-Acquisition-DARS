@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DARS_PART_5824">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">PART 5824</ph> - PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION</title>
+      <body>
+         <p class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Revised: May 2025</i>
+         </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5824.2.dita#DARS_SUBPART_5824_2">SUBPART 5824.2 
+– FREEDOM OF INFORMATION ACT</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5824.203.dita#DARS_5824_203">5824.203 Policy</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

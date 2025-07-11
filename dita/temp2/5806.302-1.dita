@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DARS_5806_302_1">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5806.302-1</ph> Only One
+Responsible Source and No Other Supplies or Services Will Satisfy
+Agency Requirements</title>
+      <conbody>
+        <p id="Toc351646717" outputclass="List1">(d) Limitations.</p>
+        <p>(S-90) The HCA has waived the requirement to issue a Request for
+Information (RFI) or Sources Sought Notice (SSN) as a market
+research method (see DARS 5810.001 (S-92)) for:</p>
+        <p outputclass="List2">(1) Procurement actions to increase the ceiling amount of a
+contract/order</p>
+        <p outputclass="List2">(2) Bridge contract actions</p>
+        <p outputclass="List2">(3) Procurement actions as a result of a protest</p>
+        <p>(S-91) Use of a SS notice meets the requirement at FAR 5.201 for
+making notices of proposed contract actions, when the SS notice
+also includes the information required at FAR 5.207(c)(15) and (16)
+and FAR 6.302-1(d)(2). Use of an RFI does not meet the requirements
+at FAR 5.207(c)(15), (16) and FAR 6.302-1(d)(2); a separate notice
+of proposed contract action is required if a sole source
+procurement will result from the requirement described in an
+RFI.</p>
+      </conbody>
+    </concept>
+</dita>

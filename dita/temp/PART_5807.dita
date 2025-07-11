@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DARS_PART_5807">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">PART 5807</ph> - ACQUISITION PLANNING</title>
+      <body>
+         <p class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Revised: April 2024</i>
+         </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5807.1.dita#DARS_SUBPART_5807_1">SUBPART 5807.1 – ACQUISITION PLANS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5807.101.dita#DARS_5807_101">5807.101 
+Definitions</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5807.103.dita#DARS_5807_103">5807.103 Agency-Head
+Responsibilities</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5807.104.dita#DARS_5807_104">5807.104 General procedures</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5807.105.dita#DARS_5807_105">5807.105 Contents of Written
+Acquisition Plans</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5807.107.dita#DARS_5807_107">5807.107 Consolidation</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

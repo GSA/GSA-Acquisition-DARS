@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DARS_5807_101">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5807.101</ph> 
+Definitions</title>
+      <conbody>
+        <p id="Toc351646714">
+            <i>Component Acquisition Executive
+(CAE).</i> The CAE has oversight and review authority for all
+acquisition matters. The CAE has the authority and is accountable
+for all acquisition functions and activities in the Agency.
+(Source: DISAI 610-225- 2)</p>
+        <p>
+            <i>Procurement Services Executive (PSE).</i> Serves as the
+DISA HCA.</p>
+        <p>
+            <i>DISA Mission Partner</i>. Internal DISA program office
+(i.e., requirements office).</p>
+        <p>
+            <i>DISA Program/Project</i>. A DISA funded logical grouping of
+requirements designed to provide a new, improved, or continuing
+capability in response to a validated operational capability.</p>
+        <p>
+            <i>High-Risk Contracts.</i> Cost reimbursement (CR) contracts,
+time-and-materials (T&amp;M) contracts, and labor-hour (LH)
+contracts. The definition of high-risk does not include direct 8(a)
+contracts equal to or below the competitive threshold in FAR
+19.805-1(a)(2).</p>
+        <p>
+            <i>High-Risk Contract Line Item Numbers (CLIN)</i>. CR,
+T&amp;M, and LH CLINs. When a combination of CLIN types are used
+(sometimes referred to as a “hybrid”), the contract is
+considered high-risk if the high-risk CLINs constitute 50% or more
+of the total estimated cost.</p>
+        <p>
+            <i>Integrated Product (or Process) Team (IPT).</i> A
+cross-functional team formed for the specific purpose of delivering
+a capability for an external or internal mission partner.</p>
+        <p>
+            <i>Independent Government Cost Estimate (IGCE).</i> The IGCE
+is a required evaluation tool in DISA source selections. As such
+its integrity is critical, and the PMO shall be responsible for
+ensuring that appropriate technical and cost and price analysts are
+involved in its development.</p>
+        <p>
+            <i>Non-DISA Mission Partner.</i> An external program office
+(i.e., requirements office), such as other DoD Components and
+Federal Agencies.</p>
+        <p>
+            <i>Program Executive Officer (PEO).</i> Appointed by the CAE
+to manage portfolios of programs, projects, initiatives, and
+services. (Source: DISAI 610-225-2)</p>
+        <p>
+            <i>Program Manager (PM) or Program Management Office
+(PMO).</i> The designated person (i.e., requirements official) or
+office responsible for the planning function of all phases of the
+acquisition cycle, and develops and maintains written plans, as
+required by statute, policy or regulation.</p>
+        <p>
+            <i>Decision Authority (DA).</i> Official designated by the CAE
+to manage portfolios of programs, projects, and services. The
+senior official responsible for ensuring that a proposed services
+acquisition is consistent with DoD’s policies, procedures,
+and best practices guidelines for the acquisition of services. The
+DA is responsible to identify, assess, validate, and approve
+services acquisition requirements within delegated thresholds. The
+approval of a requirement allows prioritization of mission
+requirements to best support mission needs within available funding
+limits.</p>
+      </conbody>
+    </concept>
+</dita>

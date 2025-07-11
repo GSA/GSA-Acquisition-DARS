@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DARS_5817_7404">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5817.7404</ph> Authorization</title>
+      <conbody>
+
+        <p>(S-90) The contracting officer shall obtain approval from the
+HCA before entering into an UCA or modifying the scope of an UCA
+when performance has already begun. The Request for HCA approval of
+a UCA is located in <xref format="html"
+                  href="https://dod365.sharepoint-mil.us/sites/disa-PL2/SitePages/Corporate-Library.aspx"
+                  scope="external">DARS
+PGI</xref> 5817.7404-1(S-90) and must be maintained in the contract
+file.</p>
+      </conbody>
+    </concept>
+</dita>

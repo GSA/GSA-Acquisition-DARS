@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DARS_PART_5842">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">PART 5842</ph> - CONTRACT ADMINISTRATION AND AUDIT SERVICES</title>
+      <body>
+         <p class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Revised: April 2024</i>
+         </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5842.15.dita#DARS_SUBPART_5842_15">SUBPART 5842.15 
+– CONTRACTOR PERFORMANCE INFORMATION</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5842.1502.dita#DARS_5842_1502">5842.1502 Policy</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5842.1503.dita#DARS_5842_1503">5842.1503 Procedures</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DARS_5804_101">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5804.101</ph> 
+Contracting Officer's Signature</title>
+      <conbody>
+        <p id="Toc351646713">(S-90) Original signatures or
+electronic signatures which utilize PKI certificates are considered
+binding and legal.</p>
+        <p>(S-91) Automatic telecommunications contract/order modifications
+that account for usage charges marked with IDEAS Generated
+Auto-Modification signature blocks are considered binding and
+legal.</p>
+      </conbody>
+    </concept>
+</dita>

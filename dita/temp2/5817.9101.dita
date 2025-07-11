@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DARS_5817_9101">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5817.9101</ph> Policy</title>
+      <conbody>
+
+        <p outputclass="List1">(a) The cognizant requirements office develops and initiates the
+Product Loan Agreement (PLA) using the instructions and automated
+application available at: <xref format="html"
+                  href="https://cmis.disa.mil/facilities/vendorloan/vendorloan.cfm"
+                  scope="external">
+               <u>https://cmis.disa.mil/facilities/vendorloan/vendorloan.cfm</u>
+            </xref>.</p>
+        <p outputclass="List1">(b) The contracting officer is the only individual authorized to
+enter into, administer, and terminate Product Loan Agreements on
+behalf of the Government. Unauthorized signatures on Product Loan
+Agreements may result in Anti-Deficiency Act violations.</p>
+      </conbody>
+    </concept>
+</dita>

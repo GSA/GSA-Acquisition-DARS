@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DARS_5817_501">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5817.501</ph> General</title>
+      <conbody>
+
+        <p>(S-90) DITCO is the organic contracting activity of DISA. If
+DITCO can procure the requirement, the Program Management Office
+shall work with DITCO contracting office to issue a general terms
+and conditions (GT&amp;C) agreement, unambiguous to the requesting
+and servicing agency. Prior to funds certification, the servicing
+agency and the requesting agency shall both sign a written
+interagency agreement that establishes the GT&amp;Cs governing the
+relationship between the parties. DISA, as a requesting agency, may
+use an external (non-DITCO) contracting agency. An approved
+determination and findings (D&amp;F) for an Interagency Assisted
+Acquisition, located at <xref format="html"
+                  href="https://www.ditco.disa.mil/Contracts/AcquisitionAgreements"
+                  scope="external">
+               <u>https://www.ditco.disa.mil/Contracts/AcquisitionAgreements</u>
+            </xref>,
+is required prior to submitting a requirements package to an
+external contracting office.</p>
+
+        <p>(S-91) Further guidance on how to conduct interagency
+acquisitions can be found in <xref format="html"
+                  href="https://dod365.sharepoint-mil.us/sites/disa-PL2/SitePages/Corporate-Library.aspx"
+                  scope="external">DARS
+PGI</xref> 5817.5.</p>
+      </conbody>
+    </concept>
+</dita>
